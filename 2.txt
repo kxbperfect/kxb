@@ -1157,45 +1157,15 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 辽宁体育,http://113.233.237.68:10010/rtp/232.0.0.164:1234
 辽宁北方,http://113.233.237.68:10010/rtp/232.0.0.151:1234
 辽宁北方,http://113.239.88.150:8818/hls/20/index.m3u8
-辽宁都市,http://113.239.88.150:8818/hls/15/index.m3u8
-辽宁都市,http://113.231.98.189:8818/hls/15/index.m3u8
-辽宁都市,http://113.239.88.150:8818/hls/15/index.m3u8
 辽宁体育,http://113.231.98.189:8818/hls/19/index.m3u8
 辽宁北方,http://113.231.98.189:8818/hls/20/index.m3u8
-辽宁影视剧,http://113.239.88.150:8818/hls/16/index.m3u8
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 辽宁都市,http://42.176.185.28:9901/tsfile/live/1005_1.m3u8
-辽宁教育,http://113.231.98.189:8818/hls/17/index.m3u8
-辽宁生活,http://113.231.98.189:8818/hls/18/index.m3u8
-辽宁经济,http://113.231.98.189:8818/hls/21/index.m3u8
-辽宁公共,http://113.231.98.189:8818/hls/22/index.m3u8
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 
-🛰吉林频道,#genre#
-吉林都市,http://61.138.167.36:9901/tsfile/live/1002_1.m3u8
-吉林生活,http://stream1.jlntv.cn/dspd/sd/live.m3u8
-吉林生活,http://stream1.jlntv.cn/shpd/sd/live.m3u8
-吉林乡村, 吉林山村,http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8
-吉林乡村, 吉林山村,https://live.sjsrm.com/bjsjs/sd/live.m3u8
-吉林乡村 (900p) [Not 24/7],https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
-吉林卫视,http://ictv.91tv.top:9901/tsfile/live/0116_1.m3u8
-吉林公共,http://stream1.jlntv.cn/ggpd/sd/live.m3u8
-吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
-吉林电影,http://stream1.jlntv.cn/yspd/sd/live.m3u8?_upt=f6b685651648171016
-吉林都市,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
-吉林都视,http://119.54.2.125:58000/hls/19/index.m3u8
-吉林生活,http://119.54.2.125:58000/hls/20/index.m3u8
-吉林影视,http://119.54.2.125:58000/hls/21/index.m3u8
-吉林乡村,http://119.54.2.125:58000/hls/22/index.m3u8
-吉林公共,http://119.54.2.125:58000/hls/23/index.m3u8
-吉林综艺,http://119.54.2.125:58000/hls/24/index.m3u8
-吉林教育,http://119.54.2.125:58000/hls/27/index.m3u8
-
 🛰黑龙江频道,#genre#
-黑龙江都市,http://39.134.65.106/wh7f454c46tw1524768213_390798268/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8?8
 黑龙江影视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226365/index.m3u8
 黑龙江农业科教,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226242/index.m3u8
-黑龙江,https://dispatch.ulivetv.net/v/live/cgwvptziwa0w.m3u8?stream_id=cgwvptziwa0w&timestamp=1686049210&rand=04ZpbmMxPK&uuid=9b647b3816b2a66a&from=web&sign=6b730728b35dfa356f3a1feccc41912d
 黑龙江少儿,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226304/index.m3u8
 黑龙江文体,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226239/index.m3u8
 黑龙江影视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226298/index.m3u8
@@ -1213,27 +1183,12 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 山东新闻,http://221.2.146.228:8888/newlive/live/hls/54/live.m3u8
 山东综艺,http://221.2.146.228:8888/newlive/live/hls/52/live.m3u8
 山东体育,http://221.2.146.228:8888/newlive/live/hls/53/live.m3u8
-山东教育,http://121.19.134.245:808/tsfile/live/1033_1.m3u8
 
 🛰河北频道,#genre#
-河北农民,http://cyz32.livehbindex.hbcatv.cn/live/500000202fa64c9bac01e09eaf06afd8.m3u8?bitrate=2300&pt=5
-河北公共,http://cyz32.livehbindex.hbcatv.cn/live/50000020f9834d34b527dec2d5ad8bb5.m3u8?bitrate=2300&pt=5
-河北农民,http://111.225.92.50:8800/hls/23/index.m3u8
-河北杂技,http://121.19.134.2:808/tsfile/live/1006_1.m3u8
-河北经济,http://111.225.95.13:8800/hls/18/index.m3u8
-河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
 河北经济,http://live.hyxrmt.com:85/live/xwpd.m3u8
 河北昌黎,http://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.flv
-河北都市高清,http://36.129.204.122:50001/hls/21/index.m3u8
-河北少儿科教,http://121.24.98.125:8090/hls/30/index.m3u8
-河北农民高清,http://36.129.204.122:50001/hls/25/index.m3u8
 河北|荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-河北影视剧高清,http://111.225.113.2:808/tsfile/live/1001_1.m3u8
-河北经济生活高清,http://121.19.134.215:808/tsfile/live/1000_1.m3u8
 河北|平泉影视频道,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
-河北生活,http://101.23.217.72:8090/hls/26/index.m3u8
-河北公共,http://101.23.217.72:8090/hls/31/index.m3u8
-河北杂技,http://121.24.98.235:8090/hls/60/index.m3u8
 
 浙江频道,#genre#
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
