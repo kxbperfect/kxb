@@ -1137,7 +1137,7 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226463/index.m3u8
 
-🌄陕西频道,#genre#
+🛰陕西频道,#genre#
 新闻资讯,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8?$陕西IPV6线路
 都市青春,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8?$陕西IPV6线路
 陕西生活,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8?$陕西IPV6线路
@@ -1190,7 +1190,7 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 河北|荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 河北|平泉影视频道,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
 
-浙江频道,#genre#
+🛰浙江频道,#genre#
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
