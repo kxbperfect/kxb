@@ -1807,7 +1807,7 @@ YY剧场怀旧,http://mmitv.top/pltv/yy.php?id=1382627144
 埋堆堆61,http://43.128.40.42:198/虎牙直播/huya.php?id=23728674
 埋堆堆47,http://43.128.40.42:198/虎牙直播/huya.php?id=23865142
 
-逗鱼,#genre#
+斗鱼,#genre#
 华语经典,http://epg.112114.xyz/douyu/434971
 吃米滴虫,http://epg.112114.xyz/douyu/315457
 神乐*1,http://epg.112114.xyz/douyu/122402
