@@ -16,6 +16,7 @@ CCTV4,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001290/in
 CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw87051090_192148031/ott.mobaibox.com/PLTV/3/224/3221227537/index.m3u8?icpid=3&RTS=1674380202&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3847208563_882248521/ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8?icpid=3&RTS=1668594346&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 CCTV5,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -1136,7 +1137,7 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226463/index.m3u8
 
-🛰陕西频道,#genre#
+🌄陕西频道,#genre#
 新闻资讯,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8?$陕西IPV6线路
 都市青春,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8?$陕西IPV6线路
 陕西生活,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8?$陕西IPV6线路
@@ -1189,7 +1190,7 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 河北|荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 河北|平泉影视频道,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
 
-🛰浙江频道,#genre#
+浙江频道,#genre#
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -1791,7 +1792,13 @@ NBA直播不定时,https://ff.chgdst.com/live/xiaoling99.m3u8
 🎬电影频道👉全网,#genre#
 邵氏影院@代,http://159.75.85.63:35455/douyu/4246519
 邵氏影院@代,http://43.138.170.29:35455/douyu/4246519
-周星星影@代,http://unruly-blade.000webhostapp.com/huya.php?id=11342412
+周星星影@代,http://maomao.kandiantv.cn/douyu1.php?id=122402
+周星星影@代,http://tx-screenshots.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?
+周星星影@代,http://hls.ye23.vip/wl/huya2205.php?id=11342412
+周星星影@代,https://epg.112114.xyz/huya/11342412
+周星星影@代,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353881242
+周星星影@代,http://43.137.29.124/txdirect.flv.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.m3u8??
+周星星影@代,http://akm-tct.douyucdn.cn/live/122402rK7MO9bXSq.m3u8
 超级影院ipv6,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
 大吉大利影院,https://pull.kktv8.com/livekktv/128600025.flv
 CHC动作联通,http://appleliuxu.top:8888/udp/239.253.254.153:8000
@@ -1909,6 +1916,37 @@ YY剧场怀旧,http://mmitv.top/pltv/yy.php?id=1382627144
 新泰影院频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
 新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 河北频道影院,http://121.29.111.35:8888/udp/239.253.2.20:8100
+CQTV影视,http://113.248.111.89:8181/rtp/235.254.198.180:7980
+BRTV影视,http://hf.bbtu.top:10000/rtp/239.3.1.228:8000
+广西影视,http://113.13.240.139:5555/udp/239.81.0.250:4056
+东方影视,http://180.164.21.180:2222/udp/239.45.3.237:5140
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
+安徽影视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8
+欧美影视,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+江苏影视,http://222.189.51.62:8888/newlive/live/hls/54/live.m3u8
+绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+广东影视,http://lhq-cctv.8866.org:18181/tsfile/live/1030_1.m3u8
+山西影视,http://223.10.16.135:18000/hls/17/index.m3u8
+东方影视,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
+重庆影视HD,http://27.10.100.35:8001/udp/225.0.4.192:7980
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
+辽宁影视剧,http://113.239.88.150:8818/hls/16/index.m3u8
+隆化影视频道,http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
+佛山影视高清,http://113.118.205.252:4022/udp/239.253.43.56:5146
+定州国学影视,https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
+上海东方影视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
+佛山影视 高清,http://222.217.243.197:8181/tsfile/live/0139_1.m3u8
+黑龙江影视频道,http://39.134.67.108/PLTV/88888888/224/3221225973/1.m3u8
+河北影视剧高清,http://111.225.113.2:808/tsfile/live/1001_1.m3u8
+新昌休闲影视 (1080p),http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+新昌休闲影视 (1080p) [Not 24/7],https://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+4K影视,http://nas.jdshipin.com:8801/4kys.php
+4K影视,http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+4K影视2,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+BRTV影视,http://hf.bbtu.top:10000/rtp/239.3.1.158:8000
+BTV4影视,http://tv6.blcu.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/67470475d6-0-0-db5f2bf02b0b274633430f403220869d/index.m3u8
+BTV4影视,http://jh.d7g.cn/tv/zx2023.php?id=402
+
 
 轮播,#genre#
 星爷,https://live.metshop.top/huya/11342412
@@ -1971,7 +2009,9 @@ YY剧场怀旧,http://mmitv.top/pltv/yy.php?id=1382627144
 剧集_庆余年,https://live.metshop.top/huya/11352960
 剧集_雍正王朝,https://live.metshop.top/huya/11342439
 剧集_士兵突击,https://live.metshop.top/huya/11342430
+剧集_爱情公寓,http://epg.112114.xyz/douyu/6863367
 剧集_爱情公寓,https://live.metshop.top/huya/11336726
+开心麻花经典小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 剧集_武林外传,https://live.metshop.top/huya/21059598
 剧集_地下交通站,https://live.metshop.top/huya/11342433
 剧集_邻里一家亲,https://live.metshop.top/huya/11342426
@@ -2019,7 +2059,18 @@ YY剧场怀旧,http://mmitv.top/pltv/yy.php?id=1382627144
 埋堆堆61,http://43.128.40.42:198/虎牙直播/huya.php?id=23728674
 埋堆堆47,http://43.128.40.42:198/虎牙直播/huya.php?id=23865142
 
-斗鱼,#genre#
+斗鱼直播,#genre#
+一阵雨,http://epg.112114.xyz/douyu/66666
+SSS,http://epg.112114.xyz/douyu/86888
+TRY人生导师,http://epg.112114.xyz/douyu/5592288
+周淑怡,http://epg.112114.xyz/douyu/290935
+59,http://epg.112114.xyz/douyu/5168755
+米娜,http://epg.112114.xyz/douyu/5551871
+RM点播,http://epg.112114.xyz/douyu/131977
+七师傅T-ARA,http://epg.112114.xyz/douyu/17732
+小淘气动漫解说,http://epg.112114.xyz/douyu/9527700
+秦虹,http://epg.112114.xyz/douyu/105498
+边哥,http://epg.112114.xyz/douyu/3952247
 华语经典,http://epg.112114.xyz/douyu/434971
 吃米滴虫,http://epg.112114.xyz/douyu/315457
 神乐*1,http://epg.112114.xyz/douyu/122402
@@ -2059,6 +2110,8 @@ YY剧场怀旧,http://mmitv.top/pltv/yy.php?id=1382627144
 斗鱼小品,http://epg.112114.xyz/douyu/3980787
 斗鱼探险,http://epg.112114.xyz/douyu/3485629
 斗鱼动画,http://epg.112114.xyz/douyu/7528160
+斗鱼电影-贝贝影院,http://epg.112114.xyz/douyu/431460
+斗鱼电影-特辑影院,http://epg.112114.xyz/douyu/3637778
 斗鱼1,http://epg.112114.xyz/douyu/2935323
 斗鱼2,http://epg.112114.xyz/douyu/7459925
 斗鱼3,http://epg.112114.xyz/douyu/431460
@@ -2127,6 +2180,40 @@ YY剧场怀旧,http://mmitv.top/pltv/yy.php?id=1382627144
 斗鱼搞笑HD3,http://epg.112114.xyz/douyu/9067836
 斗鱼搞笑HD4,http://epg.112114.xyz/douyu/9817729
 斗鱼搞笑HD5,http://epg.112114.xyz/douyu/8737695
+
+虎牙直播,#genre#
+虎牙电影-香港电影,http://epg.112114.xyz/huya/11602058
+虎牙直播-永远快乐的小美女(斗地主),http://epg.112114.xyz/douyu/6091425
+虎牙电影1,http://epg.112114.xyz/huya/11602058
+虎牙电影1,http://hls.ye23.vip/wl/huya2205.php?id=11602077
+虎牙电影2,http://hls.ye23.vip/wl/huya2205.php?id=11342388
+虎牙电影2,http://epg.112114.xyz/huya/11601968
+虎牙电影3,http://hls.ye23.vip/wl/huya2205.php?id=11352965
+虎牙电影3,http://epg.112114.xyz/huya/11342412
+虎牙电影4,http://epg.112114.xyz/huya/11342386
+虎牙电影5,http://epg.112114.xyz/huya/11601986
+虎牙电影6,http://epg.112114.xyz/huya/11601971
+虎牙电影7,http://epg.112114.xyz/huya/11336592
+虎牙电影8,http://epg.112114.xyz/huya/11342390
+虎牙电影9,http://epg.112114.xyz/huya/11352941
+虎牙电影10,http://epg.112114.xyz/huya/11279251
+虎牙电影11,http://epg.112114.xyz/huya/11602041
+虎牙电影12,http://epg.112114.xyz/huya/11352963
+虎牙电影14,http://epg.112114.xyz/huya/11602075
+虎牙电影15,http://epg.112114.xyz/huya/11352962
+虎牙电影16,http://epg.112114.xyz/huya/11336571
+虎牙电影17,http://epg.112114.xyz/huya/11342427
+虎牙电影18,http://epg.112114.xyz/huya/11336719
+虎牙电影19,http://epg.112114.xyz/huya/11352894
+虎牙电影20,http://epg.112114.xyz/huya/11352877
+虎牙电影21,http://epg.112114.xyz/huya/11602077
+虎牙电影22,http://epg.112114.xyz/huya/11601960
+虎牙电影23,http://epg.112114.xyz/huya/11352965
+虎牙电影24,http://epg.112114.xyz/huya/11342435
+虎牙电影25,http://epg.112114.xyz/huya/11352886
+虎牙电影26,http://epg.112114.xyz/huya/11602044
+
+
 
 日本综合,#genre#
 NHK-G综合,P2p://generationnexxxt.com:19806/810050ee3b224cffbff84c07e53c499a
