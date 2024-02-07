@@ -1234,7 +1234,7 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 泰安新泰新闻综合, http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8
 泰安新泰影视, http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
 
-🌄陕西地方,#genre#
+🛰陕西地方,#genre#
 新闻资讯,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8?$陕西IPV6线路
 都市青春,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8?$陕西IPV6线路
 陕西生活,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8?$陕西IPV6线路
@@ -2659,7 +2659,7 @@ MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 东森购物1台,mitv://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
 东森购物2台,mitv://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
 
-日本综合,#genre#
+🌏日本综合,#genre#
 NHK-G综合,P2p://generationnexxxt.com:19806/810050ee3b224cffbff84c07e53c499a
 NHK-E教育,P2p://generationnexxxt.com:19806/797e091247a14ad2a918c9cb2e95cca3
 日本テレビ,P2p://generationnexxxt.com:19806/e83c93ef5c914ed3826fe7856b81acf0
@@ -2699,7 +2699,7 @@ MusicJapanTV,P2p://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e075
 日テレNEWS24,P2p://generationnexxxt.com:19806/c7154b60dd934b43a1e42a0fc1b38734
 旅チャンネル,P2p://generationnexxxt.com:19806/bab71e3fb519479ea64543d006b8089f
 
-韩国早知,#genre#
+🌏韩国早知,#genre#
 Arirang,P2p://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
 KBS1,P2p://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 KBS2,P2p://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507
