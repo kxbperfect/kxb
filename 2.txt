@@ -3217,7 +3217,8 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f
 🎬电影频道👉全网,#genre#
 邵氏影院@代,http://159.75.85.63:35455/douyu/4246519
 邵氏影院@代,http://43.138.170.29:35455/douyu/4246519
-周星星影@代,https://epg.112114.xyz/huya/11342412
+周星星影@代,http://tx.hls.huya.com/src/11342412
+周星星影@代,http://hw.hls.huya.com/src/11342412
 周星星影@代,http://maomao.kandiantv.cn/douyu1.php?id=122402
 周星星影@代,http://tx-screenshots.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv?
 周星星影@代,http://hls.ye23.vip/wl/huya2205.php?id=11342412
