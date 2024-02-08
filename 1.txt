@@ -1137,12 +1137,13 @@ CETV-4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226409/index.m3u8
 重庆卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226463/index.m3u8
 
-🛰央卫视IPV4,#genre#
+🛰IPV4,#genre#
 CCTV-1高清,http://61.243.162.133:9901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2高清,http://61.243.162.133:9901/tsfile/live/1157_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3高清,http://61.243.162.133:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4高清,http://61.243.162.133:9901/tsfile/live/1158_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5高清,http://61.243.162.133:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+高清,http://61.243.162.133:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6高清,http://61.243.162.133:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7高清,http://61.243.162.133:9901/tsfile/live/1159_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8高清,http://61.243.162.133:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1155,7 +1156,6 @@ CCTV-14高清,http://61.243.162.133:9901/tsfile/live/1163_1.m3u8?key=txiptv&play
 CCTV-15高清,http://61.243.162.133:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16高清,http://61.243.162.133:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17高清,http://61.243.162.133:9901/tsfile/live/1164_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+高清,http://61.243.162.133:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视高清,http://61.243.162.133:9901/tsfile/live/1165_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁北方,http://61.243.162.133:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁都市,http://61.243.162.133:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1212,6 +1212,13 @@ CCTV5+高清,http://61.243.162.133:9901/tsfile/live/1015_1.m3u8?key=txiptv&playl
 风云足球,http://61.243.162.133:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🛰辽宁地方,#genre#
+辽宁北方,http://61.243.162.133:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁都市,http://61.243.162.133:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁公共,http://61.243.162.133:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁经济,http://61.243.162.133:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁生活,http://61.243.162.133:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁体育,http://61.243.162.133:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁影视剧,http://61.243.162.133:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁都市,http://jd.sy012.com:4000/udp/232.0.0.42:8856
 辽宁体育,http://jd.sy012.com:4000/udp/232.0.0.66:8820
 辽宁影视剧,http://jd.sy012.com:4000/udp/232.0.0.97:8534
@@ -1240,7 +1247,6 @@ CCTV5+高清,http://61.243.162.133:9901/tsfile/live/1015_1.m3u8?key=txiptv&playl
 辽宁生活,http://42.176.185.28:9901/tsfile/live/1006_1.m3u8
 辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
 丹东新闻综合,http://mmitv.top/test/tianma.php?id=ddzh
-
 葫芦岛综合,http://jd.sy012.com:4000/udp/232.0.0.238:9260
 葫芦岛公共,http://jd.sy012.com:4000/udp/232.0.0.239:9262
 
