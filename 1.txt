@@ -2520,7 +2520,8 @@ MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7n
 岳云鹏相声给我个机会,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fab0000buf8p6s0srttfb9ulotg&ratio=720p&line=0
 孔云龙扒马褂,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fg10000c7la4l3c77u5vs0abgs0&ratio=720p&line=0
 经典小品[1920x1080],http://epg.112114.xyz/douyu/9067836
-相声小品[960x540],http://epg.112114.xyz/douyu/9286868
+相声小品,rtsp://115.153.233.154/PLTV/88888888/224/3221226989/86441091.smil
+相声小品,rtsp://115.153.245.70/PLTV/88888888/224/3221226989/86441091.smil
 
 
 📽NewTV频道,#genre#
