@@ -1155,7 +1155,7 @@ CCTV13,http://fxgm.fxjf.work:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1
 CCTV14,http://fxgm.fxjf.work:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://fxgm.fxjf.work:19901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://171.106.217.67:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://171.106.217.67:8181/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV17,http://jltpc.x3322.net:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV1,http://101.19.60.244:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://101.19.60.244:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1171,6 +1171,21 @@ CCTV11,http://101.19.60.244:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&a
 CCTV12,http://101.19.60.244:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://101.19.60.244:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://101.19.60.244:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://101.19.60.142:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://101.19.60.142:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://101.19.60.142:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://101.19.60.142:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://101.19.60.142:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://101.19.60.142:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://101.19.60.142:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://101.19.60.142:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://101.19.60.142:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://101.19.60.142:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://101.19.60.142:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://101.19.60.142:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://101.19.60.142:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://101.19.60.142:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+
 辽宁卫视,http://fxgm.fxjf.work:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://fxgm.fxjf.work:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 天津卫视,http://fxgm.fxjf.work:19901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1272,7 +1287,7 @@ CCTV12,http://112.235.202.141:9901/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1
 CCTV13,http://112.235.202.141:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://112.235.202.141:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://112.235.202.141:9901/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://112.235.202.141:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+
 山东齐鲁,http://112.235.202.141:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东文旅,http://112.235.202.141:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 山东生活,http://112.235.202.141:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2142,12 +2157,6 @@ CCTV5+,http://202311221700.iptv.hongruida.work:8800/tsfile/live/0131_1.m3u8?key=
 天津卫视,http://202311221700.iptv.hongruida.work:8800/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://202311221700.iptv.hongruida.work:8800/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://202311221700.iptv.hongruida.work:8800/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-
-
-
-
 
 
 🛰辽宁地方,#genre#
@@ -5344,6 +5353,7 @@ ET,http://epg.112114.xyz/douyu/73639
 春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+春晚2024,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
 春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
 春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
 春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
