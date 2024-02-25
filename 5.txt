@@ -18,6 +18,8 @@
 
 { "url": "http://xiaohu.xzam.cn/xiaohu", "name": "小胡" },
 
+{ "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kxbperfect/kxb/main/1.json", "name": "锦哥" },
+
 { "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "少儿频道" },
 
 { "url": "https://u.kstore.space/download/2904/258.txt", "name": "🌟资源全部免费" },
