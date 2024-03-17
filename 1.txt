@@ -4978,8 +4978,12 @@ TRY人生导师,http://epg.112114.xyz/douyu/5592288
 骆歆,http://epg.112114.xyz/douyu/5189167
 王雨檬,http://epg.112114.xyz/douyu/139277
 温柔,http://epg.112114.xyz/douyu/303276
-枪魂冰子,http://epg.112114.xyz/douyu/5324388
+抖音旭旭宝宝,https://pull-hs-f5.flive.douyincdn.com/thirdgame/stream-114801872950002442_expsd.flv?abr_pts=-800&_session_id=037-20240317215945378A564A70D76C556F58.1710683987833.09598
 59,http://epg.112114.xyz/douyu/5168755
+抖音马区,https://pull-hs-f5.flive.douyincdn.com/thirdgame/stream-114801454316258058_expsd.flv?abr_pts=-800&_session_id=037-20240317221821D3246CB623F3C5BBC19B.1710685103439.90397
+抖音糊涂仙,https://pull-flv-l6.douyincdn.com/third/stream-114801435523153959_sd.flv?k=53a58406cd81d00b&t=1711290310&abr_pts=-800&_session_id=037-2024031722250977E6BC96C5CEA6FD4B32.1710685511717.40282
+抖音夏法,https://pull-hs-f5.flive.douyincdn.com/thirdgame/stream-403031802013811466_expsd.flv?abr_pts=-800&_session_id=037-202403172226357A3E5D51D4651A6B4071.1710685597350.55537
+抖音阿旺,https://pull-hs-f5.flive.douyincdn.com/thirdgame/stream-114801432511120138_expsd.flv?abr_pts=-800&_session_id=037-2024031722312016686DE99EA629CB9D00.1710685882496.50364
 庄大蹦,http://epg.112114.xyz/douyu/6030575
 赛文柒,http://epg.112114.xyz/douyu/105025
 木星劲乐团,http://epg.112114.xyz/douyu/42388
@@ -4989,6 +4993,7 @@ RM1,http://epg.112114.xyz/douyu/131977
 RM2,http://epg.112114.xyz/douyu/11954695
 七师傅T-ARA,http://epg.112114.xyz/douyu/17732
 小淘气动漫解说,http://epg.112114.xyz/douyu/9527700
+抖音夜枫,https://pull-flv-l11.douyincdn.com/third/stream-114801221917737436_sd.flv?expire=1711290016&sign=79d38e5d5f01c9fc75361a26054578ce&abr_pts=-800&_session_id=037-2024031722201675407051730FAB5AF36A.1710685218110.70172
 秦虹,http://epg.112114.xyz/douyu/105498
 包王,http://epg.112114.xyz/douyu/66226
 阿帮,http://epg.112114.xyz/douyu/11437
@@ -5355,7 +5360,6 @@ ET,http://epg.112114.xyz/douyu/73639
 春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-春晚2024,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
 春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
 春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
 春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
