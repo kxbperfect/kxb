@@ -1215,15 +1215,6 @@ CCTV17,http://jltpc.x3322.net:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1
 深圳卫视,http://fxgm.fxjf.work:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 厦门卫视,http://fxgm.fxjf.work:19901/tsfile/live/0129_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://fxgm.fxjf.work:19901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁都市,http://fxgm.fxjf.work:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁影视剧,http://fxgm.fxjf.work:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁体育,http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁生活,http://fxgm.fxjf.work:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁教育青少,http://fxgm.fxjf.work:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁北方,http://fxgm.fxjf.work:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁公共,http://fxgm.fxjf.work:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁经济,http://fxgm.fxjf.work:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁移动电视,http://fxgm.fxjf.work:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://fxgm.fxjf.work:19901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 延边卫视,http://fxgm.fxjf.work:19901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://fxgm.fxjf.work:19901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2157,15 +2148,26 @@ CCTV15,http://202311221700.iptv.hongruida.work:8800/tsfile/live/0015_1.m3u8?key=
 
 
 🛰辽宁地方,#genre#
-辽宁都市,http://fxgm.fxjf.work:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁影视剧,http://fxgm.fxjf.work:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁体育,http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁生活,http://fxgm.fxjf.work:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁教育青少,http://fxgm.fxjf.work:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁北方,http://fxgm.fxjf.work:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁公共,http://fxgm.fxjf.work:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁经济,http://fxgm.fxjf.work:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁移动电视,http://fxgm.fxjf.work:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://42.52.39.93:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://42.52.39.198:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁都市,http://42.52.39.93:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁影视剧,http://42.52.39.93:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁体育,http://42.52.39.93:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁生活,http://42.52.39.93:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁教育青少,http://42.52.39.93:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁北方,http://42.52.39.93:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁公共,http://42.52.39.93:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁经济,http://42.52.39.93:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁移动电视,http://42.52.39.93:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁都市,http://42.52.39.198:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁影视剧,http://42.52.39.198:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁体育,http://42.52.39.198:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁生活,http://42.52.39.198:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁教育青少,http://42.52.39.198:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁北方,http://42.52.39.198:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁公共,http://42.52.39.198:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁经济,http://42.52.39.198:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁移动电视,http://42.52.39.198:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 🛰吉林地方,#genre#
@@ -2210,10 +2212,13 @@ CCTV15,http://202311221700.iptv.hongruida.work:8800/tsfile/live/0015_1.m3u8?key=
 双鸭山综合,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 
 🛰山东地方,#genre#
-山东生活,http://113.123.196.234:9999/udp/239.21.1.175:5002
-山东齐鲁,http://113.123.196.234:9999/udp/239.21.1.134:5002
-山东农科,http://113.123.196.234:9999/udp/239.21.1.183:5002
-山东体育,http://113.123.196.234:9999/udp/239.21.1.141:5002
+山东齐鲁,http://222.173.134.150:8888/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+山东新闻,http://222.173.134.150:8888/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+山东综艺,http://222.173.134.150:8888/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+山东文旅,http://222.173.134.150:8888/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+山东生活,http://222.173.134.150:8888/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+山东体育,http://222.173.134.150:8888/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+山东少儿,http://222.173.134.150:8888/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 山东齐鲁,http://222.173.134.150:8888/tsfile/live/1001_1.m3u8
 山东齐鲁,http://221.2.146.228:8888/newlive/live/hls/49/live.m3u8
 山东公共,http://182.46.8.161:8018/hls/23/index.m3u8
@@ -4882,7 +4887,7 @@ TRY人生导师,http://epg.112114.xyz/douyu/5592288
 周淑怡,http://epg.112114.xyz/douyu/290935
 骆歆,http://epg.112114.xyz/douyu/5189167
 王雨檬,http://epg.112114.xyz/douyu/139277
-小苏菲,https://bb405ebc04a49ddd83a23609493ffd7a.h2.smtcdns.net/pull-flv-l11.douyincdn.com/stage/stream-114807807247909009_hd.flv?expire=1711375975&sign=d8f3f1593d650e34699011d1e91238e1&abr_pts=-800&_session_id=037-202403182212549049D43A9121F85633DD.1710771177496.29669&TxLiveCode=cold_stream&TxDispType=3&svr_type=live_oc&tencent_test_client_ip=182.202.14.129&dispatch_from=OC_MGR123.247.80.100&utime=1710771177491
+小苏菲,http://pull-l3.douyincdn.com/stage/stream-7348079093323156263_or4.m3u8?auth_key=1711464433-0-0-c1ea1f804d04d8663a186bd9593a8179
 抖音旭旭宝宝,http://pull-hls-l1.douyincdn.com/thirdgame/stream-114813441576534792_expuhd/playlist.m3u8?keeptime=00093a80&wsSecret=d682399f2fc46918c14e228bbe0d934b&wsTime=65f98fc6
 59,http://epg.112114.xyz/douyu/5168755
 抖音马区,http://pull-hs-f5.flive.douyincdn.com/thirdgame/stream-403043377082532618_expuhd/index.m3u8
@@ -4912,6 +4917,7 @@ ET,http://epg.112114.xyz/douyu/73639
 傲视张无忌,http://epg.112114.xyz/douyu/787951
 哈尔滨孟哥,http://pull-hls-l26.douyincdn.com/third/stream-114813271597122022.m3u8?expire=6602c757&sign=f93eee0cdc11620d6f3aa36da36d61a1
 长春光明,http://pull-hls-l11.douyincdn.com/third/stream-691273950804574684_or4.m3u8?expire=1711458174&sign=23ca46adbffc168503d74517403d0dd2
+醉逍遥游戏解说,http://pull-hls-l11.douyincdn.com/third/stream-114813131657839068_or4.m3u8?expire=1711460367&sign=5c3fcd6e69991a55a37d996e384323d9
 大枪炮狗,http://epg.112114.xyz/douyu/5029350
 超级小杰,http://epg.112114.xyz/douyu/74751
 科幻Fans,http://epg.112114.xyz/douyu/3508304
