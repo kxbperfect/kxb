@@ -17,26 +17,6 @@ CCTV14,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV15,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CGTN,https://live.goodiptv.club/api/cqyx.php?id=cgtnSD
-CETV-1,https://live.goodiptv.club/api/cqyx.php?id=cetv-1SD
-CETV-4,https://live.goodiptv.club/api/cqyx.php?id=cetv-4SD
-CCTV生活时尚,https://live.goodiptv.club/api/cqyx.php?id=shenghuo
-CCTV百姓健康,https://live.goodiptv.club/api/cqyx.php?id=jiankangSD
-CCTV快乐垂钓,https://live.goodiptv.club/api/cqyx.php?id=klcdHD
-CCTV第一剧场,https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
-CCTV都市剧场,https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
-CCTV动漫秀场,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
-CCTV魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
-CCTV风云剧场,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
-CCTV求索纪录,https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
-CCTV兵器科技,https://live.goodiptv.club/api/cqyx.php?id=bqkjHD
-CCTV游戏风云,https://live.goodiptv.club/api/cqyx.php?id=yxfyHD
-CCTV怀旧剧场,https://live.goodiptv.club/api/cqyx.php?id=hjjcHD
-CCTV风云音乐,https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
-CCTV央视台球,https://live.goodiptv.club/api/cqyx.php?id=ystqHD
-CCTV央视高网,https://live.goodiptv.club/api/cqyx.php?id=golfHD
-CCTV风云足球,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
-CCTV文化精品,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
 
 CCTV兵器科技,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 CCTV怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
@@ -1158,6 +1138,7 @@ CCTV14,http://fxgm.fxjf.work:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1
 CCTV15,http://fxgm.fxjf.work:19901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://171.106.217.67:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://jltpc.x3322.net:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+央视台球,https://live.goodiptv.club/api/bestv.php?id=ystqhd8m/8000000
 
 
 辽宁卫视,http://fxgm.fxjf.work:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
