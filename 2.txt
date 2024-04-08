@@ -1138,7 +1138,8 @@ CCTV14,http://fxgm.fxjf.work:19901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1
 CCTV15,http://fxgm.fxjf.work:19901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://171.106.217.67:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://jltpc.x3322.net:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-央视台球,https://live.goodiptv.club/api/bestv.php?id=ystqhd8m/8000000
+央视台球,https://live.metshop.top/cctv/cctv1
+央视台球,https://live.metshop.top/cctv/ystq
 
 
 辽宁卫视,http://fxgm.fxjf.work:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1456,6 +1457,15 @@ CCTV5+体育赛事,http://42.52.39.93:19901/tsfile/live/0016_1.m3u8?key=txiptv&p
 
 
 🛰辽宁地方,#genre#
+辽宁都市,http://fxgm.fxjf.work:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁影视剧,http://fxgm.fxjf.work:19901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁体育,http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁生活,http://fxgm.fxjf.work:19901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁教育青少,http://fxgm.fxjf.work:19901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁北方,http://fxgm.fxjf.work:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁公共,http://fxgm.fxjf.work:19901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁经济,http://fxgm.fxjf.work:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁移动电视,http://fxgm.fxjf.work:19901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://42.52.39.93:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://42.52.39.198:19901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁都市,http://42.52.39.93:19901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
