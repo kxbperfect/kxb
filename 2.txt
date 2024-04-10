@@ -1380,7 +1380,7 @@ CCTV电视指南,https://www.goodiptv.club/live/dszn
 CCTV女性时尚,http://175.147.76.205:8888/rtp/232.0.0.51:1234
 CCTV央视文化精品,http://175.147.76.205:8888/rtp/232.0.0.56:1234
 CCTV世界地理,http://175.147.76.205:8888/rtp/232.0.0.63:1234
-CCTV高尔夫网球,https://www.goodiptv.club/live/gefwq
+CCTV高尔夫网球,http://106.8.191.222:8189/rtp/239.254.201.223:7252
 CCTV央视台球,http://175.147.76.205:8888/rtp/232.0.0.60:1234
 CCTV央视台球,http://175.147.76.205:8888/rtp/232.0.0.60:1234
 CCTV卫生健康,https://www.goodiptv.club/live/wsjk
