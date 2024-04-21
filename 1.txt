@@ -86,11 +86,13 @@ CCTV15,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSM
 
 劲爆体育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
 CCTV央视台球,http://223.10.39.217:8083/udp/239.1.1.100:8100
+CCTV央视台球,http://114.252.225.231:8000/rtp/239.3.1.85:4120
 CCTV央视台球,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226083/index.m3u8
 CCTV央视台球,http://117.9.171.247:4567/udp/225.1.2.170:5002
 CCTV央视台球,http://117.12.149.13:12345/udp/225.1.2.170:5002
 CCTV央视台球,http://183.185.104.173:8082/rtp/226.0.2.216:9640
 CCTV央视高网,http://223.10.39.217:8083/udp/239.1.1.102:8102
+CCTV央视高网,http://114.252.225.231:8000/rtp/239.3.1.88:4120
 CCTV央视高网,http://117.9.171.247:4567/udp/225.1.2.169:5002
 CCTV央视高网,http://183.185.104.173:8082/rtp/226.0.2.217:9648
 CCTV央视高网,http://36.47.83.186:8010/rtp/239.111.205.73:5140
@@ -4406,11 +4408,17 @@ BTV4影视,http://jh.d7g.cn/tv/zx2023.php?id=402
 埋堆堆22,http://www.goodiptv.club/huya/23865058
 
 抖音直播,#genre#
-一阵雨,http://www.goodiptv.club/douyin/775263084570
+SSS,http://www.goodiptv.club/douyin/480502403271
+XX,http://www.goodiptv.club/douyin/401978291540
+小牧,http://www.goodiptv.club/douyin/801945431701
 金涛,https://www.goodiptv.club/douyin/620829977401
+小寒,https://www.goodiptv.club/douyin/731922732164
+TRY人生导师,http://www.goodiptv.club/douyin/48656747725
+一阵雨,http://www.goodiptv.club/douyin/775263084570
 小苏菲,https://www.goodiptv.club/douyin/579096174763
 旭旭宝宝,https://www.goodiptv.club/douyin/660292215268
 夏法,https://www.goodiptv.club/douyin/10272500545
+大枪炮狗,https://www.goodiptv.club/douyin/636574749544
 庄大蹦,http://www.goodiptv.club/douyin/824106162650
 马区,https://www.goodiptv.club/douyin/681873301247
 温柔,https://www.goodiptv.club/douyin/117186899183
@@ -4433,10 +4441,6 @@ KISS欢,https://www.goodiptv.club/douyin/664687086316
 老阴,https://www.goodiptv.club/douyin/628827332800
 
 斗鱼直播,#genre#
-SSS,http://www.goodiptv.club/douyu/86888
-XX,http://www.goodiptv.club/douyu/5574973
-小牧,http://www.goodiptv.club/douyu/5579534
-TRY人生导师,http://www.goodiptv.club/douyu/5592288
 寅子,http://www.goodiptv.club/douyu/71415
 小表哥,http://www.goodiptv.club/douyu/217331
 安猫,http://www.goodiptv.club/douyu/524389
@@ -5265,7 +5269,6 @@ Areia Kpop Remix,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg____4gUopsLtrQQ
 「印度」10,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg45qY9wUonJT41gc.mp4
 「印度」11,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvZ6k4wUo0cGkhgQ.mp4
 「印度」12,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghrTW4gUojKzXlwI.mp4
-
          _5718,#genre#
 随机小片,http://lzo.37.gay/daili/sx.php
 MOT-019,https://vip5.ddyunbo.com/20230108/J53a3Rts/index.m3u8
