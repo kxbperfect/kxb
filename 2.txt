@@ -86,6 +86,7 @@ CCTV15,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSM
 
 劲爆体育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
 CCTV央视台球,http://223.10.39.217:8083/udp/239.1.1.100:8100
+丁俊晖专场,http://www.goodiptv.club/huya/880211
 CCTV央视台球,http://114.252.225.231:8000/rtp/239.3.1.85:4120
 CCTV央视台球,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226083/index.m3u8
 CCTV央视台球,http://117.9.171.247:4567/udp/225.1.2.170:5002
@@ -4472,6 +4473,8 @@ ET,http://www.goodiptv.club/douyu/73639
 游钓中国李大毛,http://www.goodiptv.club/douyu/791411
 老高与小茉,http://www.goodiptv.club/douyu/838632
 F1方程式,http://www.goodiptv.club/douyu/4050212
+ARRC摩托车,http://www.goodiptv.club/huya/880215
+GT赛车,http://www.goodiptv.club/huya/20072644
 日常野钓,http://www.goodiptv.club/douyu/10103411
 兄弟赶海,http://www.goodiptv.club/douyu/9091847
 野外露营,http://www.goodiptv.club/douyu/10372765
