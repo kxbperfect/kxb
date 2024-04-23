@@ -86,7 +86,6 @@ CCTV15,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSM
 
 劲爆体育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
 CCTV央视台球,http://223.10.39.217:8083/udp/239.1.1.100:8100
-丁俊晖专场,http://www.goodiptv.club/huya/880211
 CCTV央视台球,http://114.252.225.231:8000/rtp/239.3.1.85:4120
 CCTV央视台球,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226083/index.m3u8
 CCTV央视台球,http://117.9.171.247:4567/udp/225.1.2.170:5002
@@ -99,6 +98,7 @@ CCTV央视高网,http://183.185.104.173:8082/rtp/226.0.2.217:9648
 CCTV央视高网,http://36.47.83.186:8010/rtp/239.111.205.73:5140
 CCTV央视高网,http://223.10.18.77:8083/udp/239.1.1.102:8102
 CCTV央视高网,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221230907/1.m3u8
+丁俊晖专场,http://www.goodiptv.club/huya/880211
 斯诺克1,https://www.goodiptv.club/huya/880214
 斯诺克2,https://www.goodiptv.club/huya/880625
 UFC,https://www.goodiptv.club/huya/880223
@@ -2781,8 +2781,7 @@ MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7n
 岳云鹏相声给我个机会,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0300fab0000buf8p6s0srttfb9ulotg&ratio=720p&line=0
 孔云龙扒马褂,https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/20/30/1453073020/1453073020-1-192.mp4?e=ig8euxZM2rNcNbRM7bdVhwdlhWKjhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1712257147&gen=playurlv2&os=bcache&oi=3736776303&trid=00000844bd6049bc4179a6c2f0f9f78a009eT&mid=0&platform=html5&upsig=0660f88f0484e3e38abd888940fa6722&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=9927&bvc=vod&nettype=0&bw=146329&orderid=0,3&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
 经典小品[1920x1080],http://www.goodiptv.club/douyu/9067836
-相声小品,rtsp://115.153.233.154/PLTV/88888888/224/3221226989/86441091.smil
-相声小品,rtsp://115.153.245.70/PLTV/88888888/224/3221226989/86441091.smil
+郭德纲相声循环,http://www.goodiptv.club/huya/10132155
 
 
 📽NewTV频道,#genre#
@@ -4415,6 +4414,7 @@ XX,http://www.goodiptv.club/douyin/401978291540
 金涛,https://www.goodiptv.club/douyin/620829977401
 小寒,https://www.goodiptv.club/douyin/731922732164
 TRY人生导师,http://www.goodiptv.club/douyin/48656747725
+沈阳夜枫,https://www.goodiptv.club/douyin/704495855450
 一阵雨,http://www.goodiptv.club/douyin/775263084570
 小苏菲,https://www.goodiptv.club/douyin/579096174763
 旭旭宝宝,https://www.goodiptv.club/douyin/660292215268
@@ -4457,7 +4457,6 @@ RM1,http://www.goodiptv.club/douyu/131977
 RM2,http://www.goodiptv.club/douyu/11954695
 七师傅T-ARA,http://www.goodiptv.club/douyu/17732
 小淘气动漫解说,http://www.goodiptv.club/douyu/9527700
-抖音夜枫,https://www.goodiptv.club/douyin/704495855450
 秦虹,http://www.goodiptv.club/douyu/105498
 包王,http://www.goodiptv.club/douyu/66226
 阿帮,http://www.goodiptv.club/douyu/11437
@@ -4473,6 +4472,8 @@ ET,http://www.goodiptv.club/douyu/73639
 游钓中国李大毛,http://www.goodiptv.club/douyu/791411
 老高与小茉,http://www.goodiptv.club/douyu/838632
 F1方程式,http://www.goodiptv.club/douyu/4050212
+曼岛TT-1,http://www.goodiptv.club/huya/19197407
+曼岛TT-2,http://www.goodiptv.club/huya/25813084
 ARRC摩托车,http://www.goodiptv.club/huya/880215
 GT赛车,http://www.goodiptv.club/huya/20072644
 日常野钓,http://www.goodiptv.club/douyu/10103411
