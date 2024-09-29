@@ -93,7 +93,7 @@ CCTV15,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSM
 劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000008
 劲爆体育,http://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv
 CCTV央视台球,http://42.48.17.204:808/hls/108/index.m3u8
-CCTV央视台球,http://117.161.133.51:81/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8
+CCTV央视台球,http://42.4.217.176:9009/rtp/232.0.0.60:1234
 CCTV央视台球,http://117.9.171.247:4567/udp/225.1.2.170:5002
 CCTV央视台球,http://117.12.149.13:12345/udp/225.1.2.170:5002
 CCTV央视台球,http://183.185.104.173:8082/rtp/226.0.2.216:9640
@@ -694,6 +694,17 @@ CHC高清电影,http://171.117.181.232:8082/rtp/226.0.2.93:8004
 广东卫视,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=gdws
 山东卫视,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=sdws
 湖南卫视,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=hnws
+
+🛰辽宁地方,#genre#
+辽宁卫视,http://42.4.217.176:9009/rtp/232.0.0.126:1234
+辽宁都市,http://42.4.217.176:9009/rtp/232.0.0.154:1234
+辽宁影视剧,http://42.4.217.176:9009/rtp/232.0.0.25:1234
+辽宁体育,http://42.4.217.176:9009/rtp/232.0.0.164:1234
+辽宁生活,http://42.4.217.176:9009/rtp/232.0.0.150:1234
+辽宁教育青少,http://42.4.217.176:9009/rtp/232.0.0.241:1234
+辽宁北方,http://42.4.217.176:9009/rtp/232.0.0.151:1234
+辽宁公共,http://42.4.217.176:9009/rtp/232.0.0.168:1234
+辽宁经济,http://42.4.217.176:9009/rtp/232.0.0.156:1234
 
 📦裸眼3D,#genre#
 生物多样性,http://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
@@ -1423,6 +1434,36 @@ EZTV6台全网,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=166081467
 4k👉修复全网,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 世界地理全网,http://cfss.cc/ds/ysp/qp.php?id=sjdl&Cf.m3u8
 求索动物,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000009
+凤凰中文,http://eastscreen.tv/ooooo.php?id=fhws
+凤凰资讯,http://eastscreen.tv/ooooo.php?id=fhzx
+凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?$官源
+VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+澳门Macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
+澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
+TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+aHa,http://61.221.215.25:8800/hls/50/index.m3u8
+TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
+八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+华视,rtmp://f13h.mine.nu/sat/tv111
+民视,rtmp://f13h.mine.nu/sat/tv051
+民视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
+台视,rtmp://f13h.mine.nu/sat/tv071
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+中视,rtmp://f13h.mine.nu/sat/tv091
+点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 
 
 🏆体育频道,#genre#
@@ -1609,26 +1650,26 @@ YY歐美動作,http://www.goodiptv.club/yy/1382745089
 YY連續劇台,http://www.goodiptv.club/yy/1352227227
 YY剧场频道,http://www.goodiptv.club/yy/1382702247
 YY剧场怀旧,http://www.goodiptv.club/yy/1382627144
-YY电影台01,http://epg.112114.xyz/yy/1382749892
-YY电影台02,http://epg.112114.xyz/yy/1382735573
-YY电影台03,http://epg.112114.xyz/yy/24921161
-YY电影台04,http://epg.112114.xyz/yy/1382736803
-YY电影台05,http://epg.112114.xyz/yy/1354930924
-YY电影台06,http://epg.112114.xyz/yy/1382745095
-YY电影台07,http://epg.112114.xyz/yy/1355171357
-YY电影台08,http://epg.112114.xyz/yy/24066336
-YY电影台09,http://epg.112114.xyz/yy/1354143966
-YY李连杰台,http://epg.112114.xyz/yy/1459869766
-YY成龍影院,http://epg.112114.xyz/yy/1354888751
-YY林正英频,http://epg.112114.xyz/yy/1351505899
-YY林正英道,http://epg.112114.xyz/yy/1353685311
-YY電影輪播,http://epg.112114.xyz/yy/1353059120
-YY歐美電影,http://epg.112114.xyz/yy/24923327
-YY歐美科幻,http://epg.112114.xyz/yy/37988782
-YY歐美動作,http://epg.112114.xyz/yy/1382745089
-YY連續劇台,http://epg.112114.xyz/yy/1352227227
-YY剧场频道,http://epg.112114.xyz/yy/1382702247
-YY剧场怀旧,http://epg.112114.xyz/yy/1382627144
+YY电影台01,http://epg.112114.eu.org/yy/1382749892
+YY电影台02,http://epg.112114.eu.org/yy/1382735573
+YY电影台03,http://epg.112114.eu.org/yy/24921161
+YY电影台04,http://epg.112114.eu.org/yy/1382736803
+YY电影台05,http://epg.112114.eu.org/yy/1354930924
+YY电影台06,http://epg.112114.eu.org/yy/1382745095
+YY电影台07,http://epg.112114.eu.org/yy/1355171357
+YY电影台08,http://epg.112114.eu.org/yy/24066336
+YY电影台09,http://epg.112114.eu.org/yy/1354143966
+YY李连杰台,http://epg.112114.eu.org/yy/1459869766
+YY成龍影院,http://epg.112114.eu.org/yy/1354888751
+YY林正英频,http://epg.112114.eu.org/yy/1351505899
+YY林正英道,http://epg.112114.eu.org/yy/1353685311
+YY電影輪播,http://epg.112114.eu.org/yy/1353059120
+YY歐美電影,http://epg.112114.eu.org/yy/24923327
+YY歐美科幻,http://epg.112114.eu.org/yy/37988782
+YY歐美動作,http://epg.112114.eu.org/yy/1382745089
+YY連續劇台,http://epg.112114.eu.org/yy/1352227227
+YY剧场频道,http://epg.112114.eu.org/yy/1382702247
+YY剧场怀旧,http://epg.112114.eu.org/yy/1382627144
 
 🎬电影轮播,#genre#
 科幻动作经典喜剧,http://159.75.85.63:35455/douyu/4332
@@ -2747,192 +2788,192 @@ YY剧场怀旧,http://epg.112114.xyz/yy/1382627144
 高帧影片,http://www.goodiptv.club/douyu/6763930
 米娅电影,http://www.goodiptv.club/douyu/6537888
 小九电影,http://www.goodiptv.club/douyu/7136517
-科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
-经典科幻动作灾难巨兽,http://epg.112114.xyz/douyu/252802
-电影星爷,http://epg.112114.xyz/douyu/122402
-电影英叔,http://epg.112114.xyz/douyu/7356023
-吃米滴虫,http://epg.112114.xyz/douyu/315457
-高分电影,http://epg.112114.xyz/douyu/7254536
-豆瓣高分,http://epg.112114.xyz/douyu/8770422
-漫威影院,http://epg.112114.xyz/douyu/6140589
-特辑电影,http://epg.112114.xyz/douyu/3637778
-粤语电影,http://epg.112114.xyz/douyu/1226741
-国产电影,http://epg.112114.xyz/douyu/5423
-精彩电影,http://epg.112114.xyz/douyu/9650887
-喜剧电影,http://epg.112114.xyz/douyu/323876
-动作电影,http://epg.112114.xyz/douyu/6763930
-恐怖电影,http://epg.112114.xyz/douyu/218859
-恐怖鬼怪,http://epg.112114.xyz/douyu/1165374
-童年阴影,http://epg.112114.xyz/douyu/2935323
-惊悚电影,http://epg.112114.xyz/douyu/96577
-粤语电影,http://epg.112114.xyz/douyu/6566671
-华语影视,http://epg.112114.xyz/douyu/3928
-神乐影视,http://epg.112114.xyz/douyu/85894
-周末影院,http://epg.112114.xyz/douyu/3637765
-周末电影,http://epg.112114.xyz/douyu/3637726
-兔子影厅,http://epg.112114.xyz/douyu/8985415
-冰冰影厅,http://epg.112114.xyz/douyu/74374
-刀刀影院,http://epg.112114.xyz/douyu/747764
-奶虫影院,http://epg.112114.xyz/douyu/263824
-贝爷壹厅,http://epg.112114.xyz/douyu/252802
-贝爷贰厅,http://epg.112114.xyz/douyu/4332
-贝爷叁厅,http://epg.112114.xyz/douyu/36337
-凌儿影院,http://epg.112114.xyz/douyu/1377142
-云宝影院,http://epg.112114.xyz/douyu/7305938
-花卷影院,http://epg.112114.xyz/douyu/52787
-菜园小饼,http://epg.112114.xyz/douyu/1735337
-米娅影院,http://epg.112114.xyz/douyu/6537888
-橙記港剧,http://epg.112114.xyz/douyu/4549169
-大宝影视,http://epg.112114.xyz/douyu/805235
-蚂蚱影视,http://epg.112114.xyz/douyu/6079455
-怡寶影视,http://epg.112114.xyz/douyu/434971
-圆子影视,http://epg.112114.xyz/douyu/6566658
-贝贝影视,http://epg.112114.xyz/douyu/431460
-可乐影视,http://epg.112114.xyz/douyu/20415
-萌牛影视,http://epg.112114.xyz/douyu/7494871
-兔兔影视,http://epg.112114.xyz/douyu/1504768
-无双影视,http://epg.112114.xyz/douyu/4870914
-下饭神剧,http://epg.112114.xyz/douyu/276200
-古装神剧,http://epg.112114.xyz/douyu/338759
-晚湾影视,http://epg.112114.xyz/douyu/9461178
-酒染影视,http://epg.112114.xyz/douyu/7550220
-芊珏影视,http://epg.112114.xyz/douyu/8814650
-热门港剧,http://epg.112114.xyz/douyu/5522351
-盗墓剧集,http://epg.112114.xyz/douyu/9292503
-金庸武侠,http://epg.112114.xyz/douyu/7644931
-国产剧集,http://epg.112114.xyz/douyu/8157860
-国产剧场,http://epg.112114.xyz/douyu/308752
-爱情公寓,http://epg.112114.xyz/douyu/2838296
-经典剧集,http://epg.112114.xyz/douyu/6863367
-李卫当官,http://epg.112114.xyz/douyu/7473576
-龙门镖局,http://epg.112114.xyz/douyu/9650860
-雍正王朝,http://epg.112114.xyz/douyu/4944033
-雍正帝王,http://epg.112114.xyz/douyu/9650836
-隋唐演义,http://epg.112114.xyz/douyu/7552568
-大宋神探,http://epg.112114.xyz/douyu/7784862
-音乐欣赏,http://epg.112114.xyz/douyu/3186217
-舌尖美食,http://epg.112114.xyz/douyu/9650849
-篮球人物,http://epg.112114.xyz/douyu/8434598
-史君说剧,http://epg.112114.xyz/douyu/9419771
-史剧解说,http://epg.112114.xyz/douyu/297689
-老秦说剧,http://epg.112114.xyz/douyu/9650131
-老蔡解说,http://epg.112114.xyz/douyu/8869614
-长片短解,http://epg.112114.xyz/douyu/9410946
-宇哥解说,http://epg.112114.xyz/douyu/8651489
-夜魔人老王,http://epg.112114.xyz/douyu/610972
-皮皮看动漫,http://epg.112114.xyz/douyu/9837291
-开心锤动漫,http://epg.112114.xyz/douyu/9018297
-拳叔二次元,http://epg.112114.xyz/douyu/9484105
-老邪说电影,http://epg.112114.xyz/douyu/9222870
-洗碗君解说,http://epg.112114.xyz/douyu/9446706
-百晓生说剧,http://epg.112114.xyz/douyu/9649681
-百晓生解说,http://epg.112114.xyz/douyu/9653063
-小司马说剧,http://epg.112114.xyz/douyu/4808115
-小司马解说,http://epg.112114.xyz/douyu/9660127
-星君说电影,http://epg.112114.xyz/douyu/8014467
-刘哔讲电影,http://epg.112114.xyz/douyu/2632223
-老王说电影,http://epg.112114.xyz/douyu/9687733
-贤于说电影,http://epg.112114.xyz/douyu/9461990
-牛叔说电影,http://epg.112114.xyz/douyu/2758565
-侃片大师兄,http://epg.112114.xyz/douyu/9338839
-虫哥说电影,http://epg.112114.xyz/douyu/8915074
-电影迷小雅,http://epg.112114.xyz/douyu/9639225
-1900影剧室,http://epg.112114.xyz/douyu/7796193
-刘老师说电影,http://epg.112114.xyz/douyu/8317926
-来呀官人解说,http://epg.112114.xyz/douyu/9986305
-科幻Fans布玛,http://epg.112114.xyz/douyu/3508304
-小片片说大片,http://epg.112114.xyz/douyu/4258555
-大片片说小片,http://epg.112114.xyz/douyu/7489563
-火龙果说电影,http://epg.112114.xyz/douyu/9559158
-鬼片恐怖惊悚,http://epg.112114.xyz/douyu/2935323
-恐怖故事,http://epg.112114.xyz/douyu/2337939
-科幻动作,http://epg.112114.xyz/douyu/4332
-怡寳影院,http://epg.112114.xyz/douyu/434971
-粤语电影,http://epg.112114.xyz/douyu/6566671
-神乐影院,http://epg.112114.xyz/douyu/85894
-苹果影院,http://epg.112114.xyz/douyu/2793084
-午夜故事,http://epg.112114.xyz/douyu/8722254
-功夫港片,http://epg.112114.xyz/douyu/3637765
-桃花影院,http://epg.112114.xyz/douyu/7305938
-贝贝影院,http://epg.112114.xyz/douyu/431460
-译制国语,http://epg.112114.xyz/douyu/2436390
-幸运影院,http://epg.112114.xyz/douyu/7270927
-蚂蚱影院,http://epg.112114.xyz/douyu/6079455
-纪录片,http://epg.112114.xyz/douyu/4360438
-贝爷求生,http://epg.112114.xyz/douyu/454867
-野外生存,http://epg.112114.xyz/douyu/1339207
-经典港剧,http://epg.112114.xyz/douyu/4549169
-小宇影院,http://epg.112114.xyz/douyu/323876
-恐怖丧尸鬼片,http://epg.112114.xyz/douyu/263824
-表妹影院,http://epg.112114.xyz/douyu/5423
-荒野建造者,http://epg.112114.xyz/douyu/9611578
-邦德影院,http://epg.112114.xyz/douyu/9292499
-科幻动作灾难,http://epg.112114.xyz/douyu/248753
-可乐影院,http://epg.112114.xyz/douyu/20415
-特辑影院,http://epg.112114.xyz/douyu/3637778
-贝爷影院,http://epg.112114.xyz/douyu/252802
-惊悚影院,http://epg.112114.xyz/douyu/96577
-港式恐怖,http://epg.112114.xyz/douyu/3637726
-吃米滴虫,http://epg.112114.xyz/douyu/315457
-漫威影片,http://epg.112114.xyz/douyu/6140589
-刘德华电影1,http://epg.112114.xyz/douyu/2516864
-喜剧经典,http://epg.112114.xyz/douyu/9650887
-豆瓣高分,http://epg.112114.xyz/douyu/8770422
-林正英电影2,http://epg.112114.xyz/douyu/7356023
-宇哥电影,http://epg.112114.xyz/douyu/413573
-贝爷影厅2,http://epg.112114.xyz/douyu/36337
-霍格影片,http://epg.112114.xyz/douyu/8814650
-冰冰经典电影,http://epg.112114.xyz/douyu/74374
-避风港影院,http://epg.112114.xyz/douyu/9826611
-恐怖经典,http://epg.112114.xyz/douyu/1165374
-华语电影,http://epg.112114.xyz/douyu/3928
-华语动作电影,http://epg.112114.xyz/douyu/1504768
-喜剧电影,http://epg.112114.xyz/douyu/9292492
-带你看大片,http://epg.112114.xyz/douyu/2758565
-海绵与大星,http://epg.112114.xyz/douyu/2250349
-一起看恐怖片,http://epg.112114.xyz/douyu/9412287
-平安夜快乐,http://epg.112114.xyz/douyu/6863367
-片荒的日子,http://epg.112114.xyz/douyu/4258555
-最新视频,http://epg.112114.xyz/douyu/1557505
-大胡子魏,http://epg.112114.xyz/douyu/8792763
-童年回忆,http://epg.112114.xyz/douyu/8915074
-爆笑解说,http://epg.112114.xyz/douyu/8317926
-爆笑解说,http://epg.112114.xyz/douyu/2660125
-下饭神剧,http://epg.112114.xyz/douyu/276200
-悬疑犯罪,http://epg.112114.xyz/douyu/9171887
-看经典,http://epg.112114.xyz/douyu/7314294
-不一样的电影,http://epg.112114.xyz/douyu/2632223
-科幻影视解说,http://epg.112114.xyz/douyu/3508304
-开心锤锤,http://epg.112114.xyz/douyu/9018297
-热血动漫,http://epg.112114.xyz/douyu/206858
-凛冬之地,http://epg.112114.xyz/douyu/8945323
-高分影视,http://epg.112114.xyz/douyu/1735337
-看美剧,http://epg.112114.xyz/douyu/8869614
-动漫直播,http://epg.112114.xyz/douyu/1487654
-吃米滴虫,http://epg.112114.xyz/douyu/315457
-神乐影片1,http://epg.112114.xyz/douyu/122402
-神乐影片2,http://epg.112114.xyz/douyu/85894
-贝爷MAX厅,http://epg.112114.xyz/douyu/4332
-周星驰电影,http://epg.112114.xyz/douyu/3990812
-刘德华电影1,http://epg.112114.xyz/douyu/2516864
-刘德华电影2,http://epg.112114.xyz/douyu/8985415
-喜剧经典,http://epg.112114.xyz/douyu/9650887
-豆瓣高分,http://epg.112114.xyz/douyu/8770422
-女神金电影,http://epg.112114.xyz/douyu/747764
-贝爷影厅2,http://epg.112114.xyz/douyu/36337
-可乐电影,http://epg.112114.xyz/douyu/20415
-冰冰经典电影,http://epg.112114.xyz/douyu/74374
-奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-避风港影院,http://epg.112114.xyz/douyu/9826611
-林林影院,http://epg.112114.xyz/douyu/9652323
-漫威电影,http://epg.112114.xyz/douyu/4282654
-恐怖经典,http://epg.112114.xyz/douyu/1165374
-华语电影,http://epg.112114.xyz/douyu/3928
-华语动作电影,http://epg.112114.xyz/douyu/1504768
-怀旧90,http://epg.112114.xyz/douyu/9275635
-高帧影片,http://epg.112114.xyz/douyu/6763930
-米娅电影,http://epg.112114.xyz/douyu/6537888
-小九电影,http://epg.112114.xyz/douyu/7136517
+科幻动作经典喜剧,http://epg.112114.eu.org/douyu/4332
+经典科幻动作灾难巨兽,http://epg.112114.eu.org/douyu/252802
+电影星爷,http://epg.112114.eu.org/douyu/122402
+电影英叔,http://epg.112114.eu.org/douyu/7356023
+吃米滴虫,http://epg.112114.eu.org/douyu/315457
+高分电影,http://epg.112114.eu.org/douyu/7254536
+豆瓣高分,http://epg.112114.eu.org/douyu/8770422
+漫威影院,http://epg.112114.eu.org/douyu/6140589
+特辑电影,http://epg.112114.eu.org/douyu/3637778
+粤语电影,http://epg.112114.eu.org/douyu/1226741
+国产电影,http://epg.112114.eu.org/douyu/5423
+精彩电影,http://epg.112114.eu.org/douyu/9650887
+喜剧电影,http://epg.112114.eu.org/douyu/323876
+动作电影,http://epg.112114.eu.org/douyu/6763930
+恐怖电影,http://epg.112114.eu.org/douyu/218859
+恐怖鬼怪,http://epg.112114.eu.org/douyu/1165374
+童年阴影,http://epg.112114.eu.org/douyu/2935323
+惊悚电影,http://epg.112114.eu.org/douyu/96577
+粤语电影,http://epg.112114.eu.org/douyu/6566671
+华语影视,http://epg.112114.eu.org/douyu/3928
+神乐影视,http://epg.112114.eu.org/douyu/85894
+周末影院,http://epg.112114.eu.org/douyu/3637765
+周末电影,http://epg.112114.eu.org/douyu/3637726
+兔子影厅,http://epg.112114.eu.org/douyu/8985415
+冰冰影厅,http://epg.112114.eu.org/douyu/74374
+刀刀影院,http://epg.112114.eu.org/douyu/747764
+奶虫影院,http://epg.112114.eu.org/douyu/263824
+贝爷壹厅,http://epg.112114.eu.org/douyu/252802
+贝爷贰厅,http://epg.112114.eu.org/douyu/4332
+贝爷叁厅,http://epg.112114.eu.org/douyu/36337
+凌儿影院,http://epg.112114.eu.org/douyu/1377142
+云宝影院,http://epg.112114.eu.org/douyu/7305938
+花卷影院,http://epg.112114.eu.org/douyu/52787
+菜园小饼,http://epg.112114.eu.org/douyu/1735337
+米娅影院,http://epg.112114.eu.org/douyu/6537888
+橙記港剧,http://epg.112114.eu.org/douyu/4549169
+大宝影视,http://epg.112114.eu.org/douyu/805235
+蚂蚱影视,http://epg.112114.eu.org/douyu/6079455
+怡寶影视,http://epg.112114.eu.org/douyu/434971
+圆子影视,http://epg.112114.eu.org/douyu/6566658
+贝贝影视,http://epg.112114.eu.org/douyu/431460
+可乐影视,http://epg.112114.eu.org/douyu/20415
+萌牛影视,http://epg.112114.eu.org/douyu/7494871
+兔兔影视,http://epg.112114.eu.org/douyu/1504768
+无双影视,http://epg.112114.eu.org/douyu/4870914
+下饭神剧,http://epg.112114.eu.org/douyu/276200
+古装神剧,http://epg.112114.eu.org/douyu/338759
+晚湾影视,http://epg.112114.eu.org/douyu/9461178
+酒染影视,http://epg.112114.eu.org/douyu/7550220
+芊珏影视,http://epg.112114.eu.org/douyu/8814650
+热门港剧,http://epg.112114.eu.org/douyu/5522351
+盗墓剧集,http://epg.112114.eu.org/douyu/9292503
+金庸武侠,http://epg.112114.eu.org/douyu/7644931
+国产剧集,http://epg.112114.eu.org/douyu/8157860
+国产剧场,http://epg.112114.eu.org/douyu/308752
+爱情公寓,http://epg.112114.eu.org/douyu/2838296
+经典剧集,http://epg.112114.eu.org/douyu/6863367
+李卫当官,http://epg.112114.eu.org/douyu/7473576
+龙门镖局,http://epg.112114.eu.org/douyu/9650860
+雍正王朝,http://epg.112114.eu.org/douyu/4944033
+雍正帝王,http://epg.112114.eu.org/douyu/9650836
+隋唐演义,http://epg.112114.eu.org/douyu/7552568
+大宋神探,http://epg.112114.eu.org/douyu/7784862
+音乐欣赏,http://epg.112114.eu.org/douyu/3186217
+舌尖美食,http://epg.112114.eu.org/douyu/9650849
+篮球人物,http://epg.112114.eu.org/douyu/8434598
+史君说剧,http://epg.112114.eu.org/douyu/9419771
+史剧解说,http://epg.112114.eu.org/douyu/297689
+老秦说剧,http://epg.112114.eu.org/douyu/9650131
+老蔡解说,http://epg.112114.eu.org/douyu/8869614
+长片短解,http://epg.112114.eu.org/douyu/9410946
+宇哥解说,http://epg.112114.eu.org/douyu/8651489
+夜魔人老王,http://epg.112114.eu.org/douyu/610972
+皮皮看动漫,http://epg.112114.eu.org/douyu/9837291
+开心锤动漫,http://epg.112114.eu.org/douyu/9018297
+拳叔二次元,http://epg.112114.eu.org/douyu/9484105
+老邪说电影,http://epg.112114.eu.org/douyu/9222870
+洗碗君解说,http://epg.112114.eu.org/douyu/9446706
+百晓生说剧,http://epg.112114.eu.org/douyu/9649681
+百晓生解说,http://epg.112114.eu.org/douyu/9653063
+小司马说剧,http://epg.112114.eu.org/douyu/4808115
+小司马解说,http://epg.112114.eu.org/douyu/9660127
+星君说电影,http://epg.112114.eu.org/douyu/8014467
+刘哔讲电影,http://epg.112114.eu.org/douyu/2632223
+老王说电影,http://epg.112114.eu.org/douyu/9687733
+贤于说电影,http://epg.112114.eu.org/douyu/9461990
+牛叔说电影,http://epg.112114.eu.org/douyu/2758565
+侃片大师兄,http://epg.112114.eu.org/douyu/9338839
+虫哥说电影,http://epg.112114.eu.org/douyu/8915074
+电影迷小雅,http://epg.112114.eu.org/douyu/9639225
+1900影剧室,http://epg.112114.eu.org/douyu/7796193
+刘老师说电影,http://epg.112114.eu.org/douyu/8317926
+来呀官人解说,http://epg.112114.eu.org/douyu/9986305
+科幻Fans布玛,http://epg.112114.eu.org/douyu/3508304
+小片片说大片,http://epg.112114.eu.org/douyu/4258555
+大片片说小片,http://epg.112114.eu.org/douyu/7489563
+火龙果说电影,http://epg.112114.eu.org/douyu/9559158
+鬼片恐怖惊悚,http://epg.112114.eu.org/douyu/2935323
+恐怖故事,http://epg.112114.eu.org/douyu/2337939
+科幻动作,http://epg.112114.eu.org/douyu/4332
+怡寳影院,http://epg.112114.eu.org/douyu/434971
+粤语电影,http://epg.112114.eu.org/douyu/6566671
+神乐影院,http://epg.112114.eu.org/douyu/85894
+苹果影院,http://epg.112114.eu.org/douyu/2793084
+午夜故事,http://epg.112114.eu.org/douyu/8722254
+功夫港片,http://epg.112114.eu.org/douyu/3637765
+桃花影院,http://epg.112114.eu.org/douyu/7305938
+贝贝影院,http://epg.112114.eu.org/douyu/431460
+译制国语,http://epg.112114.eu.org/douyu/2436390
+幸运影院,http://epg.112114.eu.org/douyu/7270927
+蚂蚱影院,http://epg.112114.eu.org/douyu/6079455
+纪录片,http://epg.112114.eu.org/douyu/4360438
+贝爷求生,http://epg.112114.eu.org/douyu/454867
+野外生存,http://epg.112114.eu.org/douyu/1339207
+经典港剧,http://epg.112114.eu.org/douyu/4549169
+小宇影院,http://epg.112114.eu.org/douyu/323876
+恐怖丧尸鬼片,http://epg.112114.eu.org/douyu/263824
+表妹影院,http://epg.112114.eu.org/douyu/5423
+荒野建造者,http://epg.112114.eu.org/douyu/9611578
+邦德影院,http://epg.112114.eu.org/douyu/9292499
+科幻动作灾难,http://epg.112114.eu.org/douyu/248753
+可乐影院,http://epg.112114.eu.org/douyu/20415
+特辑影院,http://epg.112114.eu.org/douyu/3637778
+贝爷影院,http://epg.112114.eu.org/douyu/252802
+惊悚影院,http://epg.112114.eu.org/douyu/96577
+港式恐怖,http://epg.112114.eu.org/douyu/3637726
+吃米滴虫,http://epg.112114.eu.org/douyu/315457
+漫威影片,http://epg.112114.eu.org/douyu/6140589
+刘德华电影1,http://epg.112114.eu.org/douyu/2516864
+喜剧经典,http://epg.112114.eu.org/douyu/9650887
+豆瓣高分,http://epg.112114.eu.org/douyu/8770422
+林正英电影2,http://epg.112114.eu.org/douyu/7356023
+宇哥电影,http://epg.112114.eu.org/douyu/413573
+贝爷影厅2,http://epg.112114.eu.org/douyu/36337
+霍格影片,http://epg.112114.eu.org/douyu/8814650
+冰冰经典电影,http://epg.112114.eu.org/douyu/74374
+避风港影院,http://epg.112114.eu.org/douyu/9826611
+恐怖经典,http://epg.112114.eu.org/douyu/1165374
+华语电影,http://epg.112114.eu.org/douyu/3928
+华语动作电影,http://epg.112114.eu.org/douyu/1504768
+喜剧电影,http://epg.112114.eu.org/douyu/9292492
+带你看大片,http://epg.112114.eu.org/douyu/2758565
+海绵与大星,http://epg.112114.eu.org/douyu/2250349
+一起看恐怖片,http://epg.112114.eu.org/douyu/9412287
+平安夜快乐,http://epg.112114.eu.org/douyu/6863367
+片荒的日子,http://epg.112114.eu.org/douyu/4258555
+最新视频,http://epg.112114.eu.org/douyu/1557505
+大胡子魏,http://epg.112114.eu.org/douyu/8792763
+童年回忆,http://epg.112114.eu.org/douyu/8915074
+爆笑解说,http://epg.112114.eu.org/douyu/8317926
+爆笑解说,http://epg.112114.eu.org/douyu/2660125
+下饭神剧,http://epg.112114.eu.org/douyu/276200
+悬疑犯罪,http://epg.112114.eu.org/douyu/9171887
+看经典,http://epg.112114.eu.org/douyu/7314294
+不一样的电影,http://epg.112114.eu.org/douyu/2632223
+科幻影视解说,http://epg.112114.eu.org/douyu/3508304
+开心锤锤,http://epg.112114.eu.org/douyu/9018297
+热血动漫,http://epg.112114.eu.org/douyu/206858
+凛冬之地,http://epg.112114.eu.org/douyu/8945323
+高分影视,http://epg.112114.eu.org/douyu/1735337
+看美剧,http://epg.112114.eu.org/douyu/8869614
+动漫直播,http://epg.112114.eu.org/douyu/1487654
+吃米滴虫,http://epg.112114.eu.org/douyu/315457
+神乐影片1,http://epg.112114.eu.org/douyu/122402
+神乐影片2,http://epg.112114.eu.org/douyu/85894
+贝爷MAX厅,http://epg.112114.eu.org/douyu/4332
+周星驰电影,http://epg.112114.eu.org/douyu/3990812
+刘德华电影1,http://epg.112114.eu.org/douyu/2516864
+刘德华电影2,http://epg.112114.eu.org/douyu/8985415
+喜剧经典,http://epg.112114.eu.org/douyu/9650887
+豆瓣高分,http://epg.112114.eu.org/douyu/8770422
+女神金电影,http://epg.112114.eu.org/douyu/747764
+贝爷影厅2,http://epg.112114.eu.org/douyu/36337
+可乐电影,http://epg.112114.eu.org/douyu/20415
+冰冰经典电影,http://epg.112114.eu.org/douyu/74374
+奶虫恐怖电影,http://epg.112114.eu.org/douyu/263824
+避风港影院,http://epg.112114.eu.org/douyu/9826611
+林林影院,http://epg.112114.eu.org/douyu/9652323
+漫威电影,http://epg.112114.eu.org/douyu/4282654
+恐怖经典,http://epg.112114.eu.org/douyu/1165374
+华语电影,http://epg.112114.eu.org/douyu/3928
+华语动作电影,http://epg.112114.eu.org/douyu/1504768
+怀旧90,http://epg.112114.eu.org/douyu/9275635
+高帧影片,http://epg.112114.eu.org/douyu/6763930
+米娅电影,http://epg.112114.eu.org/douyu/6537888
+小九电影,http://epg.112114.eu.org/douyu/7136517
 
 🎬影视,#genre#
 大象放映室,http://124.248.69.76:35455/huya/21277391
@@ -3073,29 +3114,29 @@ YY剧场怀旧,http://epg.112114.xyz/yy/1382627144
 七龙珠改,http://www.goodiptv.club/huya/11601966
 猫和老鼠,http://www.goodiptv.club/huya/11352879
 中华小当家,http://www.goodiptv.club/huya/11342413
-大象放映室,http://epg.112114.xyz/huya/21277391
-电视剧,http://epg.112114.xyz/huya/25018873
-电影•1,http://epg.112114.xyz/huya/20289754
-电影•2,http://epg.112114.xyz/huya/24983280
-电影•3,http://epg.112114.xyz/huya/24396428
-动漫•1,http://epg.112114.xyz/huya/19757963
-恐怖电影,http://epg.112114.xyz/huya/23419131
-漫威,http://epg.112114.xyz/huya/17089779
-美剧,http://epg.112114.xyz/huya/20488841
-七龙珠,http://epg.112114.xyz/huya/25650806
-止戈电影,http://epg.112114.xyz/huya/19863777
-挨饿德•1,http://epg.112114.xyz/huya/20985858
-挨饿德•2,http://epg.112114.xyz/huya/17693860
-互扇巴掌大赛,http://epg.112114.xyz/huya/20072873
-荒野求生,http://epg.112114.xyz/huya/593667
-野行者,http://epg.112114.xyz/huya/20072663
-跳舞,http://epg.112114.xyz/huya/24634408
-茶啊二中,http://epg.112114.xyz/huya/11213191
-哆啦A梦,http://epg.112114.xyz/huya/11601963
-航海王,http://epg.112114.xyz/huya/16913382
-七龙珠改,http://epg.112114.xyz/huya/11601966
-猫和老鼠,http://epg.112114.xyz/huya/11352879
-中华小当家,http://epg.112114.xyz/huya/11342413
+大象放映室,http://epg.112114.eu.org/huya/21277391
+电视剧,http://epg.112114.eu.org/huya/25018873
+电影•1,http://epg.112114.eu.org/huya/20289754
+电影•2,http://epg.112114.eu.org/huya/24983280
+电影•3,http://epg.112114.eu.org/huya/24396428
+动漫•1,http://epg.112114.eu.org/huya/19757963
+恐怖电影,http://epg.112114.eu.org/huya/23419131
+漫威,http://epg.112114.eu.org/huya/17089779
+美剧,http://epg.112114.eu.org/huya/20488841
+七龙珠,http://epg.112114.eu.org/huya/25650806
+止戈电影,http://epg.112114.eu.org/huya/19863777
+挨饿德•1,http://epg.112114.eu.org/huya/20985858
+挨饿德•2,http://epg.112114.eu.org/huya/17693860
+互扇巴掌大赛,http://epg.112114.eu.org/huya/20072873
+荒野求生,http://epg.112114.eu.org/huya/593667
+野行者,http://epg.112114.eu.org/huya/20072663
+跳舞,http://epg.112114.eu.org/huya/24634408
+茶啊二中,http://epg.112114.eu.org/huya/11213191
+哆啦A梦,http://epg.112114.eu.org/huya/11601963
+航海王,http://epg.112114.eu.org/huya/16913382
+七龙珠改,http://epg.112114.eu.org/huya/11601966
+猫和老鼠,http://epg.112114.eu.org/huya/11352879
+中华小当家,http://epg.112114.eu.org/huya/11342413
 
 
 🎬埋堆堆,#genre#
@@ -3231,28 +3272,28 @@ YY剧场怀旧,http://epg.112114.xyz/yy/1382627144
 埋堆堆20,http://www.goodiptv.club/huya/23865036
 埋堆堆21,http://www.goodiptv.club/huya/23749083
 埋堆堆22,http://www.goodiptv.club/huya/23865058
-埋堆堆01,http://epg.112114.xyz/huya/23749096
-埋堆堆02,http://epg.112114.xyz/huya/23735126
-埋堆堆03,http://epg.112114.xyz/huya/23740156
-埋堆堆04,http://epg.112114.xyz/huya/23728660
-埋堆堆05,http://epg.112114.xyz/huya/23865080
-埋堆堆06,http://epg.112114.xyz/huya/23863804
-埋堆堆07,http://epg.112114.xyz/huya/23864973
-埋堆堆08,http://epg.112114.xyz/huya/23734169
-埋堆堆09,http://epg.112114.xyz/huya/23865171
-埋堆堆10,http://epg.112114.xyz/huya/23903130
-埋堆堆11,http://epg.112114.xyz/huya/23860039
-埋堆堆12,http://epg.112114.xyz/huya/23865142
-埋堆堆13,http://epg.112114.xyz/huya/23903123
-埋堆堆14,http://epg.112114.xyz/huya/23734183
-埋堆堆15,http://epg.112114.xyz/huya/23734256
-埋堆堆16,http://epg.112114.xyz/huya/23903183
-埋堆堆17,http://epg.112114.xyz/huya/23903196
-埋堆堆18,http://epg.112114.xyz/huya/23829543
-埋堆堆19,http://epg.112114.xyz/huya/23728674
-埋堆堆20,http://epg.112114.xyz/huya/23865036
-埋堆堆21,http://epg.112114.xyz/huya/23749083
-埋堆堆22,http://epg.112114.xyz/huya/23865058
+埋堆堆01,http://epg.112114.eu.org/huya/23749096
+埋堆堆02,http://epg.112114.eu.org/huya/23735126
+埋堆堆03,http://epg.112114.eu.org/huya/23740156
+埋堆堆04,http://epg.112114.eu.org/huya/23728660
+埋堆堆05,http://epg.112114.eu.org/huya/23865080
+埋堆堆06,http://epg.112114.eu.org/huya/23863804
+埋堆堆07,http://epg.112114.eu.org/huya/23864973
+埋堆堆08,http://epg.112114.eu.org/huya/23734169
+埋堆堆09,http://epg.112114.eu.org/huya/23865171
+埋堆堆10,http://epg.112114.eu.org/huya/23903130
+埋堆堆11,http://epg.112114.eu.org/huya/23860039
+埋堆堆12,http://epg.112114.eu.org/huya/23865142
+埋堆堆13,http://epg.112114.eu.org/huya/23903123
+埋堆堆14,http://epg.112114.eu.org/huya/23734183
+埋堆堆15,http://epg.112114.eu.org/huya/23734256
+埋堆堆16,http://epg.112114.eu.org/huya/23903183
+埋堆堆17,http://epg.112114.eu.org/huya/23903196
+埋堆堆18,http://epg.112114.eu.org/huya/23829543
+埋堆堆19,http://epg.112114.eu.org/huya/23728674
+埋堆堆20,http://epg.112114.eu.org/huya/23865036
+埋堆堆21,http://epg.112114.eu.org/huya/23749083
+埋堆堆22,http://epg.112114.eu.org/huya/23865058
 
 
 
@@ -3455,39 +3496,39 @@ KISS欢,http://www.goodiptv.club/douyin/664687086316
 光明,http://www.goodiptv.club/douyin/761885906943
 老阴,http://www.goodiptv.club/douyin/628827332800
 瑶瑶,http://www.goodiptv.club/douyin/374988533945
-SSS,http://epg.112114.xyz/douyin/480502403271
-XX,http://epg.112114.xyz/douyin/401978291540
-小牧,http://epg.112114.xyz/douyin/801945431701
-金涛,http://epg.112114.xyz/douyin/620829977401
-小寒,http://epg.112114.xyz/douyin/731922732164
-TRY人生导师,http://epg.112114.xyz/douyin/48656747725
-沈阳夜枫,http://epg.112114.xyz/douyin/704495855450
-一阵雨,http://epg.112114.xyz/douyin/775263084570
-小苏菲,http://epg.112114.xyz/douyin/579096174763
-旭旭宝宝,http://epg.112114.xyz/douyin/660292215268
-夏法,http://epg.112114.xyz/douyin/10272500545
-大枪炮狗,http://epg.112114.xyz/douyin/636574749544
-庄大蹦,http://epg.112114.xyz/douyin/824106162650
-马区,http://epg.112114.xyz/douyin/681873301247
-温柔,http://epg.112114.xyz/douyin/117186899183
-李永,http://epg.112114.xyz/douyin/521739537052
-KISS欢,http://epg.112114.xyz/douyin/664687086316
-糊涂仙,http://epg.112114.xyz/douyin/621050798339
-阿旺,http://epg.112114.xyz/douyin/14759861745
-夜风,http://epg.112114.xyz/douyin/292171362650
-肉肉拳,http://epg.112114.xyz/douyin/19439956372
-旋律,http://epg.112114.xyz/douyin/47598052880
-叶修,http://epg.112114.xyz/douyin/942140471527
-小乐,http://epg.112114.xyz/douyin/1683721210
-红领巾,http://epg.112114.xyz/douyin/338068373467
-瓜子,http://epg.112114.xyz/douyin/651319479241
-夏雫,http://epg.112114.xyz/douyin/666216419591
-哈尔滨孟哥,http://epg.112114.xyz/douyin/458347485074
-醉逍遥解说,http://epg.112114.xyz/douyin/70364111337
-坏叉,http://epg.112114.xyz/douyin/667273243762
-光明,http://epg.112114.xyz/douyin/761885906943
-老阴,http://epg.112114.xyz/douyin/628827332800
-瑶瑶,http://epg.112114.xyz/douyin/374988533945
+SSS,http://epg.112114.eu.org/douyin/480502403271
+XX,http://epg.112114.eu.org/douyin/401978291540
+小牧,http://epg.112114.eu.org/douyin/801945431701
+金涛,http://epg.112114.eu.org/douyin/620829977401
+小寒,http://epg.112114.eu.org/douyin/731922732164
+TRY人生导师,http://epg.112114.eu.org/douyin/48656747725
+沈阳夜枫,http://epg.112114.eu.org/douyin/704495855450
+一阵雨,http://epg.112114.eu.org/douyin/775263084570
+小苏菲,http://epg.112114.eu.org/douyin/579096174763
+旭旭宝宝,http://epg.112114.eu.org/douyin/660292215268
+夏法,http://epg.112114.eu.org/douyin/10272500545
+大枪炮狗,http://epg.112114.eu.org/douyin/636574749544
+庄大蹦,http://epg.112114.eu.org/douyin/824106162650
+马区,http://epg.112114.eu.org/douyin/681873301247
+温柔,http://epg.112114.eu.org/douyin/117186899183
+李永,http://epg.112114.eu.org/douyin/521739537052
+KISS欢,http://epg.112114.eu.org/douyin/664687086316
+糊涂仙,http://epg.112114.eu.org/douyin/621050798339
+阿旺,http://epg.112114.eu.org/douyin/14759861745
+夜风,http://epg.112114.eu.org/douyin/292171362650
+肉肉拳,http://epg.112114.eu.org/douyin/19439956372
+旋律,http://epg.112114.eu.org/douyin/47598052880
+叶修,http://epg.112114.eu.org/douyin/942140471527
+小乐,http://epg.112114.eu.org/douyin/1683721210
+红领巾,http://epg.112114.eu.org/douyin/338068373467
+瓜子,http://epg.112114.eu.org/douyin/651319479241
+夏雫,http://epg.112114.eu.org/douyin/666216419591
+哈尔滨孟哥,http://epg.112114.eu.org/douyin/458347485074
+醉逍遥解说,http://epg.112114.eu.org/douyin/70364111337
+坏叉,http://epg.112114.eu.org/douyin/667273243762
+光明,http://epg.112114.eu.org/douyin/761885906943
+老阴,http://epg.112114.eu.org/douyin/628827332800
+瑶瑶,http://epg.112114.eu.org/douyin/374988533945
 
 斗鱼直播,#genre#
 寅子,http://159.75.85.63:35455/douyu/71415
@@ -4366,152 +4407,152 @@ Angela小兔,http://www.goodiptv.club/douyu/9617766
 斗鱼搞笑HD3,http://www.goodiptv.club/douyu/9067836
 斗鱼搞笑HD4,http://www.goodiptv.club/douyu/9817729
 斗鱼搞笑HD5,http://www.goodiptv.club/douyu/8737695
-寅子,http://epg.112114.xyz/douyu/71415
-小表哥,http://epg.112114.xyz/douyu/217331
-安猫,http://epg.112114.xyz/douyu/524389
-周淑怡,http://epg.112114.xyz/douyu/290935
-骆歆,http://epg.112114.xyz/douyu/5189167
-王雨檬,http://epg.112114.xyz/douyu/139277
-59,http://epg.112114.xyz/douyu/5168755
-赛文柒,http://epg.112114.xyz/douyu/105025
-木星劲乐团,http://epg.112114.xyz/douyu/42388
-孙火旺,http://epg.112114.xyz/douyu/9770949
-米娜,http://epg.112114.xyz/douyu/5551871
-RM1,http://epg.112114.xyz/douyu/131977
-RM2,http://epg.112114.xyz/douyu/11954695
-七师傅T-ARA,http://epg.112114.xyz/douyu/17732
-小淘气动漫解说,http://epg.112114.xyz/douyu/9527700
-秦虹,http://epg.112114.xyz/douyu/105498
-包王,http://epg.112114.xyz/douyu/66226
-阿帮,http://epg.112114.xyz/douyu/11437
-边哥,http://epg.112114.xyz/douyu/3952247
-小孩,http://epg.112114.xyz/douyu/2125
-ET,http://epg.112114.xyz/douyu/73639
-傲视张无忌,http://epg.112114.xyz/douyu/787951
-超级小杰,http://epg.112114.xyz/douyu/74751
-科幻Fans,http://epg.112114.xyz/douyu/3508304
-赵本山经典小品,http://epg.112114.xyz/douyu/9817716
-宋小宝经典小品,http://epg.112114.xyz/douyu/9817729
-经典小品,http://epg.112114.xyz/douyu/9067836
-游钓中国李大毛,http://epg.112114.xyz/douyu/791411
-老高与小茉,http://epg.112114.xyz/douyu/838632
-F1方程式,http://epg.112114.xyz/douyu/4050212
-曼岛TT-1,http://epg.112114.xyz/huya/19197407
-曼岛TT-2,http://epg.112114.xyz/huya/25813084
-ARRC摩托车,http://epg.112114.xyz/huya/880215
-GT赛车,http://epg.112114.xyz/huya/20072644
-日常野钓,http://epg.112114.xyz/douyu/10103411
-兄弟赶海,http://epg.112114.xyz/douyu/9091847
-野外露营,http://epg.112114.xyz/douyu/10372765
-荒野建造,http://epg.112114.xyz/douyu/10039437
-孤独美食家1,http://epg.112114.xyz/douyu/260322
-孤独美食家2,http://epg.112114.xyz/douyu/953193
-沙雕动画1,http://epg.112114.xyz/douyu/9505575
-沙雕动画2,http://epg.112114.xyz/douyu/9419678
-爆笑解说,http://epg.112114.xyz/douyu/2660125
-臭屁虫,http://epg.112114.xyz/douyu/9942574
-童年经典动画片,http://epg.112114.xyz/douyu/9445279
-猫和老鼠,http://epg.112114.xyz/douyu/7888428
-笑出腹肌动漫,http://epg.112114.xyz/douyu/8380708
-24H动漫专场,http://epg.112114.xyz/douyu/7493575
-中二日记搞笑,http://epg.112114.xyz/douyu/9505575
-动漫推荐官方,http://epg.112114.xyz/douyu/5187099
-经典动漫,http://epg.112114.xyz/douyu/9455567
-Angela小兔,http://epg.112114.xyz/douyu/9617766
-韩剧解说,http://epg.112114.xyz/douyu/8656759
-韩国女团1,http://epg.112114.xyz/douyu/427397
-韩国女团2,http://epg.112114.xyz/douyu/11436664
-韩国女团3,http://epg.112114.xyz/douyu/329667
-韩国女团4,http://epg.112114.xyz/douyu/8189873
-韩国女团5,http://epg.112114.xyz/douyu/40471
-韩国女团6,http://epg.112114.xyz/douyu/8266799
-韩国女团7,http://epg.112114.xyz/douyu/8921085
-韩国女团8,http://epg.112114.xyz/douyu/340224
-24H音乐女团,http://epg.112114.xyz/douyu/3870925
-韩国车模1,http://epg.112114.xyz/douyu/1360303
-韩国车模2,http://epg.112114.xyz/douyu/9805480
-韩国棒球宝贝,http://epg.112114.xyz/douyu/292098
-傻屌小姐姐,http://epg.112114.xyz/douyu/11531165
-日本最新资讯,http://epg.112114.xyz/douyu/296836
-小日子摔角,http://epg.112114.xyz/douyu/425809
-爱情公寓,http://epg.112114.xyz/douyu/6566658
-连续剧1,http://epg.112114.xyz/douyu/4549169
-连续剧2,http://epg.112114.xyz/douyu/7623292
-连续剧3,http://epg.112114.xyz/douyu/5689514
-连续剧4,http://epg.112114.xyz/douyu/7476264
-连续剧5,http://epg.112114.xyz/douyu/4396972
-游戏解说,http://epg.112114.xyz/douyu/805235
-斗鱼小品,http://epg.112114.xyz/douyu/3980787
-斗鱼探险,http://epg.112114.xyz/douyu/3485629
-斗鱼动画,http://epg.112114.xyz/douyu/7528160
-斗鱼1,http://epg.112114.xyz/douyu/2935323
-斗鱼2,http://epg.112114.xyz/douyu/7459925
-斗鱼3,http://epg.112114.xyz/douyu/431460
-斗鱼4,http://epg.112114.xyz/douyu/4246519
-斗鱼5,http://epg.112114.xyz/douyu/7116591
-斗鱼6,http://epg.112114.xyz/douyu/6776615
-斗鱼7,http://epg.112114.xyz/douyu/7655471
-斗鱼8,http://epg.112114.xyz/douyu/4290711
-斗鱼9,http://epg.112114.xyz/douyu/6566671
-斗鱼10,http://epg.112114.xyz/douyu/8475821
-斗鱼11,http://epg.112114.xyz/douyu/338759
-斗鱼12,http://epg.112114.xyz/douyu/2793084
-斗鱼13,http://epg.112114.xyz/douyu/5067952
-斗鱼14,http://epg.112114.xyz/douyu/413573
-斗鱼15,http://epg.112114.xyz/douyu/5033502
-斗鱼16,http://epg.112114.xyz/douyu/426517
-斗鱼17,http://epg.112114.xyz/douyu/1274132
-斗鱼18,http://epg.112114.xyz/douyu/7314294
-斗鱼19,http://epg.112114.xyz/douyu/6582435
-斗鱼20,http://epg.112114.xyz/douyu/323876
-斗鱼4K,http://epg.112114.xyz/douyu/9249162
-斗鱼HD1,http://epg.112114.xyz/douyu/20415
-斗鱼HD2,http://epg.112114.xyz/douyu/10240553
-斗鱼HD3,http://epg.112114.xyz/douyu/122402
-斗鱼HD4,http://epg.112114.xyz/douyu/85894
-斗鱼HD5,http://epg.112114.xyz/douyu/263824
-斗鱼HD6,http://epg.112114.xyz/douyu/747764
-斗鱼HD7,http://epg.112114.xyz/douyu/20415
-斗鱼HD8,http://epg.112114.xyz/douyu/8663752
-斗鱼HD9,http://epg.112114.xyz/douyu/323876
-斗鱼HD10,http://epg.112114.xyz/douyu/6140589
-斗鱼HD11,http://epg.112114.xyz/douyu/8770422
-斗鱼HD12,http://epg.112114.xyz/douyu/2436390
-斗鱼HD13,http://epg.112114.xyz/douyu/218859
-斗鱼HD14,http://epg.112114.xyz/douyu/36337
-斗鱼HD15,http://epg.112114.xyz/douyu/413573
-斗鱼HD16,http://epg.112114.xyz/douyu/1504768
-斗鱼HD17,http://epg.112114.xyz/douyu/3637726
-斗鱼HD18,http://epg.112114.xyz/douyu/9292492
-斗鱼HD19,http://epg.112114.xyz/douyu/3637765rrt97
-斗鱼HD20,http://epg.112114.xyz/douyu/10395991
-斗鱼HD21,http://epg.112114.xyz/douyu/10395986
-斗鱼HD22,http://epg.112114.xyz/douyu/252802
-斗鱼HD23,http://epg.112114.xyz/douyu/ 6079455
-斗鱼HD24,http://epg.112114.xyz/douyu/315131
-斗鱼HD25,http://epg.112114.xyz/douyu/8945323
-斗鱼HD26,http://epg.112114.xyz/douyu/2516864
-斗鱼HD27,http://epg.112114.xyz/douyu/248753
-斗鱼HD28,http://epg.112114.xyz/douyu/4332
-斗鱼HD29,http://epg.112114.xyz/douyu/9651304
-斗鱼HD30,http://epg.112114.xyz/douyu/9650887
-斗鱼HD31,http://epg.112114.xyz/douyu/8814650
-斗鱼HD32,http://epg.112114.xyz/douyu/10240510
-斗鱼HD33,http://epg.112114.xyz/douyu/52787
-斗鱼HD34,http://epg.112114.xyz/douyu/8985415
-斗鱼HD35,http://epg.112114.xyz/douyu/1165374
-斗鱼HD36,http://epg.112114.xyz/douyu/1735337
-斗鱼HD37,http://epg.112114.xyz/douyu/6537888
-斗鱼HD38,http://epg.112114.xyz/douyu/6003761
-斗鱼HD39,http://epg.112114.xyz/douyu/9683979
-斗鱼HD40,http://epg.112114.xyz/douyu/1226741
-斗鱼HD41,http://epg.112114.xyz/douyu/59612
-斗鱼HD42,http://epg.112114.xyz/douyu/925724
-斗鱼搞笑HD1,http://epg.112114.xyz/douyu/9220456
-斗鱼搞笑HD2,http://epg.112114.xyz/douyu/9770949
-斗鱼搞笑HD3,http://epg.112114.xyz/douyu/9067836
-斗鱼搞笑HD4,http://epg.112114.xyz/douyu/9817729
-斗鱼搞笑HD5,http://epg.112114.xyz/douyu/8737695
+寅子,http://epg.112114.eu.org/douyu/71415
+小表哥,http://epg.112114.eu.org/douyu/217331
+安猫,http://epg.112114.eu.org/douyu/524389
+周淑怡,http://epg.112114.eu.org/douyu/290935
+骆歆,http://epg.112114.eu.org/douyu/5189167
+王雨檬,http://epg.112114.eu.org/douyu/139277
+59,http://epg.112114.eu.org/douyu/5168755
+赛文柒,http://epg.112114.eu.org/douyu/105025
+木星劲乐团,http://epg.112114.eu.org/douyu/42388
+孙火旺,http://epg.112114.eu.org/douyu/9770949
+米娜,http://epg.112114.eu.org/douyu/5551871
+RM1,http://epg.112114.eu.org/douyu/131977
+RM2,http://epg.112114.eu.org/douyu/11954695
+七师傅T-ARA,http://epg.112114.eu.org/douyu/17732
+小淘气动漫解说,http://epg.112114.eu.org/douyu/9527700
+秦虹,http://epg.112114.eu.org/douyu/105498
+包王,http://epg.112114.eu.org/douyu/66226
+阿帮,http://epg.112114.eu.org/douyu/11437
+边哥,http://epg.112114.eu.org/douyu/3952247
+小孩,http://epg.112114.eu.org/douyu/2125
+ET,http://epg.112114.eu.org/douyu/73639
+傲视张无忌,http://epg.112114.eu.org/douyu/787951
+超级小杰,http://epg.112114.eu.org/douyu/74751
+科幻Fans,http://epg.112114.eu.org/douyu/3508304
+赵本山经典小品,http://epg.112114.eu.org/douyu/9817716
+宋小宝经典小品,http://epg.112114.eu.org/douyu/9817729
+经典小品,http://epg.112114.eu.org/douyu/9067836
+游钓中国李大毛,http://epg.112114.eu.org/douyu/791411
+老高与小茉,http://epg.112114.eu.org/douyu/838632
+F1方程式,http://epg.112114.eu.org/douyu/4050212
+曼岛TT-1,http://epg.112114.eu.org/huya/19197407
+曼岛TT-2,http://epg.112114.eu.org/huya/25813084
+ARRC摩托车,http://epg.112114.eu.org/huya/880215
+GT赛车,http://epg.112114.eu.org/huya/20072644
+日常野钓,http://epg.112114.eu.org/douyu/10103411
+兄弟赶海,http://epg.112114.eu.org/douyu/9091847
+野外露营,http://epg.112114.eu.org/douyu/10372765
+荒野建造,http://epg.112114.eu.org/douyu/10039437
+孤独美食家1,http://epg.112114.eu.org/douyu/260322
+孤独美食家2,http://epg.112114.eu.org/douyu/953193
+沙雕动画1,http://epg.112114.eu.org/douyu/9505575
+沙雕动画2,http://epg.112114.eu.org/douyu/9419678
+爆笑解说,http://epg.112114.eu.org/douyu/2660125
+臭屁虫,http://epg.112114.eu.org/douyu/9942574
+童年经典动画片,http://epg.112114.eu.org/douyu/9445279
+猫和老鼠,http://epg.112114.eu.org/douyu/7888428
+笑出腹肌动漫,http://epg.112114.eu.org/douyu/8380708
+24H动漫专场,http://epg.112114.eu.org/douyu/7493575
+中二日记搞笑,http://epg.112114.eu.org/douyu/9505575
+动漫推荐官方,http://epg.112114.eu.org/douyu/5187099
+经典动漫,http://epg.112114.eu.org/douyu/9455567
+Angela小兔,http://epg.112114.eu.org/douyu/9617766
+韩剧解说,http://epg.112114.eu.org/douyu/8656759
+韩国女团1,http://epg.112114.eu.org/douyu/427397
+韩国女团2,http://epg.112114.eu.org/douyu/11436664
+韩国女团3,http://epg.112114.eu.org/douyu/329667
+韩国女团4,http://epg.112114.eu.org/douyu/8189873
+韩国女团5,http://epg.112114.eu.org/douyu/40471
+韩国女团6,http://epg.112114.eu.org/douyu/8266799
+韩国女团7,http://epg.112114.eu.org/douyu/8921085
+韩国女团8,http://epg.112114.eu.org/douyu/340224
+24H音乐女团,http://epg.112114.eu.org/douyu/3870925
+韩国车模1,http://epg.112114.eu.org/douyu/1360303
+韩国车模2,http://epg.112114.eu.org/douyu/9805480
+韩国棒球宝贝,http://epg.112114.eu.org/douyu/292098
+傻屌小姐姐,http://epg.112114.eu.org/douyu/11531165
+日本最新资讯,http://epg.112114.eu.org/douyu/296836
+小日子摔角,http://epg.112114.eu.org/douyu/425809
+爱情公寓,http://epg.112114.eu.org/douyu/6566658
+连续剧1,http://epg.112114.eu.org/douyu/4549169
+连续剧2,http://epg.112114.eu.org/douyu/7623292
+连续剧3,http://epg.112114.eu.org/douyu/5689514
+连续剧4,http://epg.112114.eu.org/douyu/7476264
+连续剧5,http://epg.112114.eu.org/douyu/4396972
+游戏解说,http://epg.112114.eu.org/douyu/805235
+斗鱼小品,http://epg.112114.eu.org/douyu/3980787
+斗鱼探险,http://epg.112114.eu.org/douyu/3485629
+斗鱼动画,http://epg.112114.eu.org/douyu/7528160
+斗鱼1,http://epg.112114.eu.org/douyu/2935323
+斗鱼2,http://epg.112114.eu.org/douyu/7459925
+斗鱼3,http://epg.112114.eu.org/douyu/431460
+斗鱼4,http://epg.112114.eu.org/douyu/4246519
+斗鱼5,http://epg.112114.eu.org/douyu/7116591
+斗鱼6,http://epg.112114.eu.org/douyu/6776615
+斗鱼7,http://epg.112114.eu.org/douyu/7655471
+斗鱼8,http://epg.112114.eu.org/douyu/4290711
+斗鱼9,http://epg.112114.eu.org/douyu/6566671
+斗鱼10,http://epg.112114.eu.org/douyu/8475821
+斗鱼11,http://epg.112114.eu.org/douyu/338759
+斗鱼12,http://epg.112114.eu.org/douyu/2793084
+斗鱼13,http://epg.112114.eu.org/douyu/5067952
+斗鱼14,http://epg.112114.eu.org/douyu/413573
+斗鱼15,http://epg.112114.eu.org/douyu/5033502
+斗鱼16,http://epg.112114.eu.org/douyu/426517
+斗鱼17,http://epg.112114.eu.org/douyu/1274132
+斗鱼18,http://epg.112114.eu.org/douyu/7314294
+斗鱼19,http://epg.112114.eu.org/douyu/6582435
+斗鱼20,http://epg.112114.eu.org/douyu/323876
+斗鱼4K,http://epg.112114.eu.org/douyu/9249162
+斗鱼HD1,http://epg.112114.eu.org/douyu/20415
+斗鱼HD2,http://epg.112114.eu.org/douyu/10240553
+斗鱼HD3,http://epg.112114.eu.org/douyu/122402
+斗鱼HD4,http://epg.112114.eu.org/douyu/85894
+斗鱼HD5,http://epg.112114.eu.org/douyu/263824
+斗鱼HD6,http://epg.112114.eu.org/douyu/747764
+斗鱼HD7,http://epg.112114.eu.org/douyu/20415
+斗鱼HD8,http://epg.112114.eu.org/douyu/8663752
+斗鱼HD9,http://epg.112114.eu.org/douyu/323876
+斗鱼HD10,http://epg.112114.eu.org/douyu/6140589
+斗鱼HD11,http://epg.112114.eu.org/douyu/8770422
+斗鱼HD12,http://epg.112114.eu.org/douyu/2436390
+斗鱼HD13,http://epg.112114.eu.org/douyu/218859
+斗鱼HD14,http://epg.112114.eu.org/douyu/36337
+斗鱼HD15,http://epg.112114.eu.org/douyu/413573
+斗鱼HD16,http://epg.112114.eu.org/douyu/1504768
+斗鱼HD17,http://epg.112114.eu.org/douyu/3637726
+斗鱼HD18,http://epg.112114.eu.org/douyu/9292492
+斗鱼HD19,http://epg.112114.eu.org/douyu/3637765rrt97
+斗鱼HD20,http://epg.112114.eu.org/douyu/10395991
+斗鱼HD21,http://epg.112114.eu.org/douyu/10395986
+斗鱼HD22,http://epg.112114.eu.org/douyu/252802
+斗鱼HD23,http://epg.112114.eu.org/douyu/ 6079455
+斗鱼HD24,http://epg.112114.eu.org/douyu/315131
+斗鱼HD25,http://epg.112114.eu.org/douyu/8945323
+斗鱼HD26,http://epg.112114.eu.org/douyu/2516864
+斗鱼HD27,http://epg.112114.eu.org/douyu/248753
+斗鱼HD28,http://epg.112114.eu.org/douyu/4332
+斗鱼HD29,http://epg.112114.eu.org/douyu/9651304
+斗鱼HD30,http://epg.112114.eu.org/douyu/9650887
+斗鱼HD31,http://epg.112114.eu.org/douyu/8814650
+斗鱼HD32,http://epg.112114.eu.org/douyu/10240510
+斗鱼HD33,http://epg.112114.eu.org/douyu/52787
+斗鱼HD34,http://epg.112114.eu.org/douyu/8985415
+斗鱼HD35,http://epg.112114.eu.org/douyu/1165374
+斗鱼HD36,http://epg.112114.eu.org/douyu/1735337
+斗鱼HD37,http://epg.112114.eu.org/douyu/6537888
+斗鱼HD38,http://epg.112114.eu.org/douyu/6003761
+斗鱼HD39,http://epg.112114.eu.org/douyu/9683979
+斗鱼HD40,http://epg.112114.eu.org/douyu/1226741
+斗鱼HD41,http://epg.112114.eu.org/douyu/59612
+斗鱼HD42,http://epg.112114.eu.org/douyu/925724
+斗鱼搞笑HD1,http://epg.112114.eu.org/douyu/9220456
+斗鱼搞笑HD2,http://epg.112114.eu.org/douyu/9770949
+斗鱼搞笑HD3,http://epg.112114.eu.org/douyu/9067836
+斗鱼搞笑HD4,http://epg.112114.eu.org/douyu/9817729
+斗鱼搞笑HD5,http://epg.112114.eu.org/douyu/8737695
 
 
 虎牙直播,#genre#
@@ -4682,34 +4723,34 @@ Angela小兔,http://epg.112114.xyz/douyu/9617766
 虎牙电影25,http://www.goodiptv.club/huya/11352886
 虎牙电影26,http://www.goodiptv.club/huya/11602044
 虎牙电影27,http://www.goodiptv.club/huya/11602058
-虎牙电影1,http://epg.112114.xyz/huya/11602077
-虎牙电影2,http://epg.112114.xyz/huya/11601968
-虎牙电影2,http://epg.112114.xyz/huya/11342388
-虎牙电影3,http://epg.112114.xyz/huya/11342412
-虎牙电影3,http://epg.112114.xyz/huya/11352965
-虎牙电影4,http://epg.112114.xyz/huya/11342386
-虎牙电影5,http://epg.112114.xyz/huya/11601986
-虎牙电影6,http://epg.112114.xyz/huya/11601971
-虎牙电影7,http://epg.112114.xyz/huya/11336592
-虎牙电影8,http://epg.112114.xyz/huya/11342390
-虎牙电影9,http://epg.112114.xyz/huya/11352941
-虎牙电影10,http://epg.112114.xyz/huya/11279251
-虎牙电影11,http://epg.112114.xyz/huya/11602041
-虎牙电影12,http://epg.112114.xyz/huya/11352963
-虎牙电影14,http://epg.112114.xyz/huya/11602075
-虎牙电影15,http://epg.112114.xyz/huya/11352962
-虎牙电影16,http://epg.112114.xyz/huya/11336571
-虎牙电影17,http://epg.112114.xyz/huya/11342427
-虎牙电影18,http://epg.112114.xyz/huya/11336719
-虎牙电影19,http://epg.112114.xyz/huya/11352894
-虎牙电影20,http://epg.112114.xyz/huya/11352877
-虎牙电影21,http://epg.112114.xyz/huya/11602077
-虎牙电影22,http://epg.112114.xyz/huya/11601960
-虎牙电影23,http://epg.112114.xyz/huya/11352965
-虎牙电影24,http://epg.112114.xyz/huya/11342435
-虎牙电影25,http://epg.112114.xyz/huya/11352886
-虎牙电影26,http://epg.112114.xyz/huya/11602044
-虎牙电影27,http://epg.112114.xyz/huya/11602058
+虎牙电影1,http://epg.112114.eu.org/huya/11602077
+虎牙电影2,http://epg.112114.eu.org/huya/11601968
+虎牙电影2,http://epg.112114.eu.org/huya/11342388
+虎牙电影3,http://epg.112114.eu.org/huya/11342412
+虎牙电影3,http://epg.112114.eu.org/huya/11352965
+虎牙电影4,http://epg.112114.eu.org/huya/11342386
+虎牙电影5,http://epg.112114.eu.org/huya/11601986
+虎牙电影6,http://epg.112114.eu.org/huya/11601971
+虎牙电影7,http://epg.112114.eu.org/huya/11336592
+虎牙电影8,http://epg.112114.eu.org/huya/11342390
+虎牙电影9,http://epg.112114.eu.org/huya/11352941
+虎牙电影10,http://epg.112114.eu.org/huya/11279251
+虎牙电影11,http://epg.112114.eu.org/huya/11602041
+虎牙电影12,http://epg.112114.eu.org/huya/11352963
+虎牙电影14,http://epg.112114.eu.org/huya/11602075
+虎牙电影15,http://epg.112114.eu.org/huya/11352962
+虎牙电影16,http://epg.112114.eu.org/huya/11336571
+虎牙电影17,http://epg.112114.eu.org/huya/11342427
+虎牙电影18,http://epg.112114.eu.org/huya/11336719
+虎牙电影19,http://epg.112114.eu.org/huya/11352894
+虎牙电影20,http://epg.112114.eu.org/huya/11352877
+虎牙电影21,http://epg.112114.eu.org/huya/11602077
+虎牙电影22,http://epg.112114.eu.org/huya/11601960
+虎牙电影23,http://epg.112114.eu.org/huya/11352965
+虎牙电影24,http://epg.112114.eu.org/huya/11342435
+虎牙电影25,http://epg.112114.eu.org/huya/11352886
+虎牙电影26,http://epg.112114.eu.org/huya/11602044
+虎牙电影27,http://epg.112114.eu.org/huya/11602058
 
 直播中国,#genre#
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
