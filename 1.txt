@@ -133,10 +133,11 @@ CCTV16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/322
 CCTV17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225765/2.m3u8
 CCTV5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225603/2.m3u8
 
+劲爆体育,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002026/index.m3u8?IASHttpSessionId=
 劲爆体育,http://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv
 劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000008
-眼彩篮球,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000118
-哒哒电竞,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000097
+眼彩篮球,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270006/1.m3u8
+游戏风云,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002024/index.m3u8?IASHttpSessionId=
 哒啵赛事,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000121
 眼彩竞技,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000119
 CCTV央视台球,http://183.191.226.144:8083/rtp/226.0.2.216:9640
@@ -3364,40 +3365,6 @@ KISS欢,http://live.metshop.top/douyin/664687086316
 老阴,http://live.metshop.top/douyin/628827332800
 瑶瑶,http://live.metshop.top/douyin/374988533945
 初一,http://live.metshop.top/douyin/430278953572
-SSS,http://120.77.28.4:8648/douyin.php?id=480502403271
-XX,http://120.77.28.4:8648/douyin.php?id=401978291540
-小牧,http://120.77.28.4:8648/douyin.php?id=801945431701
-金涛,http://120.77.28.4:8648/douyin.php?id=620829977401
-小寒,http://120.77.28.4:8648/douyin.php?id=731922732164
-TRY人生导师,http://120.77.28.4:8648/douyin.php?id=48656747725
-沈阳夜枫,http://120.77.28.4:8648/douyin.php?id=704495855450
-一阵雨,http://120.77.28.4:8648/douyin.php?id=775263084570
-小苏菲,http://120.77.28.4:8648/douyin.php?id=579096174763
-旭旭宝宝,http://120.77.28.4:8648/douyin.php?id=660292215268
-夏法,http://120.77.28.4:8648/douyin.php?id=10272500545
-大枪炮狗,http://120.77.28.4:8648/douyin.php?id=636574749544
-庄大蹦,http://120.77.28.4:8648/douyin.php?id=824106162650
-马区,http://120.77.28.4:8648/douyin.php?id=681873301247
-温柔,http://120.77.28.4:8648/douyin.php?id=117186899183
-李永,http://120.77.28.4:8648/douyin.php?id=521739537052
-KISS欢,http://120.77.28.4:8648/douyin.php?id=664687086316
-糊涂仙,http://120.77.28.4:8648/douyin.php?id=621050798339
-阿旺,http://120.77.28.4:8648/douyin.php?id=14759861745
-夜风,http://120.77.28.4:8648/douyin.php?id=292171362650
-肉肉拳,http://120.77.28.4:8648/douyin.php?id=19439956372
-旋律,http://120.77.28.4:8648/douyin.php?id=47598052880
-叶修,http://120.77.28.4:8648/douyin.php?id=942140471527
-小乐,http://120.77.28.4:8648/douyin.php?id=1683721210
-红领巾,http://120.77.28.4:8648/douyin.php?id=338068373467
-瓜子,http://120.77.28.4:8648/douyin.php?id=651319479241
-夏雫,http://120.77.28.4:8648/douyin.php?id=666216419591
-哈尔滨孟哥,http://120.77.28.4:8648/douyin.php?id=458347485074
-醉逍遥解说,http://120.77.28.4:8648/douyin.php?id=70364111337
-坏叉,http://120.77.28.4:8648/douyin.php?id=667273243762
-光明,http://120.77.28.4:8648/douyin.php?id=761885906943
-老阴,http://120.77.28.4:8648/douyin.php?id=628827332800
-瑶瑶,http://120.77.28.4:8648/douyin.php?id=374988533945
-初一,http://120.77.28.4:8648/douyin.php?id=430278953572
 
 
 斗鱼直播,#genre#
