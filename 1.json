@@ -1,4 +1,4 @@
-{
+[
      {
         "name": "玩偶哥哥",
         "api": "https://ghp.ci/https://raw.githubusercontent.com/kxbperfect/kxb/refs/heads/main/js/wogg.js",
@@ -334,4 +334,4 @@
         "version": "2",
         "type": 100
       }
-    }
+    ]
