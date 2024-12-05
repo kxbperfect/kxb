@@ -1,4 +1,13 @@
-[
+[ 
+	"recommend": [
+        {
+            "name": "豆瓣推荐",
+            "codeID": "f2GRQWVkMifmWtoE",
+            "url": "http://uz.xn--z7x900a.com/js/douban.txt",
+            "version": "2",
+            "type": 200
+        }
+    ],
     {
         "name": "玩偶哥哥",
         "api": "https://ghp.ci/https://raw.githubusercontent.com/kxbperfect/kxb/refs/heads/main/js/wogg.js",
