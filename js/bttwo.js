@@ -1,20 +1,14 @@
 // ignore
-import { } from '../../core/uzVideo.js'
-import { } from '../../core/uzHome.js'
-import { } from '../../core/uz3lib.js'
-import { } from '../../core/uzUtils.js'
+import {} from '../../core/uzVideo.js'
+import {} from '../../core/uzHome.js'
+import {} from '../../core/uz3lib.js'
+import {} from '../../core/uzUtils.js'
 // ignore
 
 class bttwoClass extends WebApiBase {
-    /**
-     *
-     */
-    constructor() {
-        super();
-        this.url = 'https://www.bttwoo.com'
-        this.headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36',
-        }
+    url = 'https://www.bttwoo.com'
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36',
     }
 
     /**

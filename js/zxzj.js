@@ -1,18 +1,12 @@
 // ignore
-import { } from '../../core/uzVideo.js'
-import { } from '../../core/uzHome.js'
-import { } from '../../core/uz3lib.js'
-import { } from '../../core/uzUtils.js'
+import {} from '../../core/uzVideo.js'
+import {} from '../../core/uzHome.js'
+import {} from '../../core/uz3lib.js'
+import {} from '../../core/uzUtils.js'
 // ignore
 
 class zxzjClass extends WebApiBase {
-    /**
-     *
-     */
-    constructor() {
-        super();
-        this.webSite = 'https://www.zxzja.com'
-    }
+    webSite = 'https://www.zxzja.com'
     /**
      * 异步获取分类列表的方法。
      * @param {UZArgs} args

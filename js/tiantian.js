@@ -13,7 +13,7 @@ class tiantianClass extends WebApiBase {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36',
         }
         this.cookie = ''
-        this.extendObj = { extend: '類型', area: '地區', year: '年份' }
+        this.extendObj = { extend: '类型', area: '地区', year: '年份' }
         this.parseMap = {}
     }
 

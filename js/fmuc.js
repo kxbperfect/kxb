@@ -1,8 +1,8 @@
 // 类名要特殊
-class Zhizhen extends WebApiBase {
+class FMUC extends WebApiBase {
   constructor() {
     super();
-    this.webSite = 'https://mihdr.top/';
+    this.webSite = 'http://feimaouc.cloud:666';
   }
   /**
    * 异步获取分类列表的方法。
@@ -14,32 +14,27 @@ class Zhizhen extends WebApiBase {
     backData.data = [
       {
         type_id: '1',
-        type_name: '至臻电影',
+        type_name: '电影',
         hasSubclass: false,
       },
       {
         type_id: '2',
-        type_name: '至臻剧集',
-        hasSubclass: false,
-      },
-      {
-        type_id: '3',
-        type_name: '至臻动漫',
+        type_name: '电视剧',
         hasSubclass: false,
       },
       {
         type_id: '4',
-        type_name: '至臻综艺',
+        type_name: '动漫',
         hasSubclass: false,
       },
       {
-        type_id: '25',
-        type_name: '至臻视觉',
+        type_id: '3',
+        type_name: '综艺',
         hasSubclass: false,
       },
       {
         type_id: '5',
-        type_name: '至臻短剧',
+        type_name: '短剧',
         hasSubclass: false,
       },
     ];
@@ -213,4 +208,4 @@ class Zhizhen extends WebApiBase {
 }
 
 // json 中 instance 的值，这个名称一定要特殊
-var zhizhen20241029 = new Zhizhen();
+var fmuc20241128 = new FMUC();

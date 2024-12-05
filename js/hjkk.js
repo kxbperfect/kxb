@@ -29,17 +29,17 @@ class hjkkClass extends WebApiBase {
             backData.data = [
                 {
                     type_id: '1',
-                    type_name: '韓劇',
+                    type_name: '韩剧',
                     hasSubclass: true,
                 },
                 {
                     type_id: '2',
-                    type_name: '韓影',
+                    type_name: '韩影',
                     hasSubclass: true,
                 },
                 {
                     type_id: '3',
-                    type_name: '韓綜',
+                    type_name: '韩综',
                     hasSubclass: true,
                 },
             ]
@@ -61,7 +61,7 @@ class hjkkClass extends WebApiBase {
                 case '1':
                     filter = [
                         {
-                            name: '分類',
+                            name: '分类',
                             list: [
                                 { name: '全部', id: '' },
                                 { name: '喜剧', id: '喜剧' },
@@ -137,7 +137,7 @@ class hjkkClass extends WebApiBase {
                 case '2':
                     filter = [
                         {
-                            name: '分類',
+                            name: '分类',
                             list: [
                                 { name: '全部', id: '' },
                                 { name: '古装', id: '古装' },
@@ -202,7 +202,7 @@ class hjkkClass extends WebApiBase {
                 case '3':
                     filter = [
                         {
-                            name: '分類',
+                            name: '分类',
                             list: [
                                 { name: '全部', id: '' },
                                 { name: '喜剧', id: '喜剧' },
