@@ -110,10 +110,10 @@ CCTV央视高网,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000094/inde
 CCTV古装剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/6859053933687922163/1.m3u8
 CCTV动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
 CCTV电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-丁俊晖专场,http://dns.yiandrive.com:16813/huya/880211
-斯诺克1,http://dns.yiandrive.com:16813//huya/880214
-斯诺克2,http://dns.yiandrive.com:16813//huya/880625
-斯诺克3,http://dns.yiandrive.com:16813//huya/390653
+丁俊晖专场,http://dns.yiandrive.com:15907/huya/880211
+斯诺克1,http://dns.yiandrive.com:15907//huya/880214
+斯诺克2,http://dns.yiandrive.com:15907//huya/880625
+斯诺克3,http://dns.yiandrive.com:15907//huya/390653
 丁俊晖专场,http://120.77.28.4:8648/huya/880211
 斯诺克1,http://120.77.28.4:8648/huya/880214
 斯诺克2,http://120.77.28.4:8648/huya/880625
@@ -707,15 +707,58 @@ CHC高清电影,http://171.117.181.232:8082/rtp/226.0.2.93:8004
 湖南卫视,http://zy.otioi.cn/live/live.php?token=EkShOWBY&id=hnws
 
 🛰辽宁地方,#genre#
-朝阳新闻综合,http://120.76.248.139/live/bfgd/4200000282.m3u8
-辽宁北方,http://120.76.248.139/live/bfgd/4200000071.m3u8
-辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
-辽宁教育青少,http://120.76.248.139/live/bfgd/4200000075.m3u8
-辽宁生活,http://120.76.248.139/live/bfgd/4200000073.m3u8
+辽宁卫视,http://dassby.qqff.top:99/live/辽宁卫视高清/index.m3u8
+辽宁生活,http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
+辽宁北方,http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
+辽宁公共,http://dassby.qqff.top:99/live/辽宁公共/index.m3u8
+辽宁都市,http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
+辽宁经济,http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
+辽宁体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
+辽宁影视剧,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
+辽宁教育青少,http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8
+辽宁卫视,http://120.76.248.139/live/bfgd/4200000141.m3u8
+辽宁卫视,http://120.76.248.139/live/bfgd/4200000185.m3u8
+辽宁卫视HD,http://120.76.248.139/live/bfgd/4200000058.m3u8
 辽宁经济,http://120.76.248.139/live/bfgd/4200000076.m3u8
 辽宁经济,http://120.76.248.139/live/bfgd/4200000480.m3u8
-辽宁都市,http://120.76.248.139/live/bfgd/4200000068.m3u8
 辽宁都市,http://120.76.248.139/live/bfgd/4200000610.m3u8
+辽宁都市,http://120.76.248.139/live/bfgd/4200000068.m3u8
+辽宁公共,http://120.76.248.139/live/bfgd/4200000481.m3u8
+辽宁公共,http://120.76.248.139/live/bfgd/4200000077.m3u8
+辽宁北方,http://120.76.248.139/live/bfgd/4200000071.m3u8
+北方导视,http://120.76.248.139/live/bfgd/4200000187.m3u8
+辽宁教育青少,http://120.76.248.139/live/bfgd/4200000075.m3u8
+辽宁生活,http://120.76.248.139/live/bfgd/4200000073.m3u8
+辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
+辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
+家庭理财,http://120.76.248.139/live/bfgd/4200000139.m3u8
+鞍山新闻综合,http://120.76.248.139/live/bfgd/4200000274.m3u8
+本溪新闻频道,http://120.76.248.139/live/bfgd/4200000312.m3u8
+朝阳新闻综合,http://120.76.248.139/live/bfgd/4200000282.m3u8
+丹东新闻综合,http://120.76.248.139/live/bfgd/4200000276.m3u8
+大连新闻综合,http://120.76.248.139/live/bfgd/4200000273.m3u8
+抚顺新闻综合,http://120.76.248.139/live/bfgd/4200000275.m3u8
+阜新新闻综合,http://120.76.248.139/live/bfgd/4200000279.m3u8
+葫芦岛新闻综合,http://120.76.248.139/live/bfgd/4200000284.m3u8
+龙港综合,http://120.76.248.139/live/bfgd/4200000490.m3u8
+连山综合,http://120.76.248.139/live/bfgd/4200000491.m3u8
+锦州新闻综合,http://120.76.248.139/live/bfgd/4200000277.m3u8
+辽阳新闻综合,http://120.76.248.139/live/bfgd/4200000280.m3u8
+盘锦新闻综合,http://120.76.248.139/live/bfgd/4200000283.m3u8
+沈阳新闻,http://120.76.248.139/live/bfgd/4200000059.m3u8
+铁岭综合频道,http://120.76.248.139/live/bfgd/4200000281.m3u8
+营口新闻频道,http://120.76.248.139/live/bfgd/4200000278.m3u8
+辽宁卫视,http://59.44.102.18:8888/newlive/live/hls/42/live.m3u8
+辽宁公共,http://59.44.102.18:8888/newlive/live/hls/44/live.m3u8
+辽宁生活,http://59.44.102.18:8888/newlive/live/hls/45/live.m3u8
+辽宁都市,http://59.44.102.18:8888/newlive/live/hls/46/live.m3u8
+辽宁经济,http://59.44.102.18:8888/newlive/live/hls/47/live.m3u8
+辽宁体育休闲,http://59.44.102.18:8888/newlive/live/hls/48/live.m3u8
+辽宁影视剧,http://59.44.102.18:8888/newlive/live/hls/49/live.m3u8
+辽宁北方,http://59.44.102.18:8888/newlive/live/hls/50/live.m3u8
+辽宁教育青少,http://59.44.102.18:8888/newlive/live/hls/51/live.m3u8
+大连新闻综合,http://59.44.102.18:8888/newlive/live/hls/52/live.m3u8
+大连文体频道,rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500$官方源
 
 📦裸眼3D,#genre#
 生物多样性,http://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
@@ -994,6 +1037,9 @@ MV,http://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7nz
 
 
 🎬咪咕直播,#genre#
+UFC格斗之夜,http://www.52sw.top:678/play/huya.php?id=19197452
+UFC钢炮,http://www.52sw.top:678/play/huya.php?id=29287085
+UFC张伟丽MMA,http://www.52sw.top:678/play/huya.php?id=134769
 咪咕直播-1,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 咪咕直播-2,http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 咪咕直播-3,http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
@@ -1615,26 +1661,26 @@ YY歐美動作,http://live.iill.top/yy.php?id=1382745089
 YY連續劇台,http://live.iill.top/yy.php?id=1352227227
 YY剧场频道,http://live.iill.top/yy.php?id=1382702247
 YY剧场怀旧,http://live.iill.top/yy.php?id=1382627144
-YY电影台01,http://dns.yiandrive.com:16813/yy/1382749892
-YY电影台02,http://dns.yiandrive.com:16813/yy/1382735573
-YY电影台03,http://dns.yiandrive.com:16813/yy/24921161
-YY电影台04,http://dns.yiandrive.com:16813/yy/1382736803
-YY电影台05,http://dns.yiandrive.com:16813/yy/1354930924
-YY电影台06,http://dns.yiandrive.com:16813/yy/1382745095
-YY电影台07,http://dns.yiandrive.com:16813/yy/1355171357
-YY电影台08,http://dns.yiandrive.com:16813/yy/24066336
-YY电影台09,http://dns.yiandrive.com:16813/yy/1354143966
-YY李连杰台,http://dns.yiandrive.com:16813/yy/1459869766
-YY成龍影院,http://dns.yiandrive.com:16813/yy/1354888751
-YY林正英频,http://dns.yiandrive.com:16813/yy/1351505899
-YY林正英道,http://dns.yiandrive.com:16813/yy/1353685311
-YY電影輪播,http://dns.yiandrive.com:16813/yy/1353059120
-YY歐美電影,http://dns.yiandrive.com:16813/yy/24923327
-YY歐美科幻,http://dns.yiandrive.com:16813/yy/37988782
-YY歐美動作,http://dns.yiandrive.com:16813/yy/1382745089
-YY連續劇台,http://dns.yiandrive.com:16813/yy/1352227227
-YY剧场频道,http://dns.yiandrive.com:16813/yy/1382702247
-YY剧场怀旧,http://dns.yiandrive.com:16813/yy/1382627144
+YY电影台01,http://dns.yiandrive.com:15907/yy/1382749892
+YY电影台02,http://dns.yiandrive.com:15907/yy/1382735573
+YY电影台03,http://dns.yiandrive.com:15907/yy/24921161
+YY电影台04,http://dns.yiandrive.com:15907/yy/1382736803
+YY电影台05,http://dns.yiandrive.com:15907/yy/1354930924
+YY电影台06,http://dns.yiandrive.com:15907/yy/1382745095
+YY电影台07,http://dns.yiandrive.com:15907/yy/1355171357
+YY电影台08,http://dns.yiandrive.com:15907/yy/24066336
+YY电影台09,http://dns.yiandrive.com:15907/yy/1354143966
+YY李连杰台,http://dns.yiandrive.com:15907/yy/1459869766
+YY成龍影院,http://dns.yiandrive.com:15907/yy/1354888751
+YY林正英频,http://dns.yiandrive.com:15907/yy/1351505899
+YY林正英道,http://dns.yiandrive.com:15907/yy/1353685311
+YY電影輪播,http://dns.yiandrive.com:15907/yy/1353059120
+YY歐美電影,http://dns.yiandrive.com:15907/yy/24923327
+YY歐美科幻,http://dns.yiandrive.com:15907/yy/37988782
+YY歐美動作,http://dns.yiandrive.com:15907/yy/1382745089
+YY連續劇台,http://dns.yiandrive.com:15907/yy/1352227227
+YY剧场频道,http://dns.yiandrive.com:15907/yy/1382702247
+YY剧场怀旧,http://dns.yiandrive.com:15907/yy/1382627144
 YY电影台01,http://120.77.28.4:8648/yy/1382749892
 YY电影台02,http://120.77.28.4:8648/yy/1382735573
 YY电影台03,http://120.77.28.4:8648/yy/24921161
@@ -2089,6 +2135,192 @@ YY剧场怀旧,http://epg.112114.eu.org/yy/1382627144
 高帧影片,http://huanqiuzhibo.cn/manifest/douyu.php?id=6763930
 米娅电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=6537888
 小九电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=7136517
+科幻动作经典喜剧,http://dns.yiandrive.com:15907/douyu/4332
+经典科幻动作灾难巨兽,http://dns.yiandrive.com:15907/douyu/252802
+电影星爷,http://dns.yiandrive.com:15907/douyu/122402
+电影英叔,http://dns.yiandrive.com:15907/douyu/7356023
+吃米滴虫,http://dns.yiandrive.com:15907/douyu/315457
+高分电影,http://dns.yiandrive.com:15907/douyu/7254536
+豆瓣高分,http://dns.yiandrive.com:15907/douyu/8770422
+漫威影院,http://dns.yiandrive.com:15907/douyu/6140589
+特辑电影,http://dns.yiandrive.com:15907/douyu/3637778
+粤语电影,http://dns.yiandrive.com:15907/douyu/1226741
+国产电影,http://dns.yiandrive.com:15907/douyu/5423
+精彩电影,http://dns.yiandrive.com:15907/douyu/9650887
+喜剧电影,http://dns.yiandrive.com:15907/douyu/323876
+动作电影,http://dns.yiandrive.com:15907/douyu/6763930
+恐怖电影,http://dns.yiandrive.com:15907/douyu/218859
+恐怖鬼怪,http://dns.yiandrive.com:15907/douyu/1165374
+童年阴影,http://dns.yiandrive.com:15907/douyu/2935323
+惊悚电影,http://dns.yiandrive.com:15907/douyu/96577
+粤语电影,http://dns.yiandrive.com:15907/douyu/6566671
+华语影视,http://dns.yiandrive.com:15907/douyu/3928
+神乐影视,http://dns.yiandrive.com:15907/douyu/85894
+周末影院,http://dns.yiandrive.com:15907/douyu/3637765
+周末电影,http://dns.yiandrive.com:15907/douyu/3637726
+兔子影厅,http://dns.yiandrive.com:15907/douyu/8985415
+冰冰影厅,http://dns.yiandrive.com:15907/douyu/74374
+刀刀影院,http://dns.yiandrive.com:15907/douyu/747764
+奶虫影院,http://dns.yiandrive.com:15907/douyu/263824
+贝爷壹厅,http://dns.yiandrive.com:15907/douyu/252802
+贝爷贰厅,http://dns.yiandrive.com:15907/douyu/4332
+贝爷叁厅,http://dns.yiandrive.com:15907/douyu/36337
+凌儿影院,http://dns.yiandrive.com:15907/douyu/1377142
+云宝影院,http://dns.yiandrive.com:15907/douyu/7305938
+花卷影院,http://dns.yiandrive.com:15907/douyu/52787
+菜园小饼,http://dns.yiandrive.com:15907/douyu/1735337
+米娅影院,http://dns.yiandrive.com:15907/douyu/6537888
+橙記港剧,http://dns.yiandrive.com:15907/douyu/4549169
+大宝影视,http://dns.yiandrive.com:15907/douyu/805235
+蚂蚱影视,http://dns.yiandrive.com:15907/douyu/6079455
+怡寶影视,http://dns.yiandrive.com:15907/douyu/434971
+圆子影视,http://dns.yiandrive.com:15907/douyu/6566658
+贝贝影视,http://dns.yiandrive.com:15907/douyu/431460
+可乐影视,http://dns.yiandrive.com:15907/douyu/20415
+萌牛影视,http://dns.yiandrive.com:15907/douyu/7494871
+兔兔影视,http://dns.yiandrive.com:15907/douyu/1504768
+无双影视,http://dns.yiandrive.com:15907/douyu/4870914
+下饭神剧,http://dns.yiandrive.com:15907/douyu/276200
+古装神剧,http://dns.yiandrive.com:15907/douyu/338759
+晚湾影视,http://dns.yiandrive.com:15907/douyu/9461178
+酒染影视,http://dns.yiandrive.com:15907/douyu/7550220
+芊珏影视,http://dns.yiandrive.com:15907/douyu/8814650
+热门港剧,http://dns.yiandrive.com:15907/douyu/5522351
+盗墓剧集,http://dns.yiandrive.com:15907/douyu/9292503
+金庸武侠,http://dns.yiandrive.com:15907/douyu/7644931
+国产剧集,http://dns.yiandrive.com:15907/douyu/8157860
+国产剧场,http://dns.yiandrive.com:15907/douyu/308752
+爱情公寓,http://dns.yiandrive.com:15907/douyu/2838296
+经典剧集,http://dns.yiandrive.com:15907/douyu/6863367
+李卫当官,http://dns.yiandrive.com:15907/douyu/7473576
+龙门镖局,http://dns.yiandrive.com:15907/douyu/9650860
+雍正王朝,http://dns.yiandrive.com:15907/douyu/4944033
+雍正帝王,http://dns.yiandrive.com:15907/douyu/9650836
+隋唐演义,http://dns.yiandrive.com:15907/douyu/7552568
+大宋神探,http://dns.yiandrive.com:15907/douyu/7784862
+音乐欣赏,http://dns.yiandrive.com:15907/douyu/3186217
+舌尖美食,http://dns.yiandrive.com:15907/douyu/9650849
+篮球人物,http://dns.yiandrive.com:15907/douyu/8434598
+史君说剧,http://dns.yiandrive.com:15907/douyu/9419771
+史剧解说,http://dns.yiandrive.com:15907/douyu/297689
+老秦说剧,http://dns.yiandrive.com:15907/douyu/9650131
+老蔡解说,http://dns.yiandrive.com:15907/douyu/8869614
+长片短解,http://dns.yiandrive.com:15907/douyu/9410946
+宇哥解说,http://dns.yiandrive.com:15907/douyu/8651489
+夜魔人老王,http://dns.yiandrive.com:15907/douyu/610972
+皮皮看动漫,http://dns.yiandrive.com:15907/douyu/9837291
+开心锤动漫,http://dns.yiandrive.com:15907/douyu/9018297
+拳叔二次元,http://dns.yiandrive.com:15907/douyu/9484105
+老邪说电影,http://dns.yiandrive.com:15907/douyu/9222870
+洗碗君解说,http://dns.yiandrive.com:15907/douyu/9446706
+百晓生说剧,http://dns.yiandrive.com:15907/douyu/9649681
+百晓生解说,http://dns.yiandrive.com:15907/douyu/9653063
+小司马说剧,http://dns.yiandrive.com:15907/douyu/4808115
+小司马解说,http://dns.yiandrive.com:15907/douyu/9660127
+星君说电影,http://dns.yiandrive.com:15907/douyu/8014467
+刘哔讲电影,http://dns.yiandrive.com:15907/douyu/2632223
+老王说电影,http://dns.yiandrive.com:15907/douyu/9687733
+贤于说电影,http://dns.yiandrive.com:15907/douyu/9461990
+牛叔说电影,http://dns.yiandrive.com:15907/douyu/2758565
+侃片大师兄,http://dns.yiandrive.com:15907/douyu/9338839
+虫哥说电影,http://dns.yiandrive.com:15907/douyu/8915074
+电影迷小雅,http://dns.yiandrive.com:15907/douyu/9639225
+1900影剧室,http://dns.yiandrive.com:15907/douyu/7796193
+刘老师说电影,http://dns.yiandrive.com:15907/douyu/8317926
+来呀官人解说,http://dns.yiandrive.com:15907/douyu/9986305
+科幻Fans布玛,http://dns.yiandrive.com:15907/douyu/3508304
+小片片说大片,http://dns.yiandrive.com:15907/douyu/4258555
+大片片说小片,http://dns.yiandrive.com:15907/douyu/7489563
+火龙果说电影,http://dns.yiandrive.com:15907/douyu/9559158
+鬼片恐怖惊悚,http://dns.yiandrive.com:15907/douyu/2935323
+恐怖故事,http://dns.yiandrive.com:15907/douyu/2337939
+科幻动作,http://dns.yiandrive.com:15907/douyu/4332
+怡寳影院,http://dns.yiandrive.com:15907/douyu/434971
+粤语电影,http://dns.yiandrive.com:15907/douyu/6566671
+神乐影院,http://dns.yiandrive.com:15907/douyu/85894
+苹果影院,http://dns.yiandrive.com:15907/douyu/2793084
+午夜故事,http://dns.yiandrive.com:15907/douyu/8722254
+功夫港片,http://dns.yiandrive.com:15907/douyu/3637765
+桃花影院,http://dns.yiandrive.com:15907/douyu/7305938
+贝贝影院,http://dns.yiandrive.com:15907/douyu/431460
+译制国语,http://dns.yiandrive.com:15907/douyu/2436390
+幸运影院,http://dns.yiandrive.com:15907/douyu/7270927
+蚂蚱影院,http://dns.yiandrive.com:15907/douyu/6079455
+纪录片,http://dns.yiandrive.com:15907/douyu/4360438
+贝爷求生,http://dns.yiandrive.com:15907/douyu/454867
+野外生存,http://dns.yiandrive.com:15907/douyu/1339207
+经典港剧,http://dns.yiandrive.com:15907/douyu/4549169
+小宇影院,http://dns.yiandrive.com:15907/douyu/323876
+恐怖丧尸鬼片,http://dns.yiandrive.com:15907/douyu/263824
+表妹影院,http://dns.yiandrive.com:15907/douyu/5423
+荒野建造者,http://dns.yiandrive.com:15907/douyu/9611578
+邦德影院,http://dns.yiandrive.com:15907/douyu/9292499
+科幻动作灾难,http://dns.yiandrive.com:15907/douyu/248753
+可乐影院,http://dns.yiandrive.com:15907/douyu/20415
+特辑影院,http://dns.yiandrive.com:15907/douyu/3637778
+贝爷影院,http://dns.yiandrive.com:15907/douyu/252802
+惊悚影院,http://dns.yiandrive.com:15907/douyu/96577
+港式恐怖,http://dns.yiandrive.com:15907/douyu/3637726
+吃米滴虫,http://dns.yiandrive.com:15907/douyu/315457
+漫威影片,http://dns.yiandrive.com:15907/douyu/6140589
+刘德华电影1,http://dns.yiandrive.com:15907/douyu/2516864
+喜剧经典,http://dns.yiandrive.com:15907/douyu/9650887
+豆瓣高分,http://dns.yiandrive.com:15907/douyu/8770422
+林正英电影2,http://dns.yiandrive.com:15907/douyu/7356023
+宇哥电影,http://dns.yiandrive.com:15907/douyu/413573
+贝爷影厅2,http://dns.yiandrive.com:15907/douyu/36337
+霍格影片,http://dns.yiandrive.com:15907/douyu/8814650
+冰冰经典电影,http://dns.yiandrive.com:15907/douyu/74374
+避风港影院,http://dns.yiandrive.com:15907/douyu/9826611
+恐怖经典,http://dns.yiandrive.com:15907/douyu/1165374
+华语电影,http://dns.yiandrive.com:15907/douyu/3928
+华语动作电影,http://dns.yiandrive.com:15907/douyu/1504768
+喜剧电影,http://dns.yiandrive.com:15907/douyu/9292492
+带你看大片,http://dns.yiandrive.com:15907/douyu/2758565
+海绵与大星,http://dns.yiandrive.com:15907/douyu/2250349
+一起看恐怖片,http://dns.yiandrive.com:15907/douyu/9412287
+平安夜快乐,http://dns.yiandrive.com:15907/douyu/6863367
+片荒的日子,http://dns.yiandrive.com:15907/douyu/4258555
+最新视频,http://dns.yiandrive.com:15907/douyu/1557505
+大胡子魏,http://dns.yiandrive.com:15907/douyu/8792763
+童年回忆,http://dns.yiandrive.com:15907/douyu/8915074
+爆笑解说,http://dns.yiandrive.com:15907/douyu/8317926
+爆笑解说,http://dns.yiandrive.com:15907/douyu/2660125
+下饭神剧,http://dns.yiandrive.com:15907/douyu/276200
+悬疑犯罪,http://dns.yiandrive.com:15907/douyu/9171887
+看经典,http://dns.yiandrive.com:15907/douyu/7314294
+不一样的电影,http://dns.yiandrive.com:15907/douyu/2632223
+科幻影视解说,http://dns.yiandrive.com:15907/douyu/3508304
+开心锤锤,http://dns.yiandrive.com:15907/douyu/9018297
+热血动漫,http://dns.yiandrive.com:15907/douyu/206858
+凛冬之地,http://dns.yiandrive.com:15907/douyu/8945323
+高分影视,http://dns.yiandrive.com:15907/douyu/1735337
+看美剧,http://dns.yiandrive.com:15907/douyu/8869614
+动漫直播,http://dns.yiandrive.com:15907/douyu/1487654
+吃米滴虫,http://dns.yiandrive.com:15907/douyu/315457
+神乐影片1,http://dns.yiandrive.com:15907/douyu/122402
+神乐影片2,http://dns.yiandrive.com:15907/douyu/85894
+贝爷MAX厅,http://dns.yiandrive.com:15907/douyu/4332
+周星驰电影,http://dns.yiandrive.com:15907/douyu/3990812
+刘德华电影1,http://dns.yiandrive.com:15907/douyu/2516864
+刘德华电影2,http://dns.yiandrive.com:15907/douyu/8985415
+喜剧经典,http://dns.yiandrive.com:15907/douyu/9650887
+豆瓣高分,http://dns.yiandrive.com:15907/douyu/8770422
+女神金电影,http://dns.yiandrive.com:15907/douyu/747764
+贝爷影厅2,http://dns.yiandrive.com:15907/douyu/36337
+可乐电影,http://dns.yiandrive.com:15907/douyu/20415
+冰冰经典电影,http://dns.yiandrive.com:15907/douyu/74374
+奶虫恐怖电影,http://dns.yiandrive.com:15907/douyu/263824
+避风港影院,http://dns.yiandrive.com:15907/douyu/9826611
+林林影院,http://dns.yiandrive.com:15907/douyu/9652323
+漫威电影,http://dns.yiandrive.com:15907/douyu/4282654
+恐怖经典,http://dns.yiandrive.com:15907/douyu/1165374
+华语电影,http://dns.yiandrive.com:15907/douyu/3928
+华语动作电影,http://dns.yiandrive.com:15907/douyu/1504768
+怀旧90,http://dns.yiandrive.com:15907/douyu/9275635
+高帧影片,http://dns.yiandrive.com:15907/douyu/6763930
+米娅电影,http://dns.yiandrive.com:15907/douyu/6537888
+小九电影,http://dns.yiandrive.com:15907/douyu/7136517
 科幻动作经典喜剧,http://diyp.112114.xyz/douyu/4332
 经典科幻动作灾难巨兽,http://diyp.112114.xyz/douyu/252802
 电影星爷,http://diyp.112114.xyz/douyu/122402
@@ -2465,29 +2697,29 @@ YY剧场怀旧,http://epg.112114.eu.org/yy/1382627144
 
 
 🎬影视,#genre#
-大象放映室,http://dns.yiandrive.com:16813/huya/21277391
-电视剧,http://dns.yiandrive.com:16813/huya/25018873
-电影•1,http://dns.yiandrive.com:16813/huya/20289754
-电影•2,http://dns.yiandrive.com:16813/huya/24983280
-电影•3,http://dns.yiandrive.com:16813/huya/24396428
-动漫•1,http://dns.yiandrive.com:16813/huya/19757963
-恐怖电影,http://dns.yiandrive.com:16813/huya/23419131
-漫威,http://dns.yiandrive.com:16813/huya/17089779
-美剧,http://dns.yiandrive.com:16813/huya/20488841
-七龙珠,http://dns.yiandrive.com:16813/huya/25650806
-止戈电影,http://dns.yiandrive.com:16813/huya/19863777
-挨饿德•1,http://dns.yiandrive.com:16813/huya/20985858
-挨饿德•2,http://dns.yiandrive.com:16813/huya/17693860
-互扇巴掌大赛,http://dns.yiandrive.com:16813/huya/20072873
-荒野求生,http://dns.yiandrive.com:16813/huya/593667
-野行者,http://dns.yiandrive.com:16813/huya/20072663
-跳舞,http://dns.yiandrive.com:16813/huya/24634408
-茶啊二中,http://dns.yiandrive.com:16813/huya/11213191
-哆啦A梦,http://dns.yiandrive.com:16813/huya/11601963
-航海王,http://dns.yiandrive.com:16813/huya/16913382
-七龙珠改,http://dns.yiandrive.com:16813/huya/11601966
-猫和老鼠,http://dns.yiandrive.com:16813/huya/11352879
-中华小当家,http://dns.yiandrive.com:16813/huya/11342413
+大象放映室,http://www.52sw.top:678/play/huya.php?id=21277391
+电视剧,http://www.52sw.top:678/play/huya.php?id=25018873
+电影•1,http://www.52sw.top:678/play/huya.php?id=20289754
+电影•2,http://www.52sw.top:678/play/huya.php?id=24983280
+电影•3,http://www.52sw.top:678/play/huya.php?id=24396428
+动漫•1,http://www.52sw.top:678/play/huya.php?id=19757963
+恐怖电影,http://www.52sw.top:678/play/huya.php?id=23419131
+漫威,http://www.52sw.top:678/play/huya.php?id=17089779
+美剧,http://www.52sw.top:678/play/huya.php?id=20488841
+七龙珠,http://www.52sw.top:678/play/huya.php?id=25650806
+止戈电影,http://www.52sw.top:678/play/huya.php?id=19863777
+挨饿德•1,http://www.52sw.top:678/play/huya.php?id=20985858
+挨饿德•2,http://www.52sw.top:678/play/huya.php?id=17693860
+互扇巴掌大赛,http://www.52sw.top:678/play/huya.php?id=20072873
+荒野求生,http://www.52sw.top:678/play/huya.php?id=593667
+野行者,http://www.52sw.top:678/play/huya.php?id=20072663
+跳舞,http://www.52sw.top:678/play/huya.php?id=24634408
+茶啊二中,http://www.52sw.top:678/play/huya.php?id=11213191
+哆啦A梦,http://www.52sw.top:678/play/huya.php?id=11601963
+航海王,http://www.52sw.top:678/play/huya.php?id=16913382
+七龙珠改,http://www.52sw.top:678/play/huya.php?id=11601966
+猫和老鼠http://www.52sw.top:678/play/huya.php?id=11352879
+中华小当家,http://www.52sw.top:678/play/huya.php?id=11342413
 大象放映室,http://120.77.28.4:8648/huya/21277391
 电视剧,http://120.77.28.4:8648/huya/25018873
 电影•1,http://120.77.28.4:8648/huya/20289754
@@ -2629,28 +2861,28 @@ YY剧场怀旧,http://epg.112114.eu.org/yy/1382627144
 
 
 🎬埋堆堆,#genre#
-埋堆堆01,http://dns.yiandrive.com:16813/huya/23749096
-埋堆堆02,http://dns.yiandrive.com:16813/huya/23735126
-埋堆堆03,http://dns.yiandrive.com:16813/huya/23740156
-埋堆堆04,http://dns.yiandrive.com:16813/huya/23728660
-埋堆堆05,http://dns.yiandrive.com:16813/huya/23865080
-埋堆堆06,http://dns.yiandrive.com:16813/huya/23863804
-埋堆堆07,http://dns.yiandrive.com:16813/huya/23864973
-埋堆堆08,http://dns.yiandrive.com:16813/huya/23734169
-埋堆堆09,http://dns.yiandrive.com:16813/huya/23865171
-埋堆堆10,http://dns.yiandrive.com:16813/huya/23903130
-埋堆堆11,http://dns.yiandrive.com:16813/huya/23860039
-埋堆堆12,http://dns.yiandrive.com:16813/huya/23865142
-埋堆堆13,http://dns.yiandrive.com:16813/huya/23903123
-埋堆堆14,http://dns.yiandrive.com:16813/huya/23734183
-埋堆堆15,http://dns.yiandrive.com:16813/huya/23734256
-埋堆堆16,http://dns.yiandrive.com:16813/huya/23903183
-埋堆堆17,http://dns.yiandrive.com:16813/huya/23903196
-埋堆堆18,http://dns.yiandrive.com:16813/huya/23829543
-埋堆堆19,http://dns.yiandrive.com:16813/huya/23728674
-埋堆堆20,http://dns.yiandrive.com:16813/huya/23865036
-埋堆堆21,http://dns.yiandrive.com:16813/huya/23749083
-埋堆堆22,http://dns.yiandrive.com:16813/huya/23865058
+埋堆堆01,http://www.52sw.top:678/play/huya.php?id=23749096
+埋堆堆02,http://www.52sw.top:678/play/huya.php?id=23735126
+埋堆堆03,http://www.52sw.top:678/play/huya.php?id=23740156
+埋堆堆04,http://www.52sw.top:678/play/huya.php?id=23728660
+埋堆堆05,http://www.52sw.top:678/play/huya.php?id=23865080
+埋堆堆06,http://www.52sw.top:678/play/huya.php?id=23863804
+埋堆堆07,http://www.52sw.top:678/play/huya.php?id=23864973
+埋堆堆08,http://www.52sw.top:678/play/huya.php?id=23734169
+埋堆堆09,http://www.52sw.top:678/play/huya.php?id=23865171
+埋堆堆10,http://www.52sw.top:678/play/huya.php?id=23903130
+埋堆堆11,http://www.52sw.top:678/play/huya.php?id=23860039
+埋堆堆12,http://www.52sw.top:678/play/huya.php?id=23865142
+埋堆堆13,http://www.52sw.top:678/play/huya.php?id=23903123
+埋堆堆14,http://www.52sw.top:678/play/huya.php?id=23734183
+埋堆堆15,http://www.52sw.top:678/play/huya.php?id=23734256
+埋堆堆16,http://www.52sw.top:678/play/huya.php?id=23903183
+埋堆堆17,http://www.52sw.top:678/play/huya.php?id=23903196
+埋堆堆18,http://www.52sw.top:678/play/huya.php?id=23829543
+埋堆堆19,http://www.52sw.top:678/play/huya.php?id=23728674
+埋堆堆20,http://www.52sw.top:678/play/huya.php?id=23865036
+埋堆堆21,http://www.52sw.top:678/play/huya.php?id=23749083
+埋堆堆22,http://www.52sw.top:678/play/huya.php?id=23865058
 埋堆堆01,http://120.77.28.4:8648/huya/23749096
 埋堆堆02,http://120.77.28.4:8648/huya/23735126
 埋堆堆03,http://120.77.28.4:8648/huya/23740156
@@ -3076,7 +3308,154 @@ Angela小兔,http://allinone.netsite.cc/douyu/9617766
 斗鱼搞笑HD3,http://allinone.netsite.cc/douyu/9067836
 斗鱼搞笑HD4,http://allinone.netsite.cc/douyu/9817729
 斗鱼搞笑HD5,http://allinone.netsite.cc/douyu/8737695
-
+寅子,http://dns.yiandrive.com:15907/douyu/71415
+小表哥,http://dns.yiandrive.com:15907/douyu/217331
+安猫,http://dns.yiandrive.com:15907/douyu/524389
+周淑怡,http://dns.yiandrive.com:15907/douyu/290935
+骆歆,http://dns.yiandrive.com:15907/douyu/5189167
+王雨檬,http://dns.yiandrive.com:15907/douyu/139277
+CS2,http://dns.yiandrive.com:15907/bilibili/21622811
+59,http://dns.yiandrive.com:15907/douyu/5168755
+第五人格,http://dns.yiandrive.com:15907/bilibili/5555
+赛文柒,http://dns.yiandrive.com:15907/douyu/105025
+木星劲乐团,http://dns.yiandrive.com:15907/douyu/42388
+孙火旺,http://dns.yiandrive.com:15907/douyu/9770949
+米娜,http://dns.yiandrive.com:15907/douyu/5551871
+RM1,http://dns.yiandrive.com:15907/douyu/131977
+RM2,http://dns.yiandrive.com:15907/douyu/11954695
+七师傅T-ARA,http://dns.yiandrive.com:15907/douyu/17732
+小淘气动漫解说,http://dns.yiandrive.com:15907/douyu/9527700
+秦虹,http://dns.yiandrive.com:15907/douyu/105498
+包王,http://dns.yiandrive.com:15907/douyu/66226
+阿帮,http://dns.yiandrive.com:15907/douyu/11437
+边哥,http://dns.yiandrive.com:15907/douyu/3952247
+小孩,http://dns.yiandrive.com:15907/douyu/2125
+ET,http://dns.yiandrive.com:15907/douyu/73639
+傲视张无忌,http://dns.yiandrive.com:15907/douyu/787951
+超级小杰,http://dns.yiandrive.com:15907/douyu/74751
+科幻Fans,http://dns.yiandrive.com:15907/douyu/3508304
+赵本山经典小品,http://dns.yiandrive.com:15907/douyu/9817716
+宋小宝经典小品,http://dns.yiandrive.com:15907/douyu/9817729
+经典小品,http://dns.yiandrive.com:15907/douyu/9067836
+游钓中国李大毛,http://dns.yiandrive.com:15907/douyu/791411
+老高与小茉,http://dns.yiandrive.com:15907/douyu/838632
+F1方程式,http://dns.yiandrive.com:15907/douyu/4050212
+曼岛TT-1,http://dns.yiandrive.com:15907/huya/19197407
+曼岛TT-2,http://dns.yiandrive.com:15907/huya/25813084
+ARRC摩托车,http://dns.yiandrive.com:15907/huya/880215
+GT赛车,http://dns.yiandrive.com:15907/huya/20072644
+日常野钓,http://dns.yiandrive.com:15907/douyu/10103411
+兄弟赶海,http://dns.yiandrive.com:15907/douyu/9091847
+野外露营,http://dns.yiandrive.com:15907/douyu/10372765
+荒野建造,http://dns.yiandrive.com:15907/douyu/10039437
+孤独美食家1,http://dns.yiandrive.com:15907/douyu/260322
+孤独美食家2,http://dns.yiandrive.com:15907/douyu/953193
+沙雕动画1,http://dns.yiandrive.com:15907/douyu/9505575
+沙雕动画2,http://dns.yiandrive.com:15907/douyu/9419678
+爆笑解说,http://dns.yiandrive.com:15907/douyu/2660125
+臭屁虫,http://dns.yiandrive.com:15907/douyu/9942574
+童年经典动画片,http://dns.yiandrive.com:15907/douyu/9445279
+猫和老鼠,http://dns.yiandrive.com:15907/douyu/7888428
+笑出腹肌动漫,http://dns.yiandrive.com:15907/douyu/8380708
+24H动漫专场,http://dns.yiandrive.com:15907/douyu/7493575
+中二日记搞笑,http://dns.yiandrive.com:15907/douyu/9505575
+动漫推荐官方,http://dns.yiandrive.com:15907/douyu/5187099
+经典动漫,http://dns.yiandrive.com:15907/douyu/9455567
+Angela小兔,http://dns.yiandrive.com:15907/douyu/9617766
+韩剧解说,http://dns.yiandrive.com:15907/douyu/8656759
+韩国女团1,http://dns.yiandrive.com:15907/douyu/427397
+韩国女团2,http://dns.yiandrive.com:15907/douyu/11436664
+韩国女团3,http://dns.yiandrive.com:15907/douyu/329667
+韩国女团4,http://dns.yiandrive.com:15907/douyu/8189873
+韩国女团5,http://dns.yiandrive.com:15907/douyu/40471
+韩国女团6,http://dns.yiandrive.com:15907/douyu/8266799
+韩国女团7,http://dns.yiandrive.com:15907/douyu/8921085
+韩国女团8,http://dns.yiandrive.com:15907/douyu/340224
+24H音乐女团,http://dns.yiandrive.com:15907/douyu/3870925
+韩国车模1,http://dns.yiandrive.com:15907/douyu/1360303
+韩国车模2,http://dns.yiandrive.com:15907/douyu/9805480
+韩国棒球宝贝,http://dns.yiandrive.com:15907/douyu/292098
+傻屌小姐姐,http://dns.yiandrive.com:15907/douyu/11531165
+日本最新资讯,http://dns.yiandrive.com:15907/douyu/296836
+小日子摔角,http://dns.yiandrive.com:15907/douyu/425809
+爱情公寓,http://dns.yiandrive.com:15907/douyu/6566658
+连续剧1,http://dns.yiandrive.com:15907/douyu/4549169
+连续剧2,http://dns.yiandrive.com:15907/douyu/7623292
+连续剧3,http://dns.yiandrive.com:15907/douyu/5689514
+连续剧4,http://dns.yiandrive.com:15907/douyu/7476264
+连续剧5,http://dns.yiandrive.com:15907/douyu/4396972
+游戏解说,http://dns.yiandrive.com:15907/douyu/805235
+斗鱼小品,http://dns.yiandrive.com:15907/douyu/3980787
+斗鱼探险,http://dns.yiandrive.com:15907/douyu/3485629
+斗鱼动画,http://dns.yiandrive.com:15907/douyu/7528160
+斗鱼1,http://dns.yiandrive.com:15907/douyu/2935323
+斗鱼2,http://dns.yiandrive.com:15907/douyu/7459925
+斗鱼3,http://dns.yiandrive.com:15907/douyu/431460
+斗鱼4,http://dns.yiandrive.com:15907/douyu/4246519
+斗鱼5,http://dns.yiandrive.com:15907/douyu/7116591
+斗鱼6,http://dns.yiandrive.com:15907/douyu/6776615
+斗鱼7,http://dns.yiandrive.com:15907/douyu/7655471
+斗鱼8,http://dns.yiandrive.com:15907/douyu/4290711
+斗鱼9,http://dns.yiandrive.com:15907/douyu/6566671
+斗鱼10,http://dns.yiandrive.com:15907/douyu/8475821
+斗鱼11,http://dns.yiandrive.com:15907/douyu/338759
+斗鱼12,http://dns.yiandrive.com:15907/douyu/2793084
+斗鱼13,http://dns.yiandrive.com:15907/douyu/5067952
+斗鱼14,http://dns.yiandrive.com:15907/douyu/413573
+斗鱼15,http://dns.yiandrive.com:15907/douyu/5033502
+斗鱼16,http://dns.yiandrive.com:15907/douyu/426517
+斗鱼17,http://dns.yiandrive.com:15907/douyu/1274132
+斗鱼18,http://dns.yiandrive.com:15907/douyu/7314294
+斗鱼19,http://dns.yiandrive.com:15907/douyu/6582435
+斗鱼20,http://dns.yiandrive.com:15907/douyu/323876
+斗鱼4K,http://dns.yiandrive.com:15907/douyu/9249162
+斗鱼HD1,http://dns.yiandrive.com:15907/douyu/20415
+斗鱼HD2,http://dns.yiandrive.com:15907/douyu/10240553
+斗鱼HD3,http://dns.yiandrive.com:15907/douyu/122402
+斗鱼HD4,http://dns.yiandrive.com:15907/douyu/85894
+斗鱼HD5,http://dns.yiandrive.com:15907/douyu/263824
+斗鱼HD6,http://dns.yiandrive.com:15907/douyu/747764
+斗鱼HD7,http://dns.yiandrive.com:15907/douyu/20415
+斗鱼HD8,http://dns.yiandrive.com:15907/douyu/8663752
+斗鱼HD9,http://dns.yiandrive.com:15907/douyu/323876
+斗鱼HD10,http://dns.yiandrive.com:15907/douyu/6140589
+斗鱼HD11,http://dns.yiandrive.com:15907/douyu/8770422
+斗鱼HD12,http://dns.yiandrive.com:15907/douyu/2436390
+斗鱼HD13,http://dns.yiandrive.com:15907/douyu/218859
+斗鱼HD14,http://dns.yiandrive.com:15907/douyu/36337
+斗鱼HD15,http://dns.yiandrive.com:15907/douyu/413573
+斗鱼HD16,http://dns.yiandrive.com:15907/douyu/1504768
+斗鱼HD17,http://dns.yiandrive.com:15907/douyu/3637726
+斗鱼HD18,http://dns.yiandrive.com:15907/douyu/9292492
+斗鱼HD19,http://dns.yiandrive.com:15907/douyu/3637765rrt97
+斗鱼HD20,http://dns.yiandrive.com:15907/douyu/10395991
+斗鱼HD21,http://dns.yiandrive.com:15907/douyu/10395986
+斗鱼HD22,http://dns.yiandrive.com:15907/douyu/252802
+斗鱼HD23,http://dns.yiandrive.com:15907/douyu/ 6079455
+斗鱼HD24,http://dns.yiandrive.com:15907/douyu/315131
+斗鱼HD25,http://dns.yiandrive.com:15907/douyu/8945323
+斗鱼HD26,http://dns.yiandrive.com:15907/douyu/2516864
+斗鱼HD27,http://dns.yiandrive.com:15907/douyu/248753
+斗鱼HD28,http://dns.yiandrive.com:15907/douyu/4332
+斗鱼HD29,http://dns.yiandrive.com:15907/douyu/9651304
+斗鱼HD30,http://dns.yiandrive.com:15907/douyu/9650887
+斗鱼HD31,http://dns.yiandrive.com:15907/douyu/8814650
+斗鱼HD32,http://dns.yiandrive.com:15907/douyu/10240510
+斗鱼HD33,http://dns.yiandrive.com:15907/douyu/52787
+斗鱼HD34,http://dns.yiandrive.com:15907/douyu/8985415
+斗鱼HD35,http://dns.yiandrive.com:15907/douyu/1165374
+斗鱼HD36,http://dns.yiandrive.com:15907/douyu/1735337
+斗鱼HD37,http://dns.yiandrive.com:15907/douyu/6537888
+斗鱼HD38,http://dns.yiandrive.com:15907/douyu/6003761
+斗鱼HD39,http://dns.yiandrive.com:15907/douyu/9683979
+斗鱼HD40,http://dns.yiandrive.com:15907/douyu/1226741
+斗鱼HD41,http://dns.yiandrive.com:15907/douyu/59612
+斗鱼HD42,http://dns.yiandrive.com:15907/douyu/925724
+斗鱼搞笑HD1,http://dns.yiandrive.com:15907/douyu/9220456
+斗鱼搞笑HD2,http://dns.yiandrive.com:15907/douyu/9770949
+斗鱼搞笑HD3,http://dns.yiandrive.com:15907/douyu/9067836
+斗鱼搞笑HD4,http://dns.yiandrive.com:15907/douyu/9817729
+斗鱼搞笑HD5,http://dns.yiandrive.com:15907/douyu/8737695
 寅子,http://120.77.28.4:8648/douyu.php?id=71415
 小表哥,http://120.77.28.4:8648/douyu.php?id=217331
 安猫,http://120.77.28.4:8648/douyu.php?id=524389
@@ -3662,34 +4041,34 @@ Angela小兔,http://live.iill.top/douyu.php?id=9617766
 
 
 虎牙直播,#genre#
-虎牙电影1,http://epg.112114.xyz/huya/11602077
-虎牙电影2,http://epg.112114.xyz/huya/11601968
-虎牙电影2,http://epg.112114.xyz/huya/11342388
-虎牙电影3,http://epg.112114.xyz/huya/11342412
-虎牙电影3,http://epg.112114.xyz/huya/11352965
-虎牙电影4,http://epg.112114.xyz/huya/11342386
-虎牙电影5,http://epg.112114.xyz/huya/11601986
-虎牙电影6,http://epg.112114.xyz/huya/11601971
-虎牙电影7,http://epg.112114.xyz/huya/11336592
-虎牙电影8,http://epg.112114.xyz/huya/11342390
-虎牙电影9,http://epg.112114.xyz/huya/11352941
-虎牙电影10,http://epg.112114.xyz/huya/11279251
-虎牙电影11,http://epg.112114.xyz/huya/11602041
-虎牙电影12,http://epg.112114.xyz/huya/11352963
-虎牙电影14,http://epg.112114.xyz/huya/11602075
-虎牙电影15,http://epg.112114.xyz/huya/11352962
-虎牙电影16,http://epg.112114.xyz/huya/11336571
-虎牙电影17,http://epg.112114.xyz/huya/11342427
-虎牙电影18,http://epg.112114.xyz/huya/11336719
-虎牙电影19,http://epg.112114.xyz/huya/11352894
-虎牙电影20,http://epg.112114.xyz/huya/11352877
-虎牙电影21,http://epg.112114.xyz/huya/11602077
-虎牙电影22,http://epg.112114.xyz/huya/11601960
-虎牙电影23,http://epg.112114.xyz/huya/11352965
-虎牙电影24,http://epg.112114.xyz/huya/11342435
-虎牙电影25,http://epg.112114.xyz/huya/11352886
-虎牙电影26,http://epg.112114.xyz/huya/11602044
-虎牙电影27,http://epg.112114.xyz/huya/11602058
+虎牙电影1,http://www.52sw.top:678/play/huya.php?id=11602077
+虎牙电影2,http://www.52sw.top:678/play/huya.php?id=11601968
+虎牙电影2,http://www.52sw.top:678/play/huya.php?id=11342388
+虎牙电影3,http://www.52sw.top:678/play/huya.php?id=11342412
+虎牙电影3,http://www.52sw.top:678/play/huya.php?id=11352965
+虎牙电影4,http://www.52sw.top:678/play/huya.php?id=11342386
+虎牙电影5,http://www.52sw.top:678/play/huya.php?id=11601986
+虎牙电影6,http://www.52sw.top:678/play/huya.php?id=11601971
+虎牙电影7,http://www.52sw.top:678/play/huya.php?id=11336592
+虎牙电影8,http://www.52sw.top:678/play/huya.php?id=11342390
+虎牙电影9,http://www.52sw.top:678/play/huya.php?id=11352941
+虎牙电影10,http://www.52sw.top:678/play/huya.php?id=11279251
+虎牙电影11,http://www.52sw.top:678/play/huya.php?id=11602041
+虎牙电影12,http://www.52sw.top:678/play/huya.php?id=11352963
+虎牙电影14,http://www.52sw.top:678/play/huya.php?id=11602075
+虎牙电影15,http://www.52sw.top:678/play/huya.php?id=11352962
+虎牙电影16,http://www.52sw.top:678/play/huya.php?id=11336571
+虎牙电影17,http://www.52sw.top:678/play/huya.php?id=11342427
+虎牙电影18,http://www.52sw.top:678/play/huya.php?id=11336719
+虎牙电影19,http://www.52sw.top:678/play/huya.php?id=11352894
+虎牙电影20,http://www.52sw.top:678/play/huya.php?id=11352877
+虎牙电影21,hhttp://www.52sw.top:678/play/huya.php?id=11602077
+虎牙电影22,http://www.52sw.top:678/play/huya.php?id=11601960
+虎牙电影23,http://www.52sw.top:678/play/huya.php?id=11352965
+虎牙电影24,http://www.52sw.top:678/play/huya.php?id=11342435
+虎牙电影25,http://www.52sw.top:678/play/huya.php?id=11352886
+虎牙电影26,http://www.52sw.top:678/play/huya.php?id=11602044
+虎牙电影27,http://www.52sw.top:678/play/huya.php?id=11602058
 虎牙电影1,http://live.iill.top/huya.php?id=11602077
 虎牙电影2,http://live.iill.top/huya.php?id=11601968
 虎牙电影2,http://live.iill.top/huya.php?id=11342388
@@ -3718,34 +4097,34 @@ Angela小兔,http://live.iill.top/douyu.php?id=9617766
 虎牙电影25,http://live.iill.top/huya.php?id=11352886
 虎牙电影26,http://live.iill.top/huya.php?id=11602044
 虎牙电影27,http://live.iill.top/huya.php?id=11602058
-虎牙电影1,http://dns.yiandrive.com:16813/huya/11602077
-虎牙电影2,http://dns.yiandrive.com:16813/huya/11601968
-虎牙电影2,http://dns.yiandrive.com:16813/huya/11342388
-虎牙电影3,http://dns.yiandrive.com:16813/huya/11342412
-虎牙电影3,http://dns.yiandrive.com:16813/huya/11352965
-虎牙电影4,http://dns.yiandrive.com:16813/huya/11342386
-虎牙电影5,http://dns.yiandrive.com:16813/huya/11601986
-虎牙电影6,http://dns.yiandrive.com:16813/huya/11601971
-虎牙电影7,http://dns.yiandrive.com:16813/huya/11336592
-虎牙电影8,http://dns.yiandrive.com:16813/huya/11342390
-虎牙电影9,http://dns.yiandrive.com:16813/huya/11352941
-虎牙电影10,http://dns.yiandrive.com:16813/huya/11279251
-虎牙电影11,http://dns.yiandrive.com:16813/huya/11602041
-虎牙电影12,http://dns.yiandrive.com:16813/huya/11352963
-虎牙电影14,http://dns.yiandrive.com:16813/huya/11602075
-虎牙电影15,http://dns.yiandrive.com:16813/huya/11352962
-虎牙电影16,http://dns.yiandrive.com:16813/huya/11336571
-虎牙电影17,http://dns.yiandrive.com:16813/huya/11342427
-虎牙电影18,http://dns.yiandrive.com:16813/huya/11336719
-虎牙电影19,http://dns.yiandrive.com:16813/huya/11352894
-虎牙电影20,http://dns.yiandrive.com:16813/huya/11352877
-虎牙电影21,http://dns.yiandrive.com:16813/huya/11602077
-虎牙电影22,http://dns.yiandrive.com:16813/huya/11601960
-虎牙电影23,http://dns.yiandrive.com:16813/huya/11352965
-虎牙电影24,http://dns.yiandrive.com:16813/huya/11342435
-虎牙电影25,http://dns.yiandrive.com:16813/huya/11352886
-虎牙电影26,http://dns.yiandrive.com:16813/huya/11602044
-虎牙电影27,http://dns.yiandrive.com:16813/huya/11602058
+虎牙电影1,http://dns.yiandrive.com:15907/huya/11602077
+虎牙电影2,http://dns.yiandrive.com:15907/huya/11601968
+虎牙电影2,http://dns.yiandrive.com:15907/huya/11342388
+虎牙电影3,http://dns.yiandrive.com:15907/huya/11342412
+虎牙电影3,http://dns.yiandrive.com:15907/huya/11352965
+虎牙电影4,http://dns.yiandrive.com:15907/huya/11342386
+虎牙电影5,http://dns.yiandrive.com:15907/huya/11601986
+虎牙电影6,http://dns.yiandrive.com:15907/huya/11601971
+虎牙电影7,http://dns.yiandrive.com:15907/huya/11336592
+虎牙电影8,http://dns.yiandrive.com:15907/huya/11342390
+虎牙电影9,http://dns.yiandrive.com:15907/huya/11352941
+虎牙电影10,http://dns.yiandrive.com:15907/huya/11279251
+虎牙电影11,http://dns.yiandrive.com:15907/huya/11602041
+虎牙电影12,http://dns.yiandrive.com:15907/huya/11352963
+虎牙电影14,http://dns.yiandrive.com:15907/huya/11602075
+虎牙电影15,http://dns.yiandrive.com:15907/huya/11352962
+虎牙电影16,http://dns.yiandrive.com:15907/huya/11336571
+虎牙电影17,http://dns.yiandrive.com:15907/huya/11342427
+虎牙电影18,http://dns.yiandrive.com:15907/huya/11336719
+虎牙电影19,http://dns.yiandrive.com:15907/huya/11352894
+虎牙电影20,http://dns.yiandrive.com:15907/huya/11352877
+虎牙电影21,http://dns.yiandrive.com:15907/huya/11602077
+虎牙电影22,http://dns.yiandrive.com:15907/huya/11601960
+虎牙电影23,http://dns.yiandrive.com:15907/huya/11352965
+虎牙电影24,http://dns.yiandrive.com:15907/huya/11342435
+虎牙电影25,http://dns.yiandrive.com:15907/huya/11352886
+虎牙电影26,http://dns.yiandrive.com:15907/huya/11602044
+虎牙电影27,http://dns.yiandrive.com:15907/huya/11602058
 虎牙电影1,http://120.77.28.4:8648/huya/11602077
 虎牙电影2,http://120.77.28.4:8648/huya/11601968
 虎牙电影2,http://120.77.28.4:8648/huya/11342388
