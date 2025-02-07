@@ -3364,6 +3364,7 @@ ML107,http://live.metshop.top/douyin/722716913084
 王雨檬,http://dns.yiandrive.com:15907/douyu/139277
 CS2,http://dns.yiandrive.com:15907/bilibili/21622811
 坂井泉水,http://dns.yiandrive.com:15907/bilibili/25392874
+东北阿虎,http://dns.yiandrive.com:15907/bilibili/32123343
 59,http://dns.yiandrive.com:15907/douyu/5168755
 第五人格,http://dns.yiandrive.com:15907/bilibili/5555
 赛文柒,http://dns.yiandrive.com:15907/douyu/105025
