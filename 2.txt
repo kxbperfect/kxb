@@ -269,15 +269,11 @@ MV,http://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/p/mda-kmbika46ppvf7nzc.mp
 
 
 🎬咪咕直播,#genre#
-UFC格斗之夜,http://8.138.90.107/虎公众号睡眼迷离的猫.php?id=19197452
-UFC格斗之夜,https://live.iill.top/huya/19197452
-UFC格斗之夜,http://www.52sw.top:678/play/huya.php?id=19197452
-UFC钢炮,http://8.138.90.107/虎公众号睡眼迷离的猫.php?id=29287085
-UFC钢炮,https://live.iill.top/huya/29287085
-UFC钢炮,http://www.52sw.top:678/play/huya.php?id=29287085
-UFC张伟丽MMA,http://8.138.90.107/虎公众号睡眼迷离的猫.php?id=134769
-UFC张伟丽MMA,https://live.iill.top/huya/134769
-UFC张伟丽MMA,http://www.52sw.top:678/play/huya.php?id=134769
+UFC格斗之夜,http://live.iill.top/huya.php?id=19197452
+UFC钢炮,http://live.iill.top/huya.php?id=29287085
+UFC中国专场,http://live.iill.top/huya.php?id=19197453
+UFC张伟丽MMA,http://live.iill.top/huya.php?id=134769
+搏击明星集锦,http://live.iill.top/huya.php?id=20072836
 咪咕直播-1,http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 咪咕直播-2,http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
 咪咕直播-3,http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
