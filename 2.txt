@@ -1,34 +1,4 @@
 🇨🇳央视IPV6,#genre#
-CCTV1,https://tv.iill.top/migu/cctv1
-CCTV2,https://tv.iill.top/migu/cctv2
-CCTV3,https://tv.iill.top/migu/cctv3
-CCTV4,https://tv.iill.top/migu/cctv4
-CCTV5,https://tv.iill.top/migu/cctv5
-CCTV5+,https://tv.iill.top/migu/cctv5p
-CCTV6,https://tv.iill.top/migu/cctv6
-CCTV7,https://tv.iill.top/migu/cctv7
-CCTV8,https://tv.iill.top/migu/cctv8
-CCTV9,https://tv.iill.top/migu/cctv9
-CCTV10,https://tv.iill.top/migu/cctv10
-CCTV11,https://tv.iill.top/migu/cctv11
-CCTV12,https://tv.iill.top/migu/cctv12
-CCTV13,https://tv.iill.top/migu/cctv13
-CCTV14,https://tv.iill.top/migu/cctv14
-CCTV15,https://tv.iill.top/migu/cctv15
-CCTV16,https://tv.iill.top/migu/cctv16
-CCTV17,https://tv.iill.top/migu/cctv17
-CETV1,https://tv.iill.top/migu/cetv1
-CETV2,https://tv.iill.top/migu/cetv2
-CETV4,https://tv.iill.top/migu/cetv4
-CHC影迷电影,https://tv.iill.top/migu/chcym
-CHC动作电影,https://tv.iill.top/migu/chcdz
-CHC家庭影院,https://tv.iill.top/migu/chcjt
-新片放映厅,https://tv.iill.top/migu/xpfy
-咪咕24小时体育台,https://tv.iill.top/migu/mgty
-
-
-
-
 CCTV1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 CCTV2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
 CCTV3,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
@@ -205,10 +175,10 @@ MV,http://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/p/mda-kmbika46ppvf7nzc.mp
 
 
 🎬咪咕直播,#genre#
-UFC格斗之夜,http://live.iill.top/huya.php?id=19197452
-UFC钢炮,http://live.iill.top/huya.php?id=29287085
-UFC中国专场,http://live.iill.top/huya.php?id=19197453
-UFC张伟丽MMA,http://live.iill.top/huya.php?id=134769
+UFC1格斗之夜,http://live.iill.top/huya.php?id=19197452
+UFC2钢炮,http://live.iill.top/huya.php?id=29287085
+UFC3中国专场,http://live.iill.top/huya.php?id=19197453
+UFC4张伟丽MMA,http://live.iill.top/huya.php?id=134769
 搏击明星集锦,http://live.iill.top/huya.php?id=20072836
 咪咕直播-1-4K,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 咪咕直播-1,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
