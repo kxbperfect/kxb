@@ -36,26 +36,25 @@ CCTV17,https://shyd.695847.xyz/cms001/ch00000090990000001243/index.m3u8?Ace
 
 
 
-CCTV1,http://ygbh.site/php/bfgd.php?id=488
-CCTV2,http://ygbh.site/php/bfgd.php?id=061
-CCTV3,http://ygbh.site/php/bfgd.php?id=062
-CCTV4,http://ygbh.site/php/bfgd.php?id=063
-CCTV5,http://ygbh.site/php/bfgd.php?id=064
+CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV5+,http://ygbh.site/php/bfgd.php?id=246
-CCTV6,http://ygbh.site/php/bfgd.php?id=065
-CCTV7,http://ygbh.site/php/bfgd.php?id=127
-CCTV8,http://ygbh.site/php/bfgd.php?id=066
-CCTV9,http://ygbh.site/php/bfgd.php?id=128
-CCTV10,http://ygbh.site/php/bfgd.php?id=129
-CCTV11,http://ygbh.site/php/bfgd.php?id=130
-CCTV12,http://ygbh.site/php/bfgd.php?id=131
-CCTV13,http://ygbh.site/php/bfgd.php?id=067
-CCTV14,http://ygbh.site/php/bfgd.php?id=132
+CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
+CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 CCTV15,http://ygbh.site/php/bfgd.php?id=133
 CCTV16,http://ygbh.site/php/bfgd.php?id=134
 CCTV17,http://ygbh.site/php/bfgd.php?id=204
-高尔夫网球,http://106.116.127.52:4022/rtp/239.254.200.98:6232
-高尔夫网球,http://106.116.127.52:4022/rtp/239.254.201.223:7252
+
 
 
 
