@@ -342,16 +342,11 @@ MV,http://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/p/mda-kmbika46ppvf7nzc.mp
 
 
 🎬咪咕直播,#genre#
-UFC1格斗之夜,http://live.iill.top/huya.php?id=19197452
-UFC2钢炮,http://live.iill.top/huya.php?id=29287085
-UFC3中国专场,http://live.iill.top/huya.php?id=19197453
-UFC4张伟丽MMA,http://live.iill.top/huya.php?id=134769
-搏击明星集锦,http://live.iill.top/huya.php?id=20072836
-UFC1格斗之夜,http://huya.kxb.ccwu.cc/19197452.m3u8
-UFC2钢炮,http://huya.kxb.ccwu.cc/29287085.m3u8
-UFC3中国专场,http://huya.kxb.ccwu.cc/19197453.m3u8
-UFC4张伟丽MMA,http://huya.kxb.ccwu.cc/134769.m3u8
-搏击明星集锦,http://huya.kxb.ccwu.cc/20072836.m3u8
+UFC1格斗之夜,http://huya.kxb.ccwu.cc/19197452
+UFC2钢炮,http://huya.kxb.ccwu.cc/29287085
+UFC3中国专场,http://huya.kxb.ccwu.cc/19197453
+UFC4张伟丽MMA,http://huya.kxb.ccwu.cc/134769
+搏击明星集锦,http://huya.kxb.ccwu.cc/20072836
 咪咕直播-1-4K,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
 咪咕直播-1,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
 咪咕直播-2,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
