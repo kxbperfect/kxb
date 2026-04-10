@@ -1,5 +1,41 @@
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视频道",CCTV1
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视频道",CCTV2
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV2
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="央视频道",CCTV3
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视频道",CCTV4
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV4
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视频道",CCTV5
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视频道",CCTV5+
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV5p
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视频道",CCTV6
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV6
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视频道",CCTV7
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV7
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视频道",CCTV8
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央视频道",CCTV9
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV9
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视频道",CCTV10
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV10
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视频道",CCTV11
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV11
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视频道",CCTV12
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="央视频道",CCTV13
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV13
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央视频道",CCTV14
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央视频道",CCTV15
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV15
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="央视频道",CCTV16
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV16
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视频道",CCTV17
+http://103.45.128.46:2001/jmb/IPTV.php?id=CCTV17
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视频道",CCTV1
 http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视频道",CCTV1
 http://111.56.90.5/000000000000/6000000001000029752/1.m3u8
@@ -479,6 +515,116 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视频道",CCTV4K
 http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
+#EXTINF:-1 tvg-name="CHC影迷电影HD" tvg-logo="https://logo.catvod.com/CHC影迷电影HD.png" group-title="央视频道",CHC影迷电影HD
+http://iptv.19840608.xyz:16666/rtp/239.69.1.241:11088
+#EXTINF:-1 tvg-name="CHC家庭影院HD" tvg-logo="https://logo.catvod.com/CHC家庭影院HD.png" group-title="央视频道",CHC家庭影院HD
+http://iptv.19840608.xyz:16666/rtp/239.69.1.243:11100
+#EXTINF:-1 tvg-name="CHC动作电影HD" tvg-logo="https://logo.catvod.com/CHC动作电影HD.png" group-title="央视频道",CHC动作电影HD
+http://iptv.19840608.xyz:16666/rtp/239.69.1.242:11094
+#EXTINF:-1 tvg-name="第一剧场HD" tvg-logo="https://logo.catvod.com/第一剧场HD.png" group-title="央视频道",第一剧场HD
+http://iptv.19840608.xyz:16666/rtp/239.69.1.74:10084
+#EXTINF:-1 tvg-name="风云足球HD" tvg-logo="https://logo.catvod.com/风云足球HD.png" group-title="央视频道",风云足球HD
+http://iptv.19840608.xyz:16666/rtp/239.69.1.81:10126
+#EXTINF:-1 tvg-name="风云音乐HD" tvg-logo="https://logo.catvod.com/风云音乐HD.png" group-title="央视频道",风云音乐HD
+http://iptv.19840608.xyz:16666/rtp/239.69.1.90:10180
+#EXTINF:-1 tvg-name="世界地理HD" tvg-logo="https://logo.catvod.com/世界地理HD.png" group-title="央视频道",世界地理HD
+http://iptv.19840608.xyz:16666/rtp/239.69.1.91:10186
+#EXTINF:-1 tvg-name="电视指南HD" tvg-logo="https://logo.catvod.com/电视指南HD.png" group-title="央视频道",电视指南HD
+http://iptv.19840608.xyz:16666/rtp/239.69.1.87:10162
+#EXTINF:-1 tvg-name="怀旧剧场HD" tvg-logo="https://logo.catvod.com/怀旧剧场HD.png" group-title="央视频道",怀旧剧场HD
+http://iptv.19840608.xyz:16666/rtp/239.69.1.86:10156
+#EXTINF:-1 tvg-name="怀旧剧场HD" tvg-logo="https://logo.catvod.com/怀旧剧场HD.png" group-title="央视频道",怀旧剧场HD
+http://iptv.19840608.xyz:16666/rtp/239.69.1.89:10174
+#EXTINF:-1 tvg-name="兵器科技HD" tvg-logo="https://logo.catvod.com/兵器科技HD.png" group-title="央视频道",兵器科技HD
+http://iptv.19840608.xyz:16666/rtp/239.69.1.79:10114
+#EXTINF:-1 tvg-name="高尔夫网球HD" tvg-logo="https://logo.catvod.com/高尔夫网球HD.png" group-title="央视频道",高尔夫网球HD
+http://iptv.19840608.xyz:16666/rtp/239.69.1.83:10138
+#EXTINF:-1 tvg-name="央视台球HD" tvg-logo="https://logo.catvod.com/央视台球HD.png" group-title="央视频道",央视台球HD
+http://iptv.19840608.xyz:16666/rtp/239.69.1.98:10224
+#EXTINF:-1 tvg-name="凤凰中文台HD" tvg-logo="https://logo.catvod.com/凤凰中文台HD.png" group-title="央视频道",凤凰中文台HD
+http://iptv.19840608.xyz:16666/rtp/239.69.2.20:11274
+#EXTINF:-1 tvg-name="凤凰资讯台HD" tvg-logo="https://logo.catvod.com/凤凰资讯台HD.png" group-title="央视频道",凤凰资讯台HD
+http://iptv.19840608.xyz:16666/rtp/239.69.2.19:11268
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视频道",CCTV4欧洲HD
+http://iptv.19840608.xyz:16666/rtp/239.69.1.231:11028
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视频道",CCTV4美洲HD
+http://iptv.19840608.xyz:16666/rtp/239.69.1.232:11034
+#EXTINF:-1 tvg-name="动漫秀场HD" tvg-logo="https://logo.catvod.com/动漫秀场HD.png" group-title="央视频道",动漫秀场HD
+http://iptv.19840608.xyz:16666/rtp/239.69.2.6:11190
+#EXTINF:-1 tvg-name="四海钓鱼HD" tvg-logo="https://logo.catvod.com/四海钓鱼HD.png" group-title="央视频道",四海钓鱼HD
+http://iptv.19840608.xyz:16666/rtp/239.69.1.244:11106
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="卫视频道",广东卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=广东卫视
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=深圳卫视
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/海南卫视.png" group-title="卫视频道",海南卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=海南卫视
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://logo.catvod.com/三沙卫视.png" group-title="卫视频道",三沙卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=三沙卫视
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/东南卫视.png" group-title="卫视频道",东南卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=东南卫视
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://logo.catvod.com/厦门卫视.png" group-title="卫视频道",厦门卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=厦门卫视
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/东方卫视.png" group-title="卫视频道",东方卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=东方卫视
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://logo.catvod.com/广西卫视.png" group-title="卫视频道",广西卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=广西卫视
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/四川卫视.png" group-title="卫视频道",四川卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=四川卫视
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=重庆卫视
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://logo.catvod.com/云南卫视.png" group-title="卫视频道",云南卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=云南卫视
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://logo.catvod.com/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=贵州卫视
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="卫视频道",北京卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=北京卫视
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/天津卫视.png" group-title="卫视频道",天津卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=天津卫视
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/山东卫视.png" group-title="卫视频道",山东卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=山东卫视
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=辽宁卫视
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=吉林卫视
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=黑龙江卫视
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://logo.catvod.com/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=内蒙古卫视
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=湖北卫视
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=湖南卫视
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=浙江卫视
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=江苏卫视
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=安徽卫视
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/河北卫视.png" group-title="卫视频道",河北卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=河北卫视
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/河南卫视.png" group-title="卫视频道",河南卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=河南卫视
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://logo.catvod.com/山西卫视.png" group-title="卫视频道",山西卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=山西卫视
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://logo.catvod.com/陕西卫视.png" group-title="卫视频道",陕西卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=陕西卫视
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/江西卫视.png" group-title="卫视频道",江西卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=江西卫视
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://logo.catvod.com/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=甘肃卫视
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/青海卫视.png" group-title="卫视频道",青海卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=青海卫视
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=宁夏卫视
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=新疆卫视
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://logo.catvod.com/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=西藏卫视
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://logo.catvod.com/农林卫视.png" group-title="卫视频道",农林卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=农林卫视
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/兵团卫视.png" group-title="卫视频道",兵团卫视
+http://103.45.128.46:2001/jmb/IPTV.php?id=兵团卫视
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="卫视频道",北京卫视
 http://221.13.234.223:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="卫视频道",北京卫视
@@ -2882,6 +3028,78 @@ http://huya.kxb.ccwu.cc/23749083
 #EXTINF:-1 tvg-name="埋堆堆22" tvg-logo="https://logo.catvod.com/埋堆堆22.png" group-title="🎬埋堆堆",埋堆堆22
 http://huya.kxb.ccwu.cc/23865058
 #EXTINF:-1 tvg-name="SSS" tvg-logo="https://logo.catvod.com/SSS.png" group-title="抖音直播",SSS
+https://douyin.kxb.ccwu.cc/douyin?id=480502403271
+#EXTINF:-1 tvg-name="XX" tvg-logo="https://logo.catvod.com/XX.png" group-title="抖音直播",XX
+https://douyin.kxb.ccwu.cc/douyin?id=401978291540
+#EXTINF:-1 tvg-name="小牧" tvg-logo="https://logo.catvod.com/小牧.png" group-title="抖音直播",小牧
+https://douyin.kxb.ccwu.cc/douyin?id=801945431701
+#EXTINF:-1 tvg-name="金涛" tvg-logo="https://logo.catvod.com/金涛.png" group-title="抖音直播",金涛
+https://douyin.kxb.ccwu.cc/douyin?id=620829977401
+#EXTINF:-1 tvg-name="酱油" tvg-logo="https://logo.catvod.com/酱油.png" group-title="抖音直播",酱油
+https://douyin.kxb.ccwu.cc/douyin?id=31539348142
+#EXTINF:-1 tvg-name="TRY人生导师" tvg-logo="https://logo.catvod.com/TRY人生导师.png" group-title="抖音直播",TRY人生导师
+https://douyin.kxb.ccwu.cc/douyin?id=48656747725
+#EXTINF:-1 tvg-name="沈阳夜枫" tvg-logo="https://logo.catvod.com/沈阳夜枫.png" group-title="抖音直播",沈阳夜枫
+https://douyin.kxb.ccwu.cc/douyin?id=704495855450
+#EXTINF:-1 tvg-name="一阵雨" tvg-logo="https://logo.catvod.com/一阵雨.png" group-title="抖音直播",一阵雨
+https://douyin.kxb.ccwu.cc/douyin?id=775263084570
+#EXTINF:-1 tvg-name="小苏菲" tvg-logo="https://logo.catvod.com/小苏菲.png" group-title="抖音直播",小苏菲
+https://douyin.kxb.ccwu.cc/douyin?id=579096174763
+#EXTINF:-1 tvg-name="旭旭宝宝" tvg-logo="https://logo.catvod.com/旭旭宝宝.png" group-title="抖音直播",旭旭宝宝
+https://douyin.kxb.ccwu.cc/douyin?id=660292215268
+#EXTINF:-1 tvg-name="夏法" tvg-logo="https://logo.catvod.com/夏法.png" group-title="抖音直播",夏法
+https://douyin.kxb.ccwu.cc/douyin?id=10272500545
+#EXTINF:-1 tvg-name="大枪炮狗" tvg-logo="https://logo.catvod.com/大枪炮狗.png" group-title="抖音直播",大枪炮狗
+https://douyin.kxb.ccwu.cc/douyin?id=636574749544
+#EXTINF:-1 tvg-name="庄大蹦" tvg-logo="https://logo.catvod.com/庄大蹦.png" group-title="抖音直播",庄大蹦
+https://douyin.kxb.ccwu.cc/douyin?id=824106162650
+#EXTINF:-1 tvg-name="马区" tvg-logo="https://logo.catvod.com/马区.png" group-title="抖音直播",马区
+https://douyin.kxb.ccwu.cc/douyin?id=681873301247
+#EXTINF:-1 tvg-name="温柔" tvg-logo="https://logo.catvod.com/温柔.png" group-title="抖音直播",温柔
+https://douyin.kxb.ccwu.cc/douyin?id=117186899183
+#EXTINF:-1 tvg-name="李永" tvg-logo="https://logo.catvod.com/李永.png" group-title="抖音直播",李永
+https://douyin.kxb.ccwu.cc/douyin?id=521739537052
+#EXTINF:-1 tvg-name="KISS欢" tvg-logo="https://logo.catvod.com/KISS欢.png" group-title="抖音直播",KISS欢
+https://douyin.kxb.ccwu.cc/douyin?id=664687086316
+#EXTINF:-1 tvg-name="糊涂仙" tvg-logo="https://logo.catvod.com/糊涂仙.png" group-title="抖音直播",糊涂仙
+https://douyin.kxb.ccwu.cc/douyin?id=621050798339
+#EXTINF:-1 tvg-name="阿旺" tvg-logo="https://logo.catvod.com/阿旺.png" group-title="抖音直播",阿旺
+https://douyin.kxb.ccwu.cc/douyin?id=14759861745
+#EXTINF:-1 tvg-name="夜风" tvg-logo="https://logo.catvod.com/夜风.png" group-title="抖音直播",夜风
+https://douyin.kxb.ccwu.cc/douyin?id=292171362650
+#EXTINF:-1 tvg-name="肉肉拳" tvg-logo="https://logo.catvod.com/肉肉拳.png" group-title="抖音直播",肉肉拳
+https://douyin.kxb.ccwu.cc/douyin?id=19439956372
+#EXTINF:-1 tvg-name="旋律" tvg-logo="https://logo.catvod.com/旋律.png" group-title="抖音直播",旋律
+https://douyin.kxb.ccwu.cc/douyin?id=47598052880
+#EXTINF:-1 tvg-name="叶修" tvg-logo="https://logo.catvod.com/叶修.png" group-title="抖音直播",叶修
+https://douyin.kxb.ccwu.cc/douyin?id=942140471527
+#EXTINF:-1 tvg-name="小乐" tvg-logo="https://logo.catvod.com/小乐.png" group-title="抖音直播",小乐
+https://douyin.kxb.ccwu.cc/douyin?id=1683721210
+#EXTINF:-1 tvg-name="红领巾" tvg-logo="https://logo.catvod.com/红领巾.png" group-title="抖音直播",红领巾
+https://douyin.kxb.ccwu.cc/douyin?id=338068373467
+#EXTINF:-1 tvg-name="瓜子" tvg-logo="https://logo.catvod.com/瓜子.png" group-title="抖音直播",瓜子
+https://douyin.kxb.ccwu.cc/douyin?id=651319479241
+#EXTINF:-1 tvg-name="夏雫" tvg-logo="https://logo.catvod.com/夏雫.png" group-title="抖音直播",夏雫
+https://douyin.kxb.ccwu.cc/douyin?id=666216419591
+#EXTINF:-1 tvg-name="哈尔滨孟哥" tvg-logo="https://logo.catvod.com/哈尔滨孟哥.png" group-title="抖音直播",哈尔滨孟哥
+https://douyin.kxb.ccwu.cc/douyin?id=458347485074
+#EXTINF:-1 tvg-name="醉逍遥解说" tvg-logo="https://logo.catvod.com/醉逍遥解说.png" group-title="抖音直播",醉逍遥解说
+https://douyin.kxb.ccwu.cc/douyin?id=70364111337
+#EXTINF:-1 tvg-name="坏叉" tvg-logo="https://logo.catvod.com/坏叉.png" group-title="抖音直播",坏叉
+https://douyin.kxb.ccwu.cc/douyin?id=667273243762
+#EXTINF:-1 tvg-name="光明" tvg-logo="https://logo.catvod.com/光明.png" group-title="抖音直播",光明
+https://douyin.kxb.ccwu.cc/douyin?id=761885906943
+#EXTINF:-1 tvg-name="老阴" tvg-logo="https://logo.catvod.com/老阴.png" group-title="抖音直播",老阴
+https://douyin.kxb.ccwu.cc/douyin?id=628827332800
+#EXTINF:-1 tvg-name="瑶瑶" tvg-logo="https://logo.catvod.com/瑶瑶.png" group-title="抖音直播",瑶瑶
+https://douyin.kxb.ccwu.cc/douyin?id=374988533945
+#EXTINF:-1 tvg-name="初一" tvg-logo="https://logo.catvod.com/初一.png" group-title="抖音直播",初一
+https://douyin.kxb.ccwu.cc/douyin?id=65512256021
+#EXTINF:-1 tvg-name="ML107" tvg-logo="https://logo.catvod.com/ML107.png" group-title="抖音直播",ML107
+https://douyin.kxb.ccwu.cc/douyin?id=722716913084
+#EXTINF:-1 tvg-name="忧伤旋律" tvg-logo="https://logo.catvod.com/忧伤旋律.png" group-title="抖音直播",忧伤旋律
+https://douyin.kxb.ccwu.cc/douyin?id=397448677316
+#EXTINF:-1 tvg-name="SSS" tvg-logo="https://logo.catvod.com/SSS.png" group-title="抖音直播",SSS
 http://live.iill.top/douyin.php?id=480502403271
 #EXTINF:-1 tvg-name="XX" tvg-logo="https://logo.catvod.com/XX.png" group-title="抖音直播",XX
 http://live.iill.top/douyin.php?id=401978291540
@@ -2955,298 +3173,6 @@ http://live.iill.top/douyin.php?id=374988533945
 http://live.iill.top/douyin.php?id=65512256021
 #EXTINF:-1 tvg-name="ML107" tvg-logo="https://logo.catvod.com/ML107.png" group-title="抖音直播",ML107
 http://live.iill.top/douyin.php?id=722716913084
-#EXTINF:-1 tvg-name="大马猴世界杯" tvg-logo="https://logo.catvod.com/大马猴世界杯.png" group-title="抖音直播",大马猴世界杯
-http://cfss.cc/cdn/douyin/583088196896
-#EXTINF:-1 tvg-name="SSS" tvg-logo="https://logo.catvod.com/SSS.png" group-title="抖音直播",SSS
-http://cfss.cc/cdn/douyin/480502403271
-#EXTINF:-1 tvg-name="XX" tvg-logo="https://logo.catvod.com/XX.png" group-title="抖音直播",XX
-http://cfss.cc/cdn/douyin/401978291540
-#EXTINF:-1 tvg-name="小牧" tvg-logo="https://logo.catvod.com/小牧.png" group-title="抖音直播",小牧
-http://cfss.cc/cdn/douyin/801945431701
-#EXTINF:-1 tvg-name="金涛" tvg-logo="https://logo.catvod.com/金涛.png" group-title="抖音直播",金涛
-http://cfss.cc/cdn/douyin/620829977401
-#EXTINF:-1 tvg-name="酱油" tvg-logo="https://logo.catvod.com/酱油.png" group-title="抖音直播",酱油
-http://cfss.cc/cdn/douyin/31539348142
-#EXTINF:-1 tvg-name="TRY人生导师" tvg-logo="https://logo.catvod.com/TRY人生导师.png" group-title="抖音直播",TRY人生导师
-http://cfss.cc/cdn/douyin/48656747725
-#EXTINF:-1 tvg-name="凛月月" tvg-logo="https://logo.catvod.com/凛月月.png" group-title="抖音直播",凛月月
-http://cfss.cc/cdn/douyin/812823490073
-#EXTINF:-1 tvg-name="沈阳夜枫" tvg-logo="https://logo.catvod.com/沈阳夜枫.png" group-title="抖音直播",沈阳夜枫
-http://cfss.cc/cdn/douyin/704495855450
-#EXTINF:-1 tvg-name="广西河池" tvg-logo="https://logo.catvod.com/广西河池.png" group-title="抖音直播",广西河池
-http://cfss.cc/cdn/douyin/209814995309
-#EXTINF:-1 tvg-name="一阵雨" tvg-logo="https://logo.catvod.com/一阵雨.png" group-title="抖音直播",一阵雨
-http://cfss.cc/cdn/douyin/775263084570
-#EXTINF:-1 tvg-name="小苏菲" tvg-logo="https://logo.catvod.com/小苏菲.png" group-title="抖音直播",小苏菲
-http://cfss.cc/cdn/douyin/579096174763
-#EXTINF:-1 tvg-name="旭旭宝宝" tvg-logo="https://logo.catvod.com/旭旭宝宝.png" group-title="抖音直播",旭旭宝宝
-http://cfss.cc/cdn/douyin/660292215268
-#EXTINF:-1 tvg-name="夏法" tvg-logo="https://logo.catvod.com/夏法.png" group-title="抖音直播",夏法
-http://cfss.cc/cdn/douyin/10272500545
-#EXTINF:-1 tvg-name="大枪炮狗" tvg-logo="https://logo.catvod.com/大枪炮狗.png" group-title="抖音直播",大枪炮狗
-http://cfss.cc/cdn/douyin/636574749544
-#EXTINF:-1 tvg-name="庄大蹦" tvg-logo="https://logo.catvod.com/庄大蹦.png" group-title="抖音直播",庄大蹦
-http://cfss.cc/cdn/douyin/824106162650
-#EXTINF:-1 tvg-name="马区" tvg-logo="https://logo.catvod.com/马区.png" group-title="抖音直播",马区
-http://cfss.cc/cdn/douyin/681873301247
-#EXTINF:-1 tvg-name="温柔" tvg-logo="https://logo.catvod.com/温柔.png" group-title="抖音直播",温柔
-http://cfss.cc/cdn/douyin/117186899183
-#EXTINF:-1 tvg-name="李永" tvg-logo="https://logo.catvod.com/李永.png" group-title="抖音直播",李永
-http://cfss.cc/cdn/douyin/521739537052
-#EXTINF:-1 tvg-name="KISS欢" tvg-logo="https://logo.catvod.com/KISS欢.png" group-title="抖音直播",KISS欢
-http://cfss.cc/cdn/douyin/664687086316
-#EXTINF:-1 tvg-name="糊涂仙" tvg-logo="https://logo.catvod.com/糊涂仙.png" group-title="抖音直播",糊涂仙
-http://cfss.cc/cdn/douyin/621050798339
-#EXTINF:-1 tvg-name="阿旺" tvg-logo="https://logo.catvod.com/阿旺.png" group-title="抖音直播",阿旺
-http://cfss.cc/cdn/douyin/14759861745
-#EXTINF:-1 tvg-name="夜风" tvg-logo="https://logo.catvod.com/夜风.png" group-title="抖音直播",夜风
-http://cfss.cc/cdn/douyin/292171362650
-#EXTINF:-1 tvg-name="肉肉拳" tvg-logo="https://logo.catvod.com/肉肉拳.png" group-title="抖音直播",肉肉拳
-http://cfss.cc/cdn/douyin/19439956372
-#EXTINF:-1 tvg-name="旋律" tvg-logo="https://logo.catvod.com/旋律.png" group-title="抖音直播",旋律
-http://cfss.cc/cdn/douyin/47598052880
-#EXTINF:-1 tvg-name="叶修" tvg-logo="https://logo.catvod.com/叶修.png" group-title="抖音直播",叶修
-http://cfss.cc/cdn/douyin/942140471527
-#EXTINF:-1 tvg-name="小乐" tvg-logo="https://logo.catvod.com/小乐.png" group-title="抖音直播",小乐
-http://cfss.cc/cdn/douyin/1683721210
-#EXTINF:-1 tvg-name="红领巾" tvg-logo="https://logo.catvod.com/红领巾.png" group-title="抖音直播",红领巾
-http://cfss.cc/cdn/douyin/338068373467
-#EXTINF:-1 tvg-name="瓜子" tvg-logo="https://logo.catvod.com/瓜子.png" group-title="抖音直播",瓜子
-http://cfss.cc/cdn/douyin/651319479241
-#EXTINF:-1 tvg-name="夏雫" tvg-logo="https://logo.catvod.com/夏雫.png" group-title="抖音直播",夏雫
-http://cfss.cc/cdn/douyin/666216419591
-#EXTINF:-1 tvg-name="哈尔滨孟哥" tvg-logo="https://logo.catvod.com/哈尔滨孟哥.png" group-title="抖音直播",哈尔滨孟哥
-http://cfss.cc/cdn/douyin/458347485074
-#EXTINF:-1 tvg-name="醉逍遥解说" tvg-logo="https://logo.catvod.com/醉逍遥解说.png" group-title="抖音直播",醉逍遥解说
-http://cfss.cc/cdn/douyin/70364111337
-#EXTINF:-1 tvg-name="坏叉" tvg-logo="https://logo.catvod.com/坏叉.png" group-title="抖音直播",坏叉
-http://cfss.cc/cdn/douyin/667273243762
-#EXTINF:-1 tvg-name="光明" tvg-logo="https://logo.catvod.com/光明.png" group-title="抖音直播",光明
-http://cfss.cc/cdn/douyin/761885906943
-#EXTINF:-1 tvg-name="老阴" tvg-logo="https://logo.catvod.com/老阴.png" group-title="抖音直播",老阴
-http://cfss.cc/cdn/douyin/628827332800
-#EXTINF:-1 tvg-name="瑶瑶" tvg-logo="https://logo.catvod.com/瑶瑶.png" group-title="抖音直播",瑶瑶
-http://cfss.cc/cdn/douyin/374988533945
-#EXTINF:-1 tvg-name="初一" tvg-logo="https://logo.catvod.com/初一.png" group-title="抖音直播",初一
-http://cfss.cc/cdn/douyin/65512256021
-#EXTINF:-1 tvg-name="ML107" tvg-logo="https://logo.catvod.com/ML107.png" group-title="抖音直播",ML107
-http://cfss.cc/cdn/douyin/722716913084
-#EXTINF:-1 tvg-name="SSS" tvg-logo="https://logo.catvod.com/SSS.png" group-title="抖音直播",SSS
-http://allinone.netsite.cc/douyin/480502403271
-#EXTINF:-1 tvg-name="XX" tvg-logo="https://logo.catvod.com/XX.png" group-title="抖音直播",XX
-http://allinone.netsite.cc/douyin/401978291540
-#EXTINF:-1 tvg-name="小牧" tvg-logo="https://logo.catvod.com/小牧.png" group-title="抖音直播",小牧
-http://allinone.netsite.cc/douyin/801945431701
-#EXTINF:-1 tvg-name="金涛" tvg-logo="https://logo.catvod.com/金涛.png" group-title="抖音直播",金涛
-http://allinone.netsite.cc/douyin/620829977401
-#EXTINF:-1 tvg-name="酱油" tvg-logo="https://logo.catvod.com/酱油.png" group-title="抖音直播",酱油
-http://allinone.netsite.cc/douyin/31539348142
-#EXTINF:-1 tvg-name="TRY人生导师" tvg-logo="https://logo.catvod.com/TRY人生导师.png" group-title="抖音直播",TRY人生导师
-http://allinone.netsite.cc/douyin/48656747725
-#EXTINF:-1 tvg-name="沈阳夜枫" tvg-logo="https://logo.catvod.com/沈阳夜枫.png" group-title="抖音直播",沈阳夜枫
-http://allinone.netsite.cc/douyin/704495855450
-#EXTINF:-1 tvg-name="广西河池" tvg-logo="https://logo.catvod.com/广西河池.png" group-title="抖音直播",广西河池
-http://allinone.netsite.cc/douyin/209814995309
-#EXTINF:-1 tvg-name="一阵雨" tvg-logo="https://logo.catvod.com/一阵雨.png" group-title="抖音直播",一阵雨
-http://allinone.netsite.cc/douyin/775263084570
-#EXTINF:-1 tvg-name="小苏菲" tvg-logo="https://logo.catvod.com/小苏菲.png" group-title="抖音直播",小苏菲
-http://allinone.netsite.cc/douyin/579096174763
-#EXTINF:-1 tvg-name="旭旭宝宝" tvg-logo="https://logo.catvod.com/旭旭宝宝.png" group-title="抖音直播",旭旭宝宝
-http://allinone.netsite.cc/douyin/660292215268
-#EXTINF:-1 tvg-name="夏法" tvg-logo="https://logo.catvod.com/夏法.png" group-title="抖音直播",夏法
-http://allinone.netsite.cc/douyin/10272500545
-#EXTINF:-1 tvg-name="大枪炮狗" tvg-logo="https://logo.catvod.com/大枪炮狗.png" group-title="抖音直播",大枪炮狗
-http://allinone.netsite.cc/douyin/636574749544
-#EXTINF:-1 tvg-name="庄大蹦" tvg-logo="https://logo.catvod.com/庄大蹦.png" group-title="抖音直播",庄大蹦
-http://allinone.netsite.cc/douyin/824106162650
-#EXTINF:-1 tvg-name="马区" tvg-logo="https://logo.catvod.com/马区.png" group-title="抖音直播",马区
-http://allinone.netsite.cc/douyin/681873301247
-#EXTINF:-1 tvg-name="温柔" tvg-logo="https://logo.catvod.com/温柔.png" group-title="抖音直播",温柔
-http://allinone.netsite.cc/douyin/117186899183
-#EXTINF:-1 tvg-name="李永" tvg-logo="https://logo.catvod.com/李永.png" group-title="抖音直播",李永
-http://allinone.netsite.cc/douyin/521739537052
-#EXTINF:-1 tvg-name="KISS欢" tvg-logo="https://logo.catvod.com/KISS欢.png" group-title="抖音直播",KISS欢
-http://allinone.netsite.cc/douyin/664687086316
-#EXTINF:-1 tvg-name="糊涂仙" tvg-logo="https://logo.catvod.com/糊涂仙.png" group-title="抖音直播",糊涂仙
-http://allinone.netsite.cc/douyin/621050798339
-#EXTINF:-1 tvg-name="阿旺" tvg-logo="https://logo.catvod.com/阿旺.png" group-title="抖音直播",阿旺
-http://allinone.netsite.cc/douyin/14759861745
-#EXTINF:-1 tvg-name="夜风" tvg-logo="https://logo.catvod.com/夜风.png" group-title="抖音直播",夜风
-http://allinone.netsite.cc/douyin/292171362650
-#EXTINF:-1 tvg-name="肉肉拳" tvg-logo="https://logo.catvod.com/肉肉拳.png" group-title="抖音直播",肉肉拳
-http://allinone.netsite.cc/douyin/19439956372
-#EXTINF:-1 tvg-name="旋律" tvg-logo="https://logo.catvod.com/旋律.png" group-title="抖音直播",旋律
-http://allinone.netsite.cc/douyin/47598052880
-#EXTINF:-1 tvg-name="叶修" tvg-logo="https://logo.catvod.com/叶修.png" group-title="抖音直播",叶修
-http://allinone.netsite.cc/douyin/942140471527
-#EXTINF:-1 tvg-name="小乐" tvg-logo="https://logo.catvod.com/小乐.png" group-title="抖音直播",小乐
-http://allinone.netsite.cc/douyin/1683721210
-#EXTINF:-1 tvg-name="红领巾" tvg-logo="https://logo.catvod.com/红领巾.png" group-title="抖音直播",红领巾
-http://allinone.netsite.cc/douyin/338068373467
-#EXTINF:-1 tvg-name="瓜子" tvg-logo="https://logo.catvod.com/瓜子.png" group-title="抖音直播",瓜子
-http://allinone.netsite.cc/douyin/651319479241
-#EXTINF:-1 tvg-name="夏雫" tvg-logo="https://logo.catvod.com/夏雫.png" group-title="抖音直播",夏雫
-http://allinone.netsite.cc/douyin/666216419591
-#EXTINF:-1 tvg-name="哈尔滨孟哥" tvg-logo="https://logo.catvod.com/哈尔滨孟哥.png" group-title="抖音直播",哈尔滨孟哥
-http://allinone.netsite.cc/douyin/458347485074
-#EXTINF:-1 tvg-name="醉逍遥解说" tvg-logo="https://logo.catvod.com/醉逍遥解说.png" group-title="抖音直播",醉逍遥解说
-http://allinone.netsite.cc/douyin/70364111337
-#EXTINF:-1 tvg-name="坏叉" tvg-logo="https://logo.catvod.com/坏叉.png" group-title="抖音直播",坏叉
-http://allinone.netsite.cc/douyin/667273243762
-#EXTINF:-1 tvg-name="光明" tvg-logo="https://logo.catvod.com/光明.png" group-title="抖音直播",光明
-http://allinone.netsite.cc/douyin/761885906943
-#EXTINF:-1 tvg-name="老阴" tvg-logo="https://logo.catvod.com/老阴.png" group-title="抖音直播",老阴
-http://allinone.netsite.cc/douyin/628827332800
-#EXTINF:-1 tvg-name="捏哥" tvg-logo="https://logo.catvod.com/捏哥.png" group-title="抖音直播",捏哥
-http://allinone.netsite.cc/douyin/660887327824
-#EXTINF:-1 tvg-name="瑶瑶" tvg-logo="https://logo.catvod.com/瑶瑶.png" group-title="抖音直播",瑶瑶
-http://allinone.netsite.cc/douyin/374988533945
-#EXTINF:-1 tvg-name="初一" tvg-logo="https://logo.catvod.com/初一.png" group-title="抖音直播",初一
-http://allinone.netsite.cc/douyin/65512256021
-#EXTINF:-1 tvg-name="ML107" tvg-logo="https://logo.catvod.com/ML107.png" group-title="抖音直播",ML107
-http://allinone.netsite.cc/douyin/722716913084
-#EXTINF:-1 tvg-name="SSS" tvg-logo="https://logo.catvod.com/SSS.png" group-title="抖音直播",SSS
-http://120.77.28.4:8648/douyin/480502403271
-#EXTINF:-1 tvg-name="XX" tvg-logo="https://logo.catvod.com/XX.png" group-title="抖音直播",XX
-http://120.77.28.4:8648/douyin/401978291540
-#EXTINF:-1 tvg-name="小牧" tvg-logo="https://logo.catvod.com/小牧.png" group-title="抖音直播",小牧
-http://120.77.28.4:8648/douyin/801945431701
-#EXTINF:-1 tvg-name="金涛" tvg-logo="https://logo.catvod.com/金涛.png" group-title="抖音直播",金涛
-http://120.77.28.4:8648/douyin/620829977401
-#EXTINF:-1 tvg-name="酱油" tvg-logo="https://logo.catvod.com/酱油.png" group-title="抖音直播",酱油
-http://120.77.28.4:8648/douyin/31539348142
-#EXTINF:-1 tvg-name="TRY人生导师" tvg-logo="https://logo.catvod.com/TRY人生导师.png" group-title="抖音直播",TRY人生导师
-http://120.77.28.4:8648/douyin/48656747725
-#EXTINF:-1 tvg-name="沈阳夜枫" tvg-logo="https://logo.catvod.com/沈阳夜枫.png" group-title="抖音直播",沈阳夜枫
-http://120.77.28.4:8648/douyin/704495855450
-#EXTINF:-1 tvg-name="广西河池" tvg-logo="https://logo.catvod.com/广西河池.png" group-title="抖音直播",广西河池
-http://120.77.28.4:8648/douyin/209814995309
-#EXTINF:-1 tvg-name="一阵雨" tvg-logo="https://logo.catvod.com/一阵雨.png" group-title="抖音直播",一阵雨
-http://120.77.28.4:8648/douyin/775263084570
-#EXTINF:-1 tvg-name="小苏菲" tvg-logo="https://logo.catvod.com/小苏菲.png" group-title="抖音直播",小苏菲
-http://120.77.28.4:8648/douyin/579096174763
-#EXTINF:-1 tvg-name="旭旭宝宝" tvg-logo="https://logo.catvod.com/旭旭宝宝.png" group-title="抖音直播",旭旭宝宝
-http://120.77.28.4:8648/douyin/660292215268
-#EXTINF:-1 tvg-name="夏法" tvg-logo="https://logo.catvod.com/夏法.png" group-title="抖音直播",夏法
-http://120.77.28.4:8648/douyin/10272500545
-#EXTINF:-1 tvg-name="大枪炮狗" tvg-logo="https://logo.catvod.com/大枪炮狗.png" group-title="抖音直播",大枪炮狗
-http://120.77.28.4:8648/douyin/636574749544
-#EXTINF:-1 tvg-name="庄大蹦" tvg-logo="https://logo.catvod.com/庄大蹦.png" group-title="抖音直播",庄大蹦
-http://120.77.28.4:8648/douyin/824106162650
-#EXTINF:-1 tvg-name="马区" tvg-logo="https://logo.catvod.com/马区.png" group-title="抖音直播",马区
-http://120.77.28.4:8648/douyin/681873301247
-#EXTINF:-1 tvg-name="温柔" tvg-logo="https://logo.catvod.com/温柔.png" group-title="抖音直播",温柔
-http://120.77.28.4:8648/douyin/117186899183
-#EXTINF:-1 tvg-name="李永" tvg-logo="https://logo.catvod.com/李永.png" group-title="抖音直播",李永
-http://120.77.28.4:8648/douyin/521739537052
-#EXTINF:-1 tvg-name="KISS欢" tvg-logo="https://logo.catvod.com/KISS欢.png" group-title="抖音直播",KISS欢
-http://120.77.28.4:8648/douyin/664687086316
-#EXTINF:-1 tvg-name="糊涂仙" tvg-logo="https://logo.catvod.com/糊涂仙.png" group-title="抖音直播",糊涂仙
-http://120.77.28.4:8648/douyin/621050798339
-#EXTINF:-1 tvg-name="阿旺" tvg-logo="https://logo.catvod.com/阿旺.png" group-title="抖音直播",阿旺
-http://120.77.28.4:8648/douyin/14759861745
-#EXTINF:-1 tvg-name="夜风" tvg-logo="https://logo.catvod.com/夜风.png" group-title="抖音直播",夜风
-http://120.77.28.4:8648/douyin/292171362650
-#EXTINF:-1 tvg-name="肉肉拳" tvg-logo="https://logo.catvod.com/肉肉拳.png" group-title="抖音直播",肉肉拳
-http://120.77.28.4:8648/douyin/19439956372
-#EXTINF:-1 tvg-name="旋律" tvg-logo="https://logo.catvod.com/旋律.png" group-title="抖音直播",旋律
-http://120.77.28.4:8648/douyin/47598052880
-#EXTINF:-1 tvg-name="叶修" tvg-logo="https://logo.catvod.com/叶修.png" group-title="抖音直播",叶修
-http://120.77.28.4:8648/douyin/942140471527
-#EXTINF:-1 tvg-name="小乐" tvg-logo="https://logo.catvod.com/小乐.png" group-title="抖音直播",小乐
-http://120.77.28.4:8648/douyin/1683721210
-#EXTINF:-1 tvg-name="红领巾" tvg-logo="https://logo.catvod.com/红领巾.png" group-title="抖音直播",红领巾
-http://120.77.28.4:8648/douyin/338068373467
-#EXTINF:-1 tvg-name="瓜子" tvg-logo="https://logo.catvod.com/瓜子.png" group-title="抖音直播",瓜子
-http://120.77.28.4:8648/douyin/651319479241
-#EXTINF:-1 tvg-name="夏雫" tvg-logo="https://logo.catvod.com/夏雫.png" group-title="抖音直播",夏雫
-http://120.77.28.4:8648/douyin/666216419591
-#EXTINF:-1 tvg-name="哈尔滨孟哥" tvg-logo="https://logo.catvod.com/哈尔滨孟哥.png" group-title="抖音直播",哈尔滨孟哥
-http://120.77.28.4:8648/douyin/458347485074
-#EXTINF:-1 tvg-name="醉逍遥解说" tvg-logo="https://logo.catvod.com/醉逍遥解说.png" group-title="抖音直播",醉逍遥解说
-http://120.77.28.4:8648/douyin/70364111337
-#EXTINF:-1 tvg-name="坏叉" tvg-logo="https://logo.catvod.com/坏叉.png" group-title="抖音直播",坏叉
-http://120.77.28.4:8648/douyin/667273243762
-#EXTINF:-1 tvg-name="光明" tvg-logo="https://logo.catvod.com/光明.png" group-title="抖音直播",光明
-http://120.77.28.4:8648/douyin/761885906943
-#EXTINF:-1 tvg-name="老阴" tvg-logo="https://logo.catvod.com/老阴.png" group-title="抖音直播",老阴
-http://120.77.28.4:8648/douyin/628827332800
-#EXTINF:-1 tvg-name="瑶瑶" tvg-logo="https://logo.catvod.com/瑶瑶.png" group-title="抖音直播",瑶瑶
-http://120.77.28.4:8648/douyin/374988533945
-#EXTINF:-1 tvg-name="初一" tvg-logo="https://logo.catvod.com/初一.png" group-title="抖音直播",初一
-http://120.77.28.4:8648/douyin/65512256021
-#EXTINF:-1 tvg-name="ML107" tvg-logo="https://logo.catvod.com/ML107.png" group-title="抖音直播",ML107
-http://120.77.28.4:8648/douyin/722716913084
-#EXTINF:-1 tvg-name="SSS" tvg-logo="https://logo.catvod.com/SSS.png" group-title="抖音直播",SSS
-http://live.metshop.top/douyin/480502403271
-#EXTINF:-1 tvg-name="XX" tvg-logo="https://logo.catvod.com/XX.png" group-title="抖音直播",XX
-http://live.metshop.top/douyin/401978291540
-#EXTINF:-1 tvg-name="小牧" tvg-logo="https://logo.catvod.com/小牧.png" group-title="抖音直播",小牧
-http://live.metshop.top/douyin/801945431701
-#EXTINF:-1 tvg-name="金涛" tvg-logo="https://logo.catvod.com/金涛.png" group-title="抖音直播",金涛
-http://live.metshop.top/douyin/620829977401
-#EXTINF:-1 tvg-name="酱油" tvg-logo="https://logo.catvod.com/酱油.png" group-title="抖音直播",酱油
-http://live.metshop.top/douyin/31539348142
-#EXTINF:-1 tvg-name="TRY人生导师" tvg-logo="https://logo.catvod.com/TRY人生导师.png" group-title="抖音直播",TRY人生导师
-http://live.metshop.top/douyin/48656747725
-#EXTINF:-1 tvg-name="沈阳夜枫" tvg-logo="https://logo.catvod.com/沈阳夜枫.png" group-title="抖音直播",沈阳夜枫
-http://live.metshop.top/douyin/704495855450
-#EXTINF:-1 tvg-name="一阵雨" tvg-logo="https://logo.catvod.com/一阵雨.png" group-title="抖音直播",一阵雨
-http://live.metshop.top/douyin/775263084570
-#EXTINF:-1 tvg-name="小苏菲" tvg-logo="https://logo.catvod.com/小苏菲.png" group-title="抖音直播",小苏菲
-http://live.metshop.top/douyin/579096174763
-#EXTINF:-1 tvg-name="旭旭宝宝" tvg-logo="https://logo.catvod.com/旭旭宝宝.png" group-title="抖音直播",旭旭宝宝
-http://live.metshop.top/douyin/660292215268
-#EXTINF:-1 tvg-name="夏法" tvg-logo="https://logo.catvod.com/夏法.png" group-title="抖音直播",夏法
-http://live.metshop.top/douyin/10272500545
-#EXTINF:-1 tvg-name="大枪炮狗" tvg-logo="https://logo.catvod.com/大枪炮狗.png" group-title="抖音直播",大枪炮狗
-http://live.metshop.top/douyin/636574749544
-#EXTINF:-1 tvg-name="庄大蹦" tvg-logo="https://logo.catvod.com/庄大蹦.png" group-title="抖音直播",庄大蹦
-http://live.metshop.top/douyin/824106162650
-#EXTINF:-1 tvg-name="马区" tvg-logo="https://logo.catvod.com/马区.png" group-title="抖音直播",马区
-http://live.metshop.top/douyin/681873301247
-#EXTINF:-1 tvg-name="温柔" tvg-logo="https://logo.catvod.com/温柔.png" group-title="抖音直播",温柔
-http://live.metshop.top/douyin/117186899183
-#EXTINF:-1 tvg-name="李永" tvg-logo="https://logo.catvod.com/李永.png" group-title="抖音直播",李永
-http://live.metshop.top/douyin/521739537052
-#EXTINF:-1 tvg-name="KISS欢" tvg-logo="https://logo.catvod.com/KISS欢.png" group-title="抖音直播",KISS欢
-http://live.metshop.top/douyin/664687086316
-#EXTINF:-1 tvg-name="糊涂仙" tvg-logo="https://logo.catvod.com/糊涂仙.png" group-title="抖音直播",糊涂仙
-http://live.metshop.top/douyin/621050798339
-#EXTINF:-1 tvg-name="阿旺" tvg-logo="https://logo.catvod.com/阿旺.png" group-title="抖音直播",阿旺
-http://live.metshop.top/douyin/14759861745
-#EXTINF:-1 tvg-name="夜风" tvg-logo="https://logo.catvod.com/夜风.png" group-title="抖音直播",夜风
-http://live.metshop.top/douyin/292171362650
-#EXTINF:-1 tvg-name="肉肉拳" tvg-logo="https://logo.catvod.com/肉肉拳.png" group-title="抖音直播",肉肉拳
-http://live.metshop.top/douyin/19439956372
-#EXTINF:-1 tvg-name="旋律" tvg-logo="https://logo.catvod.com/旋律.png" group-title="抖音直播",旋律
-http://live.metshop.top/douyin/47598052880
-#EXTINF:-1 tvg-name="叶修" tvg-logo="https://logo.catvod.com/叶修.png" group-title="抖音直播",叶修
-http://live.metshop.top/douyin/942140471527
-#EXTINF:-1 tvg-name="小乐" tvg-logo="https://logo.catvod.com/小乐.png" group-title="抖音直播",小乐
-http://live.metshop.top/douyin/1683721210
-#EXTINF:-1 tvg-name="红领巾" tvg-logo="https://logo.catvod.com/红领巾.png" group-title="抖音直播",红领巾
-http://live.metshop.top/douyin/338068373467
-#EXTINF:-1 tvg-name="瓜子" tvg-logo="https://logo.catvod.com/瓜子.png" group-title="抖音直播",瓜子
-http://live.metshop.top/douyin/651319479241
-#EXTINF:-1 tvg-name="夏雫" tvg-logo="https://logo.catvod.com/夏雫.png" group-title="抖音直播",夏雫
-http://live.metshop.top/douyin/666216419591
-#EXTINF:-1 tvg-name="哈尔滨孟哥" tvg-logo="https://logo.catvod.com/哈尔滨孟哥.png" group-title="抖音直播",哈尔滨孟哥
-http://live.metshop.top/douyin/458347485074
-#EXTINF:-1 tvg-name="醉逍遥解说" tvg-logo="https://logo.catvod.com/醉逍遥解说.png" group-title="抖音直播",醉逍遥解说
-http://live.metshop.top/douyin/70364111337
-#EXTINF:-1 tvg-name="坏叉" tvg-logo="https://logo.catvod.com/坏叉.png" group-title="抖音直播",坏叉
-http://live.metshop.top/douyin/667273243762
-#EXTINF:-1 tvg-name="光明" tvg-logo="https://logo.catvod.com/光明.png" group-title="抖音直播",光明
-http://live.metshop.top/douyin/761885906943
-#EXTINF:-1 tvg-name="老阴" tvg-logo="https://logo.catvod.com/老阴.png" group-title="抖音直播",老阴
-http://live.metshop.top/douyin/628827332800
-#EXTINF:-1 tvg-name="瑶瑶" tvg-logo="https://logo.catvod.com/瑶瑶.png" group-title="抖音直播",瑶瑶
-http://live.metshop.top/douyin/374988533945
-#EXTINF:-1 tvg-name="初一" tvg-logo="https://logo.catvod.com/初一.png" group-title="抖音直播",初一
-http://live.metshop.top/douyin/65512256021
-#EXTINF:-1 tvg-name="ML107" tvg-logo="https://logo.catvod.com/ML107.png" group-title="抖音直播",ML107
-http://live.metshop.top/douyin/722716913084
 #EXTINF:-1 tvg-name="寅子" tvg-logo="https://logo.catvod.com/寅子.png" group-title="斗鱼直播",寅子
 http://douyu.kxb.ccwu.cc/71415
 #EXTINF:-1 tvg-name="小表哥" tvg-logo="https://logo.catvod.com/小表哥.png" group-title="斗鱼直播",小表哥
