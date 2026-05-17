@@ -1790,6 +1790,7 @@ ET,http://douyu.kxb.ccwu.cc/73639
 游钓中国李大毛,http://douyu.kxb.ccwu.cc/791411
 老高与小茉,http://douyu.kxb.ccwu.cc/838632
 F1方程式,http://douyu.kxb.ccwu.cc/4050212
+赛车比赛(虎牙),http://huya.kxb.ccwu.cc/30907109
 曼岛TT-1,http://dns.yiandrive.com:15907/huya/19197407
 曼岛TT-2,http://dns.yiandrive.com:15907/huya/25813084
 ARRC摩托车,http://dns.yiandrive.com:15907/huya/880215
@@ -1943,25 +1944,25 @@ Angela小兔,http://douyu.kxb.ccwu.cc/9617766
 
 
 B站直播,#genre#
-成都杰娃,https://bz.kxb.ccwu.cc/b_worker?id=7972139
-我被美女包围了,https://bz.kxb.ccwu.cc/b_worker?id=1729696274
-老孤独,https://bz.kxb.ccwu.cc/b_worker?id=24172836
-远古时代装机猿,https://bz.kxb.ccwu.cc/b_worker?id=1361615
-青铜树海,https://bz.kxb.ccwu.cc/b_worker?id=1774678
-拳皇98c由小稳,https://bz.kxb.ccwu.cc/b_worker?id=24888115
-火炬之光白神,https://bz.kxb.ccwu.cc/b_worker?id=32592475
-鬼叔黍,https://bz.kxb.ccwu.cc/b_worker?id=999
-真栗,https://bz.kxb.ccwu.cc/b_worker?id=883263
-离枯Starry,https://bz.kxb.ccwu.cc/b_worker?id=4108396
-CS2-德云两鬼,https://bz.kxb.ccwu.cc/b_worker?id=22889518
-CS2-老懂哥,https://bz.kxb.ccwu.cc/b_worker?id=21674333
-CS2-官方赛事,https://bz.kxb.ccwu.cc/b_worker?id=35
-CS2,https://bz.kxb.ccwu.cc/b_worker?id=21622811
-坂井泉水,https://bz.kxb.ccwu.cc/b_worker?id=25392874
-一条小糖糖,https://bz.kxb.ccwu.cc/b_worker?id=52032
-灌注大白菜,https://bz.kxb.ccwu.cc/b_worker?id=32232237
-萤火虫漫展,https://bz.kxb.ccwu.cc/b_worker?id=52233204
-UFC,https://bz.kxb.ccwu.cc/b_worker?id=22029845
+成都杰娃,https://live.bilibilix.com/7972139
+我被美女包围了,https://live.bilibilix.com/1729696274
+老孤独,https://live.bilibilix.com/24172836
+远古时代装机猿,https://live.bilibilix.com/1361615
+青铜树海,https://live.bilibilix.com/1774678
+拳皇98c由小稳,https://live.bilibilix.com/24888115
+火炬之光白神,https://live.bilibilix.com/32592475
+鬼叔黍,https://live.bilibilix.com/999
+真栗,https://live.bilibilix.com/883263
+离枯Starry,https://live.bilibilix.com/4108396
+CS2-德云两鬼,https://live.bilibilix.com/22889518
+CS2-老懂哥,https://live.bilibilix.com/21674333
+CS2-官方赛事,https://live.bilibilix.com/35
+CS2,https://live.bilibilix.com/21622811
+坂井泉水,https://live.bilibilix.com/25392874
+一条小糖糖,https://live.bilibilix.com/52032
+灌注大白菜,https://live.bilibilix.com/32232237
+萤火虫漫展,https://live.bilibilix.com/52233204
+UFC,https://live.bilibilix.com/22029845
 
 
 直播中国,#genre#
