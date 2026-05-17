@@ -1790,7 +1790,7 @@ ET,http://douyu.kxb.ccwu.cc/73639
 游钓中国李大毛,http://douyu.kxb.ccwu.cc/791411
 老高与小茉,http://douyu.kxb.ccwu.cc/838632
 F1方程式,http://douyu.kxb.ccwu.cc/4050212
-赛车比赛(虎牙),http://huya.kxb.ccwu.cc/30907109
+赛车比赛(虎牙),http://huya.kxb.ccwu.cc/?id=30907109
 曼岛TT-1,http://dns.yiandrive.com:15907/huya/19197407
 曼岛TT-2,http://dns.yiandrive.com:15907/huya/25813084
 ARRC摩托车,http://dns.yiandrive.com:15907/huya/880215
